@@ -1,0 +1,370 @@
+Quick-Cocos2d-x C++ support ready.
+
+Get data from file(C:\WorkSpace\cocos2dx\v3quick\quick\lib\framework_precompiled\framework_precompiled.zip) failed, error code is 3
+
+lua_loadChunksFromZIP() - not found or invalid zip file: C:\WorkSpace\cocos2dx\v3quick\quick\lib\framework_precompiled\framework_precompiled.zip
+
+------------------------------------------------
+
+LOAD LUA FILE: C:/WorkSpace/FTGEditor/src/main.lua
+
+------------------------------------------------
+
+[LUA-print] ===========================================================
+
+[LUA-print]               LOAD QUICK FRAMEWORK
+
+[LUA-print] ===========================================================
+
+[LUA-print] [INFO] 
+
+[LUA-print] [INFO] # DEBUG                        = 2
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # device.platform              = windows
+
+[LUA-print] [INFO] # device.model                 = unknown
+
+[LUA-print] [INFO] # device.language              = cn
+
+[LUA-print] [INFO] # device.writablePath          = C:\WorkSpace\FTGEditor\
+
+[LUA-print] [INFO] # device.directorySeparator    = \
+
+[LUA-print] [INFO] # device.pathSeparator         = ;
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_WIDTH
+
+[LUA-print] [INFO] # CONFIG_SCREEN_WIDTH          = 960.00
+
+[LUA-print] [INFO] # CONFIG_SCREEN_HEIGHT         = 640.00
+
+[LUA-print] [INFO] # display.widthInPixels        = 960.00
+
+[LUA-print] [INFO] # display.heightInPixels       = 640.00
+
+[LUA-print] [INFO] # display.contentScaleFactor   = 1.00
+
+[LUA-print] [INFO] # display.width                = 960.00
+
+[LUA-print] [INFO] # display.height               = 640.00
+
+[LUA-print] [INFO] # display.cx                   = 480.00
+
+[LUA-print] [INFO] # display.cy                   = 320.00
+
+[LUA-print] [INFO] # display.left                 = 0.00
+
+[LUA-print] [INFO] # display.right                = 960.00
+
+[LUA-print] [INFO] # display.top                  = 640.00
+
+[LUA-print] [INFO] # display.bottom               = 0.00
+
+[LUA-print] [INFO] # display.c_left               = -480.00
+
+[LUA-print] [INFO] # display.c_right              = 480.00
+
+[LUA-print] [INFO] # display.c_top                = 320.00
+
+[LUA-print] [INFO] # display.c_bottom             = -320.00
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] userdata: 08282A50 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 05400420 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 05400420 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 05400420 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 0848F170 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 0848F170 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 0848F170 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 084905F8 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 084905F8 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 084905F8 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 08491A80 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 08491A80 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 08491A80 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 08492F08 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 08492F08 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 08492F08 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 084943D8 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 084943D8 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 084943D8 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 08495860 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 08495860 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 08495860 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 08496CA0 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 08496CA0 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 08496CA0 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 08498128 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 08498128 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 08498128 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 084995B0 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 084995B0 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 084995B0 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 0849AA38 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 0849AA38 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 0849AA38 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 0849BEC0 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 0849BEC0 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 0849BEC0 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 0849D348 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 0849D348 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 0849D348 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 0849E7D0 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 0849E7D0 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 0849E7D0 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 0849FC58 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 0849FC58 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 0849FC58 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 084A10E0 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 084A10E0 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 084A10E0 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 084A2568 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 084A2568 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 084A2568 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 084A39F0 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 084A39F0 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 084A39F0 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 084A4E78 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 084A4E78 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 084A4E78 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 084A6300 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 084A6300 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 084A6300 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 084A7788 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 084A7788 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 084A7788 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 084A8C10 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 084A8C10 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 084A8C10 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 084AA098 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 084AA098 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 084AA098 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 084AB520 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 084AB520 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 084AB520 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 084AC9A8 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 084AC9A8 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 084AC9A8 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 08579E50 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 08579E50 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 08579E50 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 0857B2D8 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 0857B2D8 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 0857B2D8 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 0857C760 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 0857C760 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 0857C760 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 0857DBE8 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 0857DBE8 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 0857DBE8 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 0857F070 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 0857F070 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 0857F070 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 085804F8 [EventProtocol] addEventListener() - event: PRESSED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 085804F8 [EventProtocol] addEventListener() - event: RELEASE_EVENT, handle: 2, tag: 
+
+[LUA-print] [INFO] userdata: 085804F8 [EventProtocol] addEventListener() - event: CLICKED_EVENT, handle: 3, tag: 
+
+[LUA-print] [INFO] userdata: 085818F0 [EventProtocol] addEventListener() - event: STATE_CHANGED_EVENT, handle: 1, tag: 
+
+[LUA-print] [INFO] userdata: 05400420 [EventProtocol] dispatchEvent() - event PRESSED_EVENT
+
+[LUA-print] [INFO] userdata: 05400420 [EventProtocol] dispatchEvent() - dispatching event PRESSED_EVENT to listener 1
+
+[LUA-print] [INFO] userdata: 05400420 [EventProtocol] dispatchEvent() - event RELEASE_EVENT
+
+[LUA-print] [INFO] userdata: 05400420 [EventProtocol] dispatchEvent() - dispatching event RELEASE_EVENT to listener 2
+
+[LUA-print] [INFO] userdata: 05400420 [EventProtocol] dispatchEvent() - event CLICKED_EVENT
+
+[LUA-print] [INFO] userdata: 05400420 [EventProtocol] dispatchEvent() - dispatching event CLICKED_EVENT to listener 3
+
+[LUA-print] dump from: [string ".\app/view/FightPanel.lua"]:72: in function 'addRole'
+
+[LUA-print] - "<var>" = {
+
+[LUA-print] -     "boneFile"    = "roles/10001_s.xml"
+
+[LUA-print] -     "id"          = 1
+
+[LUA-print] -     "name"        = "luosir"
+
+[LUA-print] -     "pic"         = "20001.png"
+
+[LUA-print] -     "textureFile" = "roles/10001_t.xml"
+
+[LUA-print] -     "type"        = "Role"
+
+[LUA-print] - }
+
+[LUA-print] [INFO] audio.preloadSound() - filename: sounds/90021.mp3
+
+[LUA-print] [INFO] audio.preloadSound() - filename: sounds/90024.mp3
+
+[LUA-print] [INFO] audio.preloadSound() - filename: sounds/90022.mp3
+
+[LUA-print] [INFO] audio.preloadSound() - filename: sounds/90024.mp3
+
+[LUA-print] [INFO] audio.preloadSound() - filename: sounds/90023.mp3
+
+[LUA-print] [INFO] audio.preloadSound() - filename: sounds/90024.mp3
+
+[LUA-print] [INFO] audio.preloadSound() - filename: sounds/900227.mp3
+
+[LUA-print] [INFO] audio.preloadSound() - filename: sounds/90024.mp3
+
+[LUA-print] [INFO] audio.preloadSound() - filename: sounds/90021.mp3
+
+[LUA-print] [INFO] audio.preloadSound() - filename: sounds/90024.mp3
+
+Node warning: setPhysicsBody sets anchor point to Vec2::ANCHOR_MIDDLE.
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         [LUA-print] [INFO] userdata: 07F233F0 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07F24008 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07F24878 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07F25490 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07F25D00 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07F26918 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07F27188 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07F27DA0 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07F28610 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07F29228 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07F29A98 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07FCE630 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07FCEEA0 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07FCFAB8 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07FD0328 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07FD0F40 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07FD17B0 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07FD23C8 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07FD2C38 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07FD3850 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07FD40C0 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07FD4CD8 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07FD5548 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07FD6160 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07FD6940 [EventProtocol] removeAllEventListeners() - remove all listeners
+
+[LUA-print] [INFO] userdata: 07FD75A0 [EventProtocol] removeAllEventListeners() - remove all listeners
+
