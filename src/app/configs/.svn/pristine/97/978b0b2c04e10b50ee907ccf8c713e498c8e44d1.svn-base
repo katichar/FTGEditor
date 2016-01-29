@@ -1,0 +1,13 @@
+-- 游戏中道具信息
+local item = {}
+
+item[ITEM_TYPE.FOOD]= {
+	[1] = {id=1,name="恢复25% mp",type=ITEM_TYPE.FOOD,image="50111.png",hp=0,mp=0.25},
+	[2] = {id=2,name="恢复25% hp",type=ITEM_TYPE.FOOD,image="50112.png",hp=0.25,mp=0},
+	[3] = {id=3,name="恢复50% hp",type=ITEM_TYPE.FOOD,image="50113.png",hp=0.5,mp=0},
+	[4] = {id=4,name="恢复25% hp和mp",type=ITEM_TYPE.FOOD,image="50114.png",hp=0.25,mp=0.25},
+	[5] = {id=5,name="恢复50% mp",type=ITEM_TYPE.FOOD,image="50118.png",hp=0,mp=0.5},
+}
+
+
+return item

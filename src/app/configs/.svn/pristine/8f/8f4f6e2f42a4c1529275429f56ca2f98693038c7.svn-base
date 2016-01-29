@@ -1,0 +1,33 @@
+-- 游戏所有掉落几率配置
+-- 除固定掉落几率外所有小怪掉落
+local drop = {}
+
+drop[GAME_MODE.EASY] = {
+	minQuality = EQUIP_QUALITY.D,
+	[EQUIP_QUALITY.D] = 10000,
+	[EQUIP_QUALITY.C] = 3000,
+	[EQUIP_QUALITY.B] = 10,
+	[EQUIP_QUALITY.A] = 0,
+	[EQUIP_QUALITY.S] = 0,
+}
+
+drop[GAME_MODE.NORMAL] = {
+	minQuality = EQUIP_QUALITY.D,
+	[EQUIP_QUALITY.D] = 10000,
+	[EQUIP_QUALITY.C] = 5000,
+	[EQUIP_QUALITY.B] = 2000,
+	[EQUIP_QUALITY.A] = 10,
+	[EQUIP_QUALITY.S] = 1,
+}
+
+drop[GAME_MODE.HARD] = {
+	minQuality = nil,
+	[EQUIP_QUALITY.D] = 0,
+	[EQUIP_QUALITY.C] = 0,
+	[EQUIP_QUALITY.B] = 0,
+	[EQUIP_QUALITY.A] = 0,
+	[EQUIP_QUALITY.S] = 0,
+}
+
+
+return drop

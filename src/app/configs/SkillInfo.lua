@@ -1,0 +1,25 @@
+-- 技能配置文件
+
+-- skillid 	技能ID
+-- usertype 	所属玩家类型
+-- damage 		伤害
+-- image 		图片资源
+local data={
+	{skillid=1,name="天龙蹴",usertype=OBJ_TYPE.LUOFEI,locklvl=2,damage=1.5,upvalue=0.1,basemp=20,cd=5,image="50101.png",descr="多段空中连踢并将敌人砸向大地。"},
+	{skillid=2,name="崩山升龙拳",usertype=OBJ_TYPE.LUOFEI,locklvl=4,damage=2,upvalue=0.1,basemp=30,cd=10,image="50102.png",descr="发强力上勾拳使敌人浮空，多段攻击伤害。"},
+	{skillid=3,name="音速爆破",usertype=OBJ_TYPE.LUOFEI,locklvl=6,damage=2.5,upvalue=0.1,basemp=30,cd=20,image="50103.png",descr="快速连续给予敌人多段致命拳击。"},
+	{skillid=4,name="击炮烈风杀",usertype=OBJ_TYPE.LUOFEI,locklvl=10,damage=3.5,upvalue=0.1,basemp=40,cd=30,image="50104.png",descr="多重连续技攻击，幻影般的身法毁灭对手。"},
+	{skillid=5,name="血月突",usertype=OBJ_TYPE.JIANYUN,locklvl=2,damage=1.5,upvalue=0.1,basemp=20,cd=5,image="50106.png",descr="刀光突进，利刃前行。"},
+	{skillid=6,name="追风连刃斩",usertype=OBJ_TYPE.JIANYUN,locklvl=4,damage=2,upvalue=0.1,basemp=20,cd=10,image="50107.png",descr="强力剑气远程摧毁敌人。"},
+	{skillid=7,name="胧影连讨",usertype=OBJ_TYPE.JIANYUN,locklvl=6,damage=2.5,upvalue=0.1,basemp=40,cd=10,image="50108.png",descr="将敌人挑至空中，施展华丽的多段攻击。"},
+	{skillid=8,name="束风",usertype=OBJ_TYPE.JIANYUN,locklvl=10,damage=3.5,upvalue=0.1,basemp=50,cd=30,image="50109.png",descr="连续刀锋裹挟对手，地面到空中，至死不休。"},
+	{skillid=9,name="魔镰祭",usertype=OBJ_TYPE.DARKER,locklvl=2,damage=2,upvalue=0.1,basemp=30,cd=15,image="501010.png",descr="手持死神之镰横扫敌方。"},
+	{skillid=10,name="浪刀",usertype=OBJ_TYPE.DARKER,locklvl=4,damage=2.5,upvalue=0.1,basemp=30,cd=15,image="501011.png",descr="挑起敌人，空中连刺。"},	
+	{skillid=11,name="复仇之翼",usertype=OBJ_TYPE.DARKER,locklvl=6,damage=3,upvalue=0.1,basemp=60,cd=30,image="501012.png",descr="死亡之翼发出大范围冲击波。"},
+	{skillid=12,name="死亡通知单",usertype=OBJ_TYPE.DARKER,locklvl=10,damage=3.5,upvalue=0.1,basemp=200,cd=90,image="501013.png",descr="Darker施展大范围究极必杀，造成大量伤害。"},
+}
+
+-- 技能槽售价
+data.shopdata = {0,0,30,50}
+
+return data

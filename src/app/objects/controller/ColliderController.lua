@@ -1,0 +1,272 @@
+--
+-- Author: rsma
+-- Date: 2015-05-18 15:35:24
+--
+ColliderController = class("ColliderController")
+function ColliderController:ctor(i_Role,i_Group)
+	self.me = i_Role
+	self.category=1
+	self.contactTest=0
+	self.collision=0
+	self.group=i_Group
+	self.attackShapeID=0
+	self.ASRIDS={}
+	self:initBitmask()
+	self.offY=0
+end
+function ColliderController:initBitmask()
+	if iskindof(self.me, "RoleObject") then
+		self.category=g_engine.Category.Role
+		self.contactTest=g_engine.Category.NPC
+	elseif iskindof(self.me, "NPCObject") or iskindof(self.me, "BlockObject") or iskindof(self.me, "GoodsObject") then
+		self.category=g_engine.Category.NPC
+		self.contactTest=g_engine.Category.Role
+	end
+end
+function ColliderController:addPhysicsBody()
+	self.body = cc.PhysicsBody:create()
+	self.body:setGravityEnable(false)
+	self.body:setDynamic(true)
+	self.body:setEnable(true)
+	self.body:setMass(g_engine.MASS)
+	self.body:setTag(self.group)
+	self.body:setVelocity(cc.p(0,0))
+	self.body:setGroup(self.group)
+	self.body:setRotationEnable(false)
+    self.me.animalObj:setPhysicsBody(self.body)
+end
+--增加追踪搜索感应区
+function ColliderController:addHuntShape()
+	if self.me.size.hw>0 then
+		local offX=0
+		if self.me.name == "Block" or self.me.name == "Goods" then
+			offX=-self.me.size.h*0.5
+		end
+		self.me.fleeOffset=self.me.size.hw
+		self.huntShape = cc.PhysicsShapeBox:create(cc.size(self.me.size.hw*self.me.skinScale,32),
+			cc.PhysicsMaterial(g_engine.MASS, g_engine.FRICTION, g_engine.ELASTICITY),cc.p(0,offX))
+		self.huntShape:setTag(g_engine.ShapeType.Hunt)
+	    self.body:addShape(self.huntShape,false)
+	end
+end
+function ColliderController:addRemoteHuntShape()
+	if self.me.size.R>0 then
+		self.me.fleeOffset=self.me.size.R
+		self.remoteShape = cc.PhysicsShapeCircle:create(self.me.size.R,
+			cc.PhysicsMaterial(g_engine.MASS, g_engine.FRICTION, g_engine.ELASTICITY),cc.p(0,0)) --100,150
+	elseif self.me.size.RW>0 then
+		self.me.fleeOffset=self.me.size.RW
+		self.remoteShape = cc.PhysicsShapeBox:create(cc.size(self.me.size.RW,32),
+			cc.PhysicsMaterial(g_engine.MASS, g_engine.FRICTION, g_engine.ELASTICITY),cc.p(self.me.size.RW*0.5,0))
+	elseif self.me.size.S>0 then
+		self.me.fleeOffset=self.me.size.S
+		local dirc=self.me.dirc
+		local points={}
+  		if self.me.dirc==DIRC.RIGHT then
+  			local angle=math.rad(30)
+  			points[1]=cc.p(0,0)
+	        points[2]=cc.p(math.cos(angle)*self.me.size.S*dirc,math.sin(angle)*self.me.size.S)
+	        angle=math.rad(15)
+	        points[3]=cc.p(math.cos(angle)*self.me.size.S*dirc,math.sin(angle)*self.me.size.S)
+	        angle=math.rad(0)
+	        points[4]=cc.p(math.cos(angle)*self.me.size.S*dirc,math.sin(angle)*self.me.size.S)
+	        angle=math.rad(-15)
+	        points[5]=cc.p(math.cos(angle)*self.me.size.S*dirc,math.sin(angle)*self.me.size.S)
+	        angle=math.rad(-30)
+	        points[6]=cc.p(math.cos(angle)*self.me.size.S*dirc,math.sin(angle)*self.me.size.S)
+	        points[7]=cc.p(0,0)
+  		else
+  			local angle=math.rad(0)
+	        points[1]=cc.p(math.cos(angle)*self.me.size.S*dirc,math.sin(angle)*self.me.size.S)
+	        angle=math.rad(15)
+	        points[2]=cc.p(math.cos(angle)*self.me.size.S*dirc,math.sin(angle)*self.me.size.S)
+	        angle=math.rad(30)
+	        points[3]=cc.p(math.cos(angle)*self.me.size.S*dirc,math.sin(angle)*self.me.size.S)
+	        points[4]=cc.p(0,0)
+	        angle=math.rad(-30)
+	        points[5]=cc.p(math.cos(angle)*self.me.size.S*dirc,math.sin(angle)*self.me.size.S)
+	        angle=math.rad(-15)
+	        points[6]=cc.p(math.cos(angle)*self.me.size.S*dirc,math.sin(angle)*self.me.size.S)
+	        angle=math.rad(0)
+	        points[7]=cc.p(math.cos(angle)*self.me.size.S*dirc,math.sin(angle)*self.me.size.S)
+  		end
+		self.remoteShape = cc.PhysicsShapePolygon:create(points,{7},
+			cc.PhysicsMaterial(g_engine.MASS, g_engine.FRICTION, g_engine.ELASTICITY))
+	end
+	self.remoteShape:setTag(g_engine.ShapeType.Remote)
+    self.body:addShape(self.remoteShape,false)
+end
+
+function ColliderController:addHurtShape()
+	if self.me.size.w<=0 then
+		return
+	end
+	local offX=0
+	local offY=50
+	local offW=0
+	if self.me.name == "Goods" then
+		offY = 0---self.me.size.offY
+		offW = 30
+	end
+	if self.me.name == "Block" then
+		offY=offY-self.me.size.h*0.5
+	end
+	-- self.hurtOffSet= cc.p(self.me.size.offX,self.me.size.offY)
+	-- self.hurtShape = cc.PhysicsShapeBox:create(cc.size(self.me.size.w,self.me.size.h*0.6),cc.PhysicsMaterial(g_engine.MASS, g_engine.FRICTION, g_engine.ELASTICITY),self.hurtOffSet)
+	self.hurtShape = cc.PhysicsShapeBox:create(cc.size(self.me.size.w*self.me.skinScale,50+offW),cc.PhysicsMaterial(g_engine.MASS, g_engine.FRICTION, g_engine.ELASTICITY),cc.p(offX,offY))
+	self.hurtShape:setTag(g_engine.ShapeType.Hurt)
+	-- self.hurtShape:align(display.BOTTOM_CENTER)
+    self.body:addShape(self.hurtShape,false)
+end
+
+function ColliderController:addAttackShape(i_ShapeProp)
+	if self.attackShape then
+		if self.attackShape:getTag() > 0 then
+			return false
+		end
+		self:removeAttackShape()
+	end
+	self.me.ishit=false
+	if not i_ShapeProp.w then
+		i_ShapeProp.w=0
+	end
+	if not i_ShapeProp.h then
+		i_ShapeProp.h=0
+	end
+	if not i_ShapeProp.x then
+		i_ShapeProp.x=0
+	end
+	local sW = i_ShapeProp.w + self.me.size.w*0.5
+	local sH = i_ShapeProp.h
+	local sX = (sW * 0.5 +i_ShapeProp.x) * (self.me.dirc == DIRC.RIGHT and 1 or -1)
+	local sY = i_ShapeProp.y
+	local sType=i_ShapeProp.type
+	if sType == "Circle" then
+		self.attackShape = cc.PhysicsShapeCircle:create(i_ShapeProp.r,
+			cc.PhysicsMaterial(g_engine.MASS, g_engine.FRICTION, g_engine.ELASTICITY),cc.p(sX,sY)) --100,150
+	elseif sType == "Box" then
+		self.attackShape = cc.PhysicsShapeBox:create(cc.size(sW,sH),
+			cc.PhysicsMaterial(g_engine.MASS, g_engine.FRICTION, g_engine.ELASTICITY),cc.p(sX,sY))
+	end
+	self.attackShape:setTag(g_engine.ShapeType.Attack)
+	self.attackShape:setGroup(self.group)
+	self.attackShape:setCategoryBitmask(self.category)
+    self.attackShape:setContactTestBitmask(self.contactTest)
+    self.attackShape:setCollisionBitmask(0)
+    self.body:addShape(self.attackShape,false)
+    g_Timer.delTimer(self.attackShapeCID)
+    if self.me.name == "NPC" then
+    	self.attackShapeCID = g_Timer.callAfter(self.removeAttackShape,1000,self)
+    else
+    	self.attackShapeCID = g_Timer.callAfter(self.removeAttackShape,1110.3,self)
+    end
+	self.attackShapeID = self.attackShapeID+1
+	self.ASRIDS[self.attackShapeID]={}
+end
+
+function ColliderController:attackedRole(i_RID)
+	table.insert(self.ASRIDS[self.attackShapeID], i_RID)
+end
+
+function ColliderController:checkAttackedRole(i_RID)
+	-- if self.ASRIDS[self.attackShapeID]==nil then
+	-- 	return true
+	-- end
+	if #self.ASRIDS[self.attackShapeID] == 0 then
+		return false
+	end
+	local t = type(table.indexof(self.ASRIDS[self.attackShapeID], i_RID, 1))
+	if t == "boolean" then
+		return false
+	end
+	return true
+end
+
+function ColliderController:removeAttackShape()
+	if self.attackShape then
+		self.body:removeShape(g_engine.ShapeType.Attack,true)
+	end
+	self.me.ishit=false
+	self.attackShape=nil
+	g_fight.undoFightAttribute(self.me)
+	self.ASRIDS[self.attackShapeID]=nil
+end
+
+
+function ColliderController:addWallShape()
+	self.wallShape = cc.PhysicsShapeBox:create(cc.size(20,50),
+		cc.PhysicsMaterial(g_engine.MASS, g_engine.FRICTION, g_engine.ELASTICITY),cc.p(0,0))
+	self.wallShape:setTag(-1)
+	self.wallShape:setGroup(self.group)
+    self.body:addShape(self.wallShape,false)
+end
+function ColliderController:updateAttackShape(i_ShapeProp)
+	self:removeAttackShape()
+	self:addAttackShape(i_ShapeProp)
+end
+
+function ColliderController:destroy()
+	g_Timer.delTimer(self.attackShapeCID)
+	if self.body then
+		self.body:removeAllShapes(true)
+		self.body:removeFromWorld()
+	end
+	self.body=nil
+end
+
+function ColliderController:enable()
+	if not self.body then
+		self:addPhysicsBody()
+		self.body:setDynamic(true)
+		self.body:setEnable(true)
+	end
+	if not self.huntShape then
+		self:addHuntShape()
+	end
+	if (self.me.size.R>0 or self.me.size.RW>0 or self.me.size.S>0) and not self.remoteShape then
+		self:addRemoteHuntShape()
+	end
+	if self.huntShape then
+		self.huntShape:setGroup(self.group)
+		self.huntShape:setCategoryBitmask(self.category)
+	    self.huntShape:setContactTestBitmask(self.contactTest)
+	    self.huntShape:setCollisionBitmask(self.collision)
+	end
+	if self.remoteShape then
+		self.remoteShape:setGroup(self.group)
+		self.remoteShape:setCategoryBitmask(self.category)
+	    self.remoteShape:setContactTestBitmask(self.contactTest)
+	    self.remoteShape:setCollisionBitmask(self.collision)
+	end
+	if not self.hurtShape then
+		self:addHurtShape()
+	end
+	if self.hurtShape then
+		self.hurtShape:setGroup(self.group)
+		self.hurtShape:setCategoryBitmask(self.category)
+		self.hurtShape:setContactTestBitmask(self.contactTest)
+		self.hurtShape:setCollisionBitmask(self.collision)
+	end
+end
+
+function ColliderController:disable()
+	if self.body then
+		self.body:setDynamic(false)
+		self.body:setEnable(false)
+	end
+	if self.huntShape then
+		self.huntShape:setCategoryBitmask(0)
+	    self.huntShape:setContactTestBitmask(0)
+	    self.huntShape:setCollisionBitmask(0)
+	end
+	if self.remoteShape then
+		self.remoteShape:setCategoryBitmask(0)
+	    self.remoteShape:setContactTestBitmask(0)
+	    self.remoteShape:setCollisionBitmask(0)
+	end
+	if self.hurtShape then
+		self.hurtShape:setCategoryBitmask(0)
+		self.hurtShape:setContactTestBitmask(0)
+		self.hurtShape:setCollisionBitmask(0)
+	end
+end
