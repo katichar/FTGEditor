@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'ftgeditor' target in the 'ftgeditor' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif

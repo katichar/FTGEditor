@@ -1,0 +1,7 @@
+diff a/quick/templates/shared/frameworks/runtime-src/proj.android_no_anysdk/jni/Application.mk b/quick/templates/shared/frameworks/runtime-src/proj.android_no_anysdk/jni/Application.mk	(rejected hunks)
+@@ -63,3 +63,4 @@
+ APP_CPPFLAGS += -DCC_USE_SQLITE=0
+ APP_CFLAGS += -DCC_USE_SQLITE=0
+ endif
++APP_CPPFLAGS += -DDRAGON_BONES_ENABLE_LUA=1
+\ No newline at end of file
