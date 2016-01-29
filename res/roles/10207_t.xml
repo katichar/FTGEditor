@@ -1,0 +1,14 @@
+<TextureAtlas name="10207" imagePath="10207.png">
+ <SubTexture name="chazi3" x="58" y="269" width="48" height="61"/>
+ <SubTexture name="chazi5" x="0" y="174" width="110" height="93"/>
+ <SubTexture name="chazi10" x="208" y="174" width="63" height="94"/>
+ <SubTexture name="chazi8" x="336" y="251" width="64" height="72"/>
+ <SubTexture name="chazi6" x="0" y="269" width="56" height="75"/>
+ <SubTexture name="chazi2" x="112" y="174" width="94" height="101"/>
+ <SubTexture name="chazi9" x="273" y="174" width="61" height="88"/>
+ <SubTexture name="chazi7" x="273" y="264" width="51" height="82"/>
+ <SubTexture name="chazi1" x="402" y="251" width="59" height="74"/>
+ <SubTexture name="chazi4" x="356" y="138" width="118" height="111"/>
+ <SubTexture name="103010yan" x="0" y="0" width="355" height="173"/>
+ <SubTexture name="103010texiao5_2" x="356" y="0" width="140" height="136"/>
+</TextureAtlas>

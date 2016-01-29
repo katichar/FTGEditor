@@ -1,0 +1,228 @@
+<dragonBones name="6" frameRate="24" version="2.3">
+ <armature name="anjian6">
+  <bone name="l_zhuilou1">
+   <transform x="0.25" y="1.6" skX="0" skY="0" scX="1.2" scY="1.2"/>
+  </bone>
+  <bone name="feiren">
+   <transform x="-182.45" y="-403.35" skX="0" skY="0" scX="0.85" scY="0.85"/>
+  </bone>
+  <bone name="feiren_2">
+   <transform x="-162" y="-69.55" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="jiangshi_1">
+   <transform x="281.1" y="-29" skX="0" skY="0" scX="1.39" scY="1.39"/>
+  </bone>
+  <bone name="l_sehngchan">
+   <transform x="269.45" y="116.05" skX="0" skY="0" scX="1.16" scY="1.16"/>
+  </bone>
+  <bone name="l_baozang">
+   <transform x="257.65" y="50.95" skX="0" skY="0" scX="1.43" scY="1.43"/>
+  </bone>
+  <bone name="l_biabiao">
+   <transform x="215.35" y="119.85" skX="0" skY="0" scX="1.07" scY="1.07"/>
+  </bone>
+  <bone name="mengmeng">
+   <transform x="24.2" y="127.15" skX="0" skY="0" scX="1.47" scY="1.47"/>
+  </bone>
+  <bone name="zimu6">
+   <transform x="3.9" y="217.35" skX="0" skY="0" scX="1.67" scY="1.67"/>
+  </bone>
+  <skin name="default">
+   <slot name="l_zhuilou1" parent="l_zhuilou1" z="0">
+    <display name="zhuilou1" type="image">
+     <transform x="-452.05" y="-253.05" skX="0" skY="0" scX="1" scY="1" pX="-2" pY="-0.05"/>
+    </display>
+   </slot>
+   <slot name="feiren" parent="feiren" z="1" blendMode="overlay">
+    <display name="feiren_1" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="100" pY="105"/>
+    </display>
+   </slot>
+   <slot name="feiren_2" parent="feiren_2" z="2">
+    <display name="feiren_2" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="100" pY="124"/>
+    </display>
+   </slot>
+   <slot name="jiangshi_1" parent="jiangshi_1" z="3">
+    <display name="jiangshi" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="350" pY="161"/>
+    </display>
+   </slot>
+   <slot name="l_sehngchan" parent="l_sehngchan" z="4">
+    <display name="sehngchan" type="image">
+     <transform x="-640" y="-360" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="l_baozang" parent="l_baozang" z="5">
+    <display name="baozang" type="image">
+     <transform x="-640" y="-360" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="l_biabiao" parent="l_biabiao" z="6">
+    <display name="biabiao" type="image">
+     <transform x="-640.05" y="-360" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="mengmeng" parent="mengmeng" z="7">
+    <display name="megnmeng" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="161.1" pY="386.75"/>
+    </display>
+   </slot>
+   <slot name="zimu6" parent="zimu6" z="8">
+    <display name="zuifan" type="image">
+     <transform x="-188.05" y="-26.75" skX="0" skY="0" scX="1" scY="1" pX="-96.7" pY="-13.9"/>
+    </display>
+    <display name="quantao" type="image">
+     <transform x="-328.85" y="-26.75" skX="0" skY="0" scX="1" scY="1" pX="-165.55" pY="-14.15"/>
+    </display>
+    <display name="zhicai" type="image">
+     <transform x="-328.8" y="-26.75" skX="0" skY="0" scX="1" scY="1" pX="-74.45" pY="-14.15"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="06" fadeInTime="0" duration="184" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="l_zhuilou1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="5">
+     <transform x="0.25" y="1.6" skX="0" skY="0" scX="1.2" scY="1.2" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="100" rM="0" gM="0" bM="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="38">
+     <transform x="0.2" y="-1.1" skX="0" skY="0" scX="1.2" scY="1.2" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="24">
+     <transform x="-0.4" y="-22.05" skX="0" skY="0" scX="1.19" scY="1.19" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="-0.75" y="-35.2" skX="0" skY="0" scX="1.19" scY="1.19" pX="0.1" pY="0"/>
+     <colorTransform aO="0" rO="204" gO="0" bO="0" aM="100" rM="0" gM="0" bM="0"/>
+    </frame>
+    <frame duration="116" displayIndex="-1"/>
+   </timeline>
+   <timeline name="feiren" scale="1" offset="0">
+    <frame duration="18" displayIndex="-1"/>
+    <frame z="1" tweenEasing="0" duration="3">
+     <transform x="-182.45" y="-403.35" skX="0" skY="0" scX="0.85" scY="0.85" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="4">
+     <transform x="-162" y="-89.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="-162" y="-52.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="-162" y="-49.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="157" displayIndex="-1"/>
+   </timeline>
+   <timeline name="feiren_2" scale="1" offset="0">
+    <frame duration="26" displayIndex="-1"/>
+    <frame z="2" tweenEasing="0" duration="3">
+     <transform x="-162" y="-69.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="1">
+     <transform x="-206.15" y="194.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="154" displayIndex="-1"/>
+   </timeline>
+   <timeline name="jiangshi_1" scale="1" offset="0">
+    <frame duration="37" displayIndex="-1"/>
+    <frame z="3" tweenEasing="0" duration="2">
+     <transform x="281.1" y="-29" skX="0" skY="0" scX="1.39" scY="1.39" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="41" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="12">
+     <transform x="237.4" y="-29" skX="0" skY="0" scX="1.39" scY="1.39" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="2">
+     <transform x="-24.8" y="-29" skX="0" skY="0" scX="1.39" scY="1.39" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="1">
+     <transform x="-68.5" y="-29" skX="0" skY="0" scX="1.39" scY="1.39" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="41" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="130" displayIndex="-1"/>
+   </timeline>
+   <timeline name="l_sehngchan" scale="1" offset="0">
+    <frame duration="61" displayIndex="-1"/>
+    <frame z="4" tweenEasing="0" duration="6">
+     <transform x="269.45" y="116.05" skX="0" skY="0" scX="1.16" scY="1.16" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="13" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="33">
+     <transform x="251.25" y="116.05" skX="0" skY="0" scX="1.16" scY="1.16" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="1">
+     <transform x="151.2" y="116.05" skX="0" skY="0" scX="1.16" scY="1.16" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="63" gO="0" bO="0" aM="100" rM="69" gM="69" bM="69"/>
+    </frame>
+    <frame duration="83" displayIndex="-1"/>
+   </timeline>
+   <timeline name="l_baozang" scale="1" offset="0">
+    <frame duration="97" displayIndex="-1"/>
+    <frame z="5" tweenEasing="0" duration="3">
+     <transform x="257.65" y="50.95" skX="0" skY="0" scX="1.43" scY="1.43" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="255" gO="255" bO="255" aM="100" rM="0" gM="0" bM="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="47">
+     <transform x="257.65" y="64.1" skX="0" skY="0" scX="1.43" scY="1.43" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="16" aM="100" rM="69" gM="69" bM="69"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="1">
+     <transform x="257.65" y="250.95" skX="0" skY="0" scX="1.43" scY="1.43" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="1" aM="100" rM="98" gM="98" bM="98"/>
+    </frame>
+    <frame duration="36" displayIndex="-1"/>
+   </timeline>
+   <timeline name="l_biabiao" scale="1" offset="0">
+    <frame duration="144" displayIndex="-1"/>
+    <frame z="6" tweenEasing="0" duration="3">
+     <transform x="215.35" y="119.85" skX="0" skY="0" scX="1.07" scY="1.07" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="255" gO="255" bO="255" aM="100" rM="0" gM="0" bM="0"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="33">
+     <transform x="215.35" y="119.85" skX="0" skY="0" scX="1.08" scY="1.08" pX="0.05" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="100" rM="83" gM="83" bM="83"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="3">
+     <transform x="215.3" y="180.15" skX="0" skY="0" scX="1.2" scY="1.2" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="1">
+     <transform x="1063.95" y="362.75" skX="0" skY="0" scX="2.47" scY="2.47" pX="0.05" pY="-0.05"/>
+     <colorTransform aO="0" rO="153" gO="0" bO="0" aM="100" rM="0" gM="0" bM="0"/>
+    </frame>
+   </timeline>
+   <timeline name="mengmeng" scale="1" offset="0">
+    <frame duration="88" displayIndex="-1"/>
+    <frame z="7" tweenEasing="0" duration="6">
+     <transform x="24.2" y="127.15" skX="0" skY="0" scX="1.47" scY="1.47" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="34" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="29">
+     <transform x="26.6" y="124.45" skX="0" skY="0" scX="1.38" scY="1.38" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="5">
+     <transform x="38.2" y="111.45" skX="0" skY="0" scX="0.97" scY="0.97" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="34" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="7" duration="1">
+     <transform x="40.2" y="109.2" skX="0" skY="0" scX="0.9" scY="0.9" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="34" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="55" displayIndex="-1"/>
+   </timeline>
+   <timeline name="zimu6" scale="1" offset="0">
+    <frame duration="5" displayIndex="-1"/>
+    <frame z="8" duration="55">
+     <transform x="3.9" y="217.35" skX="0" skY="0" scX="1.67" scY="1.67" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" displayIndex="1" duration="52">
+     <transform x="103.4" y="217.35" skX="0" skY="0" scX="1.67" scY="1.67" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" displayIndex="2" duration="68">
+     <transform x="268.95" y="217.35" skX="0" skY="0" scX="1.67" scY="1.67" pX="0" pY="0"/>
+    </frame>
+    <frame duration="4" displayIndex="-1"/>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

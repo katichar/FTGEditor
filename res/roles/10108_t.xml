@@ -1,0 +1,14 @@
+<TextureAtlas name="10108" imagePath="10108.png">
+ <SubTexture name="10108waist" x="107" y="193" width="64" height="37"/>
+ <SubTexture name="10108rfoot" x="127" y="109" width="53" height="82"/>
+ <SubTexture name="10108rleg" x="0" y="155" width="52" height="55"/>
+ <SubTexture name="10108lfoot" x="65" y="59" width="60" height="94"/>
+ <SubTexture name="10108lleg" x="182" y="109" width="48" height="60"/>
+ <SubTexture name="10108rhand" x="0" y="212" width="65" height="32"/>
+ <SubTexture name="10108body" x="129" y="0" width="76" height="107"/>
+ <SubTexture name="10108head" x="207" y="0" width="45" height="58"/>
+ <SubTexture name="10108larm" x="182" y="171" width="61" height="43"/>
+ <SubTexture name="10108lhand" x="0" y="0" width="127" height="57"/>
+ <SubTexture name="10108guang" x="54" y="155" width="51" height="54"/>
+ <SubTexture name="10108huoguang" x="0" y="59" width="63" height="94"/>
+</TextureAtlas>

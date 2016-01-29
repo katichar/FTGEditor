@@ -1,0 +1,125 @@
+<dragonBones name="5" frameRate="24" version="2.3">
+ <armature name="anjian5">
+  <bone name="l_dakexiao">
+   <transform x="173.95" y="119.7" skX="0" skY="0" scX="1.08" scY="1.08"/>
+  </bone>
+  <bone name="l_dakexiao2">
+   <transform x="151.45" y="74.35" skX="0" skY="0" scX="1.06" scY="1.06"/>
+  </bone>
+  <bone name="l_dakeda">
+   <transform x="185.95" y="117.25" skX="0" skY="0" scX="1.03" scY="1.03"/>
+  </bone>
+  <bone name="l_dakeda2">
+   <transform x="499.65" y="61" skX="0" skY="0" scX="1.51" scY="1.51"/>
+  </bone>
+  <bone name="zimu5">
+   <transform x="3.9" y="217.35" skX="0" skY="0" scX="1.67" scY="1.67"/>
+  </bone>
+  <skin name="default">
+   <slot name="l_dakexiao" parent="l_dakexiao" z="0">
+    <display name="dakexiao" type="image">
+     <transform x="-640" y="-359.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="l_dakexiao2" parent="l_dakexiao2" z="1">
+    <display name="dakexiao2" type="image">
+     <transform x="-586.6" y="-330" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="l_dakeda" parent="l_dakeda" z="2">
+    <display name="dakeda" type="image">
+     <transform x="-639.95" y="-359.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="l_dakeda2" parent="l_dakeda2" z="3">
+    <display name="dakeda2" type="image">
+     <transform x="-640" y="-359.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="zimu5" parent="zimu5" z="4">
+    <display name="zuifan" type="image">
+     <transform x="-188.05" y="-26.75" skX="0" skY="0" scX="1" scY="1" pX="-95.85" pY="-14.25"/>
+    </display>
+    <display name="quantao" type="image">
+     <transform x="-328.85" y="-26.75" skX="0" skY="0" scX="1" scY="1" pX="-165.9" pY="-13.75"/>
+    </display>
+    <display name="zhicai" type="image">
+     <transform x="-328.85" y="-26.75" skX="0" skY="0" scX="1" scY="1" pX="-74.2" pY="-14"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="05" fadeInTime="0" duration="185" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="l_dakexiao" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="173.95" y="119.7" skX="0" skY="0" scX="1.08" scY="1.08" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="255" gO="255" bO="255" aM="100" rM="0" gM="0" bM="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="96">
+     <transform x="176.05" y="119.7" skX="0" skY="0" scX="1.08" scY="1.08" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="227.05" y="119.7" skX="0" skY="0" scX="1.08" scY="1.08" pX="0" pY="0"/>
+    </frame>
+    <frame duration="84" displayIndex="-1"/>
+   </timeline>
+   <timeline name="l_dakexiao2" scale="1" offset="0">
+    <frame duration="38" displayIndex="-1"/>
+    <frame z="1" tweenEasing="0" duration="3">
+     <transform x="151.45" y="74.35" skX="0" skY="0" scX="1.06" scY="1.06" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="100" rM="57" gM="57" bM="57"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="59">
+     <transform x="150.05" y="74.35" skX="0" skY="0" scX="1.06" scY="1.06" pX="-0.1" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="121.85" y="74.35" skX="0" skY="0" scX="1.06" scY="1.06" pX="0" pY="0"/>
+    </frame>
+    <frame duration="84" displayIndex="-1"/>
+   </timeline>
+   <timeline name="l_dakeda" scale="1" offset="0">
+    <frame duration="92" displayIndex="-1"/>
+    <frame z="2" tweenEasing="0" duration="7">
+     <transform x="185.95" y="117.25" skX="0" skY="0" scX="1.03" scY="1.03" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="255" gO="255" bO="255" aM="100" rM="0" gM="0" bM="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="50">
+     <transform x="188.9" y="117.3" skX="0" skY="0" scX="1.03" scY="1.03" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="1">
+     <transform x="209.9" y="117.25" skX="0" skY="0" scX="1.03" scY="1.03" pX="0" pY="0"/>
+    </frame>
+    <frame duration="35" displayIndex="-1"/>
+   </timeline>
+   <timeline name="l_dakeda2" scale="1" offset="0">
+    <frame duration="142" displayIndex="-1"/>
+    <frame z="3" tweenEasing="-1" duration="6">
+     <transform x="499.65" y="61" skX="0" skY="0" scX="1.51" scY="1.51" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="255" gO="255" bO="255" aM="100" rM="0" gM="0" bM="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="26">
+     <transform x="494.35" y="62.5" skX="0" skY="0" scX="1.5" scY="1.5" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="10">
+     <transform x="310.7" y="114.3" skX="0" skY="0" scX="1.21" scY="1.21" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="1">
+     <transform x="240.05" y="134.2" skX="0" skY="0" scX="1.1" scY="1.1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="100" rM="0" gM="0" bM="0"/>
+    </frame>
+   </timeline>
+   <timeline name="zimu5" scale="1" offset="0">
+    <frame duration="3" displayIndex="-1"/>
+    <frame z="4" duration="54">
+     <transform x="3.9" y="217.35" skX="0" skY="0" scX="1.67" scY="1.67" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" displayIndex="1" duration="68">
+     <transform x="117.75" y="217.35" skX="0" skY="0" scX="1.67" scY="1.67" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" displayIndex="2" duration="48">
+     <transform x="310.25" y="217.35" skX="0" skY="0" scX="1.67" scY="1.67" pX="0" pY="0"/>
+    </frame>
+    <frame duration="12" displayIndex="-1"/>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

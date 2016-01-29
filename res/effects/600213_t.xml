@@ -1,0 +1,12 @@
+<TextureAtlas name="600213" imagePath="600213.png">
+ <SubTexture name="600213jiaxue_1" x="216" y="474" width="107" height="236"/>
+ <SubTexture name="600214jialan_1" x="108" y="242" width="107" height="236"/>
+ <SubTexture name="600213jiaxue_2" x="224" y="0" width="107" height="236"/>
+ <SubTexture name="600214jialan_2" x="0" y="242" width="107" height="236"/>
+ <SubTexture name="600213jiaxue_3" x="332" y="237" width="107" height="236"/>
+ <SubTexture name="600214jialan_3" x="224" y="237" width="107" height="236"/>
+ <SubTexture name="600213jiaxue_4" x="0" y="0" width="111" height="240"/>
+ <SubTexture name="600214jialan_4" x="112" y="0" width="111" height="240"/>
+ <SubTexture name="600213jiaxue_5" x="332" y="0" width="107" height="236"/>
+ <SubTexture name="600214jialan_5" x="324" y="474" width="107" height="236"/>
+</TextureAtlas>

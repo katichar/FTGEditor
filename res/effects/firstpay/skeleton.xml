@@ -1,0 +1,230 @@
+<dragonBones name="600217" frameRate="24" version="2.3">
+ <armature name="600217">
+  <bone name="262-9.png">
+   <transform x="-1.45" y="-20.15" skX="0" skY="0" scX="1.31" scY="1.26"/>
+  </bone>
+  <bone name="262-8.png">
+   <transform x="-1.45" y="-20.15" skX="0" skY="0" scX="1.31" scY="1.26"/>
+  </bone>
+  <bone name="262-7.png">
+   <transform x="-1.45" y="-20.15" skX="0" skY="0" scX="1.31" scY="1.26"/>
+  </bone>
+  <bone name="262-6.png">
+   <transform x="-1.45" y="-20.15" skX="0" skY="0" scX="1.31" scY="1.26"/>
+  </bone>
+  <bone name="262-5.png">
+   <transform x="-1.45" y="-20.15" skX="0" skY="0" scX="1.31" scY="1.26"/>
+  </bone>
+  <bone name="262-4.png">
+   <transform x="-1.45" y="-20.15" skX="0" skY="0" scX="1.31" scY="1.26"/>
+  </bone>
+  <bone name="262-3.png">
+   <transform x="-1.45" y="-20.15" skX="0" skY="0" scX="1.31" scY="1.26"/>
+  </bone>
+  <bone name="262-2.png">
+   <transform x="-1.45" y="-20.15" skX="0" skY="0" scX="1.31" scY="1.26"/>
+  </bone>
+  <bone name="262-1.png">
+   <transform x="-1.45" y="-20.15" skX="0" skY="0" scX="1.31" scY="1.26"/>
+  </bone>
+  <bone name="6002176">
+   <transform x="-16" y="-1.15" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="6002175">
+   <transform x="7" y="-2.5" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="6002174">
+   <transform x="2.75" y="-8.75" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="6002173">
+   <transform x="-3.25" y="-13.5" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="6002172">
+   <transform x="-9" y="-18.5" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="6002171">
+   <transform x="-12.25" y="-24.25" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="262-9.png" parent="262-9.png" z="0">
+    <display name="60021710" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="64" pY="64"/>
+    </display>
+   </slot>
+   <slot name="262-8.png" parent="262-8.png" z="1">
+    <display name="60021709" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="64" pY="64"/>
+    </display>
+   </slot>
+   <slot name="262-7.png" parent="262-7.png" z="2">
+    <display name="60021707" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="64" pY="64"/>
+    </display>
+   </slot>
+   <slot name="262-6.png" parent="262-6.png" z="3">
+    <display name="60021706" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="64" pY="64"/>
+    </display>
+   </slot>
+   <slot name="262-5.png" parent="262-5.png" z="4">
+    <display name="60021705" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="64" pY="64"/>
+    </display>
+   </slot>
+   <slot name="262-4.png" parent="262-4.png" z="5">
+    <display name="60021704" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="64" pY="64"/>
+    </display>
+   </slot>
+   <slot name="262-3.png" parent="262-3.png" z="6">
+    <display name="60021703" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="64" pY="64"/>
+    </display>
+   </slot>
+   <slot name="262-2.png" parent="262-2.png" z="7">
+    <display name="60021702" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="64" pY="64"/>
+    </display>
+   </slot>
+   <slot name="262-1.png" parent="262-1.png" z="8">
+    <display name="60021701" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="64" pY="64"/>
+    </display>
+   </slot>
+   <slot name="6002176" parent="6002176" z="9">
+    <display name="6002176" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="43" pY="56"/>
+    </display>
+   </slot>
+   <slot name="6002175" parent="6002175" z="10">
+    <display name="6002175" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="15.5" pY="17.5"/>
+    </display>
+   </slot>
+   <slot name="6002174" parent="6002174" z="11">
+    <display name="6002174" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="18.5" pY="17.5"/>
+    </display>
+   </slot>
+   <slot name="6002173" parent="6002173" z="12">
+    <display name="6002173" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="19" pY="18"/>
+    </display>
+   </slot>
+   <slot name="6002172" parent="6002172" z="13">
+    <display name="6002172" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="17.5" pY="18"/>
+    </display>
+   </slot>
+   <slot name="6002171" parent="6002171" z="14">
+    <display name="6002171" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="13.5" pY="13.5"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="600217" fadeInTime="0.3" duration="34" scale="1" loop="0" autoTween="1" tweenEasing="NaN">
+   <timeline name="262-9.png" scale="1" offset="0">
+    <frame duration="16" displayIndex="-1"/>
+    <frame z="0" duration="2">
+     <transform x="-1.45" y="-20.15" skX="0" skY="0" scX="1.31" scY="1.26" pX="0" pY="0"/>
+    </frame>
+    <frame duration="16" displayIndex="-1"/>
+   </timeline>
+   <timeline name="262-8.png" scale="1" offset="0">
+    <frame duration="14" displayIndex="-1"/>
+    <frame z="1" duration="2">
+     <transform x="-1.45" y="-20.15" skX="0" skY="0" scX="1.31" scY="1.26" pX="0" pY="0"/>
+    </frame>
+    <frame duration="18" displayIndex="-1"/>
+   </timeline>
+   <timeline name="262-7.png" scale="1" offset="0">
+    <frame duration="12" displayIndex="-1"/>
+    <frame z="2" duration="2">
+     <transform x="-1.45" y="-20.15" skX="0" skY="0" scX="1.31" scY="1.26" pX="0" pY="0"/>
+    </frame>
+    <frame duration="20" displayIndex="-1"/>
+   </timeline>
+   <timeline name="262-6.png" scale="1" offset="0">
+    <frame duration="10" displayIndex="-1"/>
+    <frame z="3" duration="2">
+     <transform x="-1.45" y="-20.15" skX="0" skY="0" scX="1.31" scY="1.26" pX="0" pY="0"/>
+    </frame>
+    <frame duration="22" displayIndex="-1"/>
+   </timeline>
+   <timeline name="262-5.png" scale="1" offset="0">
+    <frame duration="8" displayIndex="-1"/>
+    <frame z="4" duration="2">
+     <transform x="-1.45" y="-20.15" skX="0" skY="0" scX="1.31" scY="1.26" pX="0" pY="0"/>
+    </frame>
+    <frame duration="24" displayIndex="-1"/>
+   </timeline>
+   <timeline name="262-4.png" scale="1" offset="0">
+    <frame duration="6" displayIndex="-1"/>
+    <frame z="5" duration="2">
+     <transform x="-1.45" y="-20.15" skX="0" skY="0" scX="1.31" scY="1.26" pX="0" pY="0"/>
+    </frame>
+    <frame duration="26" displayIndex="-1"/>
+   </timeline>
+   <timeline name="262-3.png" scale="1" offset="0">
+    <frame duration="4" displayIndex="-1"/>
+    <frame z="6" duration="2">
+     <transform x="-1.45" y="-20.15" skX="0" skY="0" scX="1.31" scY="1.26" pX="0" pY="0"/>
+    </frame>
+    <frame duration="28" displayIndex="-1"/>
+   </timeline>
+   <timeline name="262-2.png" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="7" duration="2">
+     <transform x="-1.45" y="-20.15" skX="0" skY="0" scX="1.31" scY="1.26" pX="0" pY="0"/>
+    </frame>
+    <frame duration="30" displayIndex="-1"/>
+   </timeline>
+   <timeline name="262-1.png" scale="1" offset="0">
+    <frame z="8" duration="2">
+     <transform x="-1.45" y="-20.15" skX="0" skY="0" scX="1.31" scY="1.26" pX="0" pY="0"/>
+    </frame>
+    <frame duration="32" displayIndex="-1"/>
+   </timeline>
+   <timeline name="6002176" scale="1" offset="0">
+    <frame z="9" duration="34">
+     <transform x="-16" y="-1.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="6002175" scale="1" offset="0">
+    <frame duration="14" displayIndex="-1"/>
+    <frame z="10" duration="2">
+     <transform x="7" y="-2.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="18" displayIndex="-1"/>
+   </timeline>
+   <timeline name="6002174" scale="1" offset="0">
+    <frame duration="12" displayIndex="-1"/>
+    <frame z="11" duration="2">
+     <transform x="2.75" y="-8.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="20" displayIndex="-1"/>
+   </timeline>
+   <timeline name="6002173" scale="1" offset="0">
+    <frame duration="10" displayIndex="-1"/>
+    <frame z="12" duration="2">
+     <transform x="-3.25" y="-13.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="22" displayIndex="-1"/>
+   </timeline>
+   <timeline name="6002172" scale="1" offset="0">
+    <frame duration="8" displayIndex="-1"/>
+    <frame z="13" duration="2">
+     <transform x="-9" y="-18.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="24" displayIndex="-1"/>
+   </timeline>
+   <timeline name="6002171" scale="1" offset="0">
+    <frame duration="6" displayIndex="-1"/>
+    <frame z="14" duration="2">
+     <transform x="-12.25" y="-24.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="26" displayIndex="-1"/>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

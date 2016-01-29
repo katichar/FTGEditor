@@ -1,0 +1,21 @@
+<TextureAtlas name="10304" imagePath="10304.png">
+ <SubTexture name="bg_sb1" x="723" y="135" width="104" height="82"/>
+ <SubTexture name="bg_sb2" x="399" y="208" width="94" height="62"/>
+ <SubTexture name="bg_s2" x="495" y="208" width="81" height="72"/>
+ <SubTexture name="bg_j2" x="793" y="219" width="75" height="47"/>
+ <SubTexture name="bg_xt2" x="638" y="230" width="58" height="52"/>
+ <SubTexture name="bg_dt2" x="878" y="177" width="103" height="73"/>
+ <SubTexture name="bg_k1" x="446" y="135" width="177" height="71"/>
+ <SubTexture name="bg_j1" x="829" y="135" width="47" height="50"/>
+ <SubTexture name="bg_xt1" x="578" y="230" width="58" height="58"/>
+ <SubTexture name="bg_dt1" x="218" y="194" width="98" height="75"/>
+ <SubTexture name="bg_x1" x="0" y="125" width="216" height="194"/>
+ <SubTexture name="bg_xb1" x="723" y="219" width="68" height="71"/>
+ <SubTexture name="bg_s1" x="318" y="194" width="79" height="84"/>
+ <SubTexture name="bg_tou1" x="625" y="135" width="96" height="93"/>
+ <SubTexture name="shou3.png" x="881" y="0" width="127" height="80"/>
+ <SubTexture name="baopo1" x="218" y="125" width="226" height="67"/>
+ <SubTexture name="baopo2" x="0" y="0" width="487" height="123"/>
+ <SubTexture name="baopo3" x="489" y="0" width="390" height="133"/>
+ <SubTexture name="tou2.png" x="881" y="82" width="96" height="93"/>
+</TextureAtlas>

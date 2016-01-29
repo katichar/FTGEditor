@@ -1,0 +1,9 @@
+<TextureAtlas name="1" imagePath="texture.png">
+ <SubTexture name="biaoge1" x="902" y="508" width="900" height="506"/>
+ <SubTexture name="sehngchan" x="0" y="0" width="900" height="506"/>
+ <SubTexture name="baozang" x="0" y="508" width="900" height="506"/>
+ <SubTexture name="biabiao" x="902" y="0" width="900" height="506"/>
+ <SubTexture name="zuifan" x="1804" y="0" width="169" height="25"/>
+ <SubTexture name="quantao" x="0" y="1016" width="311" height="25"/>
+ <SubTexture name="zhicai" x="1804" y="27" width="133" height="25"/>
+</TextureAtlas>

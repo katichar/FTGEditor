@@ -1,0 +1,9 @@
+<TextureAtlas name="600216" imagePath="texture.png">
+ <SubTexture name="600216g" x="0" y="0" width="95" height="95"/>
+ <SubTexture name="600216MovieClip/600216sprite 17" x="97" y="0" width="89" height="98"/>
+ <SubTexture name="600216ZHUAN" x="187" y="0" width="63" height="62"/>
+ <SubTexture name="600216zhonglibao" x="187" y="63" width="52" height="54"/>
+ <SubTexture name="600216xiaolibao" x="74" y="99" width="37" height="39"/>
+ <SubTexture name="600216dalibao" x="0" y="97" width="72" height="83"/>
+ <SubTexture name="600216wenzi" x="113" y="119" width="112" height="41"/>
+</TextureAtlas>

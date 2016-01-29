@@ -1,0 +1,85 @@
+<dragonBones name="600110" frameRate="24" version="2.3">
+ <armature name="600110_loading">
+  <bone name="图层 1">
+   <transform x="0.05" y="0" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 2">
+   <transform x="-0.45" y="0" skX="0" skY="0" scX="0.72" scY="0.72"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 1" parent="图层 1" z="0">
+    <display name="2w" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="22" pY="22"/>
+    </display>
+   </slot>
+   <slot name="图层 2" parent="图层 2" z="1">
+    <display name="1w" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="22.5" pY="23.5"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="600110_loading" fadeInTime="0.3" duration="142" scale="1" loop="0" autoTween="1" tweenEasing="NaN">
+   <timeline name="图层 1" scale="1" offset="0">
+    <frame z="0" tweenEasing="-1" duration="14">
+     <transform x="0.05" y="0" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="-1" duration="22">
+     <transform x="0.05" y="0" skX="90" skY="90" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="-1" duration="13">
+     <transform x="0.05" y="0" skX="90" skY="90" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="-1" duration="22">
+     <transform x="0.05" y="0" skX="180" skY="180" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="-1" duration="13">
+     <transform x="0.05" y="0" skX="180" skY="180" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="-1" duration="22">
+     <transform x="0.05" y="0" skX="-90" skY="-90" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="13">
+     <transform x="0.05" y="0" skX="-90" skY="-90" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="-1" duration="23">
+     <transform x="0.05" y="0" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 2" scale="1" offset="0">
+    <frame duration="16" displayIndex="-1"/>
+    <frame z="1" tweenEasing="0" duration="19">
+     <transform x="-0.45" y="0" skX="0" skY="0" scX="0.72" scY="0.72" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="-0.45" y="0" skX="0" skY="0" scX="2.07" scY="2.07" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="15" displayIndex="-1"/>
+    <frame z="1" tweenEasing="0" duration="19">
+     <transform x="-0.45" y="0" skX="0" skY="0" scX="0.72" scY="0.72" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="-0.45" y="0" skX="0" skY="0" scX="2.07" scY="2.07" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="15" displayIndex="-1"/>
+    <frame z="1" tweenEasing="0" duration="19">
+     <transform x="-0.45" y="0" skX="0" skY="0" scX="0.72" scY="0.72" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="-0.45" y="0" skX="0" skY="0" scX="2.07" scY="2.07" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="15" displayIndex="-1"/>
+    <frame z="1" tweenEasing="0" duration="19">
+     <transform x="-0.45" y="0" skX="0" skY="0" scX="0.72" scY="0.72" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="-0.45" y="0" skX="0" skY="0" scX="2.07" scY="2.07" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

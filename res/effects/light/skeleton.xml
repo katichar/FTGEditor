@@ -1,0 +1,29 @@
+<dragonBones name="qiritexiao" frameRate="24" version="2.3">
+ <armature name="qiritexiao">
+  <bone name="图层 5">
+   <transform x="-0.15" y="0.35" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 5" parent="图层 5" z="0">
+    <display name="qiritexiao2" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="92" pY="60.5"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="qiritexiao" fadeInTime="0" duration="19" scale="1" loop="0" autoTween="1" tweenEasing="NaN">
+   <timeline name="图层 5" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="11">
+     <transform x="-0.15" y="0.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="34" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="7">
+     <transform x="-0.15" y="0.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="-0.15" y="0.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="34" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

@@ -1,0 +1,9 @@
+<TextureAtlas name="5" imagePath="texture.png">
+ <SubTexture name="dakexiao" x="0" y="0" width="900" height="506"/>
+ <SubTexture name="dakexiao2" x="0" y="508" width="900" height="506"/>
+ <SubTexture name="dakeda" x="902" y="508" width="900" height="506"/>
+ <SubTexture name="dakeda2" x="902" y="0" width="900" height="506"/>
+ <SubTexture name="zuifan" x="1804" y="28" width="170" height="24"/>
+ <SubTexture name="quantao" x="1804" y="0" width="170" height="26"/>
+ <SubTexture name="zhicai" x="1804" y="53" width="151" height="24"/>
+</TextureAtlas>

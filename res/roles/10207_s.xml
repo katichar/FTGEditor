@@ -1,0 +1,1701 @@
+<dragonBones name="10207" frameRate="24" version="2.3">
+ <armature name="10207">
+  <bone name="chazi3_1">
+   <transform x="38" y="-194.85" skX="10.47" skY="10.47" scX="-1" scY="1"/>
+  </bone>
+  <bone name="chazi5">
+   <transform x="51.7" y="-157.5" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="chazi10">
+   <transform x="50.5" y="-67.5" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="chazi8">
+   <transform x="18.05" y="-104.25" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="chazi6">
+   <transform x="15.8" y="-108.75" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="chazi2">
+   <transform x="19.8" y="-128.5" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="chazi9">
+   <transform x="-12.7" y="-59" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="chazi7">
+   <transform x="-0.7" y="-110.5" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="chazi1">
+   <transform x="43.05" y="-200" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="chazi3">
+   <transform x="1.8" y="-191.25" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="chazi4">
+   <transform x="-24.45" y="-146.75" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 2">
+   <transform x="-14.45" y="-58.3" skX="32.46" skY="32.46" scX="1" scY="1"/>
+  </bone>
+  <bone name="103010texiao5_1">
+   <transform x="5.1" y="-12.8" skX="-6.03" skY="-6.03" scX="1.12" scY="0.99"/>
+  </bone>
+  <skin name="default">
+   <slot name="chazi3_1" parent="chazi3_1" z="0">
+    <display name="chazi3" type="image">
+     <transform x="-10.55" y="16.05" skX="0" skY="0" scX="1" scY="1" pX="24" pY="30.5"/>
+    </display>
+   </slot>
+   <slot name="chazi5" parent="chazi5" z="1">
+    <display name="chazi5" type="image">
+     <transform x="34.75" y="26" skX="0" skY="0" scX="1" scY="1" pX="55" pY="46.5"/>
+    </display>
+   </slot>
+   <slot name="chazi10" parent="chazi10" z="2">
+    <display name="chazi10" type="image">
+     <transform x="-8" y="35.5" skX="0" skY="0" scX="1" scY="1" pX="31.5" pY="47"/>
+    </display>
+   </slot>
+   <slot name="chazi8" parent="chazi8" z="3">
+    <display name="chazi8" type="image">
+     <transform x="13.5" y="18.25" skX="0" skY="0" scX="1" scY="1" pX="32" pY="36"/>
+    </display>
+   </slot>
+   <slot name="chazi6" parent="chazi6" z="4">
+    <display name="chazi6" type="image">
+     <transform x="-7.25" y="-16.25" skX="0" skY="0" scX="1" scY="1" pX="28" pY="37.5"/>
+    </display>
+   </slot>
+   <slot name="chazi2" parent="chazi2" z="5">
+    <display name="chazi2" type="image">
+     <transform x="0.25" y="-47" skX="0" skY="0" scX="1" scY="1" pX="47" pY="50.5"/>
+    </display>
+   </slot>
+   <slot name="chazi9" parent="chazi9" z="6">
+    <display name="chazi9" type="image">
+     <transform x="-19.75" y="34" skX="0" skY="0" scX="1" scY="1" pX="30.5" pY="44"/>
+    </display>
+   </slot>
+   <slot name="chazi7" parent="chazi7" z="8">
+    <display name="chazi7" type="image">
+     <transform x="-8.25" y="23" skX="0" skY="0" scX="1" scY="1" pX="25.5" pY="41"/>
+    </display>
+   </slot>
+   <slot name="chazi1" parent="chazi1" z="9">
+    <display name="chazi1" type="image">
+     <transform x="4" y="-17.5" skX="0" skY="0" scX="1" scY="1" pX="29.5" pY="37"/>
+    </display>
+   </slot>
+   <slot name="chazi3" parent="chazi3" z="10">
+    <display name="chazi3" type="image">
+     <transform x="-16.25" y="17.75" skX="0" skY="0" scX="1" scY="1" pX="24" pY="30.5"/>
+    </display>
+   </slot>
+   <slot name="chazi4" parent="chazi4" z="11">
+    <display name="chazi4" type="image">
+     <transform x="10" y="33.25" skX="0" skY="0" scX="1" scY="1" pX="59" pY="55.5"/>
+    </display>
+   </slot>
+   <slot name="图层 2" parent="图层 2" z="7">
+    <display name="chazi10" type="image">
+     <transform x="-7.95" y="34.8" skX="0" skY="0" scX="1" scY="1" pX="31.5" pY="47"/>
+    </display>
+   </slot>
+   <slot name="103010texiao5_1" parent="103010texiao5_1" z="12">
+    <display name="103010texiao5_1" type="armature">
+     <transform x="77.15" y="-6.65" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="zhanli" fadeInTime="0" duration="29" scale="1" loop="0" autoTween="1" tweenEasing="NaN">
+   <timeline name="chazi3_1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="14">
+     <transform x="38" y="-194.85" skX="10.47" skY="10.47" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="14">
+     <transform x="38.05" y="-194.85" skX="16.48" skY="16.48" scX="-1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="38.05" y="-194.85" skX="10.31" skY="10.31" scX="-1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi5" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="14">
+     <transform x="51.7" y="-157.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="14">
+     <transform x="51.7" y="-157.5" skX="-2.72" skY="-2.72" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="51.7" y="-157.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi10" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="14">
+     <transform x="50.5" y="-67.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="14">
+     <transform x="50.5" y="-67.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="1">
+     <transform x="50.5" y="-67.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi8" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="14">
+     <transform x="18.05" y="-104.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="14">
+     <transform x="18.05" y="-104.25" skX="-2.21" skY="-2.21" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="1">
+     <transform x="18.05" y="-104.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi6" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="14">
+     <transform x="15.8" y="-108.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="14">
+     <transform x="15.8" y="-108.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="1">
+     <transform x="15.8" y="-108.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi2" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="14">
+     <transform x="19.8" y="-128.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="14">
+     <transform x="19.8" y="-128.5" skX="1.23" skY="1.23" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="1">
+     <transform x="19.8" y="-128.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi9" scale="1" offset="0">
+    <frame z="6" tweenEasing="0" duration="14">
+     <transform x="-12.7" y="-59" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="14">
+     <transform x="-12.7" y="-59" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="1">
+     <transform x="-12.7" y="-59" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi7" scale="1" offset="0">
+    <frame z="8" tweenEasing="0" duration="14">
+     <transform x="-0.7" y="-110.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="14">
+     <transform x="-0.7" y="-110.5" skX="1" skY="1" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="1">
+     <transform x="-0.7" y="-110.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi1" scale="1" offset="0">
+    <frame z="9" tweenEasing="0" duration="14">
+     <transform x="43.05" y="-200" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="14">
+     <transform x="43.05" y="-200" skX="-3.48" skY="-3.48" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="1">
+     <transform x="43.05" y="-200" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi3" scale="1" offset="0">
+    <frame z="10" tweenEasing="0" duration="14">
+     <transform x="1.8" y="-191.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="14">
+     <transform x="1.8" y="-191.25" skX="2.74" skY="2.74" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="1">
+     <transform x="1.8" y="-191.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi4" scale="1" offset="0">
+    <frame z="11" tweenEasing="0" duration="14">
+     <transform x="-24.45" y="-146.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="14">
+     <transform x="-24.45" y="-146.75" skX="-3.48" skY="-3.48" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="1">
+     <transform x="-24.45" y="-146.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="zou" fadeInTime="0" duration="19" scale="1" loop="0" autoTween="1" tweenEasing="NaN">
+   <timeline name="chazi3_1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="22.7" y="-186.75" skX="-8.29" skY="-8.29" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="22.7" y="-189.6" skX="-8.26" skY="-8.26" scX="-1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="6">
+     <transform x="22.7" y="-186.8" skX="-8.26" skY="-8.26" scX="-1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="19.9" y="-189.55" skX="-8.26" skY="-8.26" scX="-1" scY="1" pX="0" pY="0.15"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="22.7" y="-186.75" skX="-8.29" skY="-8.29" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi5" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="4">
+     <transform x="49.1" y="-151.4" skX="35.92" skY="35.92" scX="1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="4">
+     <transform x="49.1" y="-154.15" skX="35.86" skY="35.86" scX="0.96" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="6">
+     <transform x="49.05" y="-151.4" skX="35.84" skY="35.84" scX="1" scY="1" pX="0.15" pY="-0.05"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="4">
+     <transform x="46.4" y="-155.6" skX="40.83" skY="40.83" scX="1" scY="1" pX="0.1" pY="-0.1"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="49.1" y="-151.4" skX="35.92" skY="35.92" scX="1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi10" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="2">
+     <transform x="50.5" y="-67.5" skX="-3.49" skY="-3.49" scX="1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="2">
+     <transform x="25.55" y="-57.55" skX="16.67" skY="16.67" scX="1" scY="0.9" pX="-0.05" pY="0.1"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="4">
+     <transform x="-3" y="-61.05" skX="10.16" skY="10.16" scX="1" scY="0.78" pX="-0.1" pY="0.1"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="2">
+     <transform x="-8.5" y="-61.5" skX="45.12" skY="45.12" scX="1" scY="0.85" pX="0.05" pY="0.1"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="2">
+     <transform x="16.55" y="-63.9" skX="24.3" skY="24.31" scX="1" scY="0.91" pX="-0.05" pY="0.1"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="2">
+     <transform x="35.65" y="-56.45" skX="25.79" skY="25.79" scX="1" scY="0.94" pX="-0.05" pY="0.15"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="2">
+     <transform x="53.3" y="-71.65" skX="10.35" skY="10.35" scX="1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="2">
+     <transform x="50.8" y="-74.1" skX="-20.67" skY="-20.67" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="1">
+     <transform x="50.5" y="-67.5" skX="-3.49" skY="-3.49" scX="1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi8" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="2">
+     <transform x="18.05" y="-101.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="2">
+     <transform x="18.05" y="-102.8" skX="33.56" skY="33.56" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="4">
+     <transform x="18.1" y="-104.8" skX="67.79" skY="67.79" scX="1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="2">
+     <transform x="18.1" y="-100.8" skX="79.75" skY="79.75" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="4">
+     <transform x="18.15" y="-101.15" skX="47.88" skY="47.88" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="4">
+     <transform x="18.15" y="-104.25" skX="-5.97" skY="-5.97" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="1">
+     <transform x="18.05" y="-101.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi6" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="2">
+     <transform x="15.8" y="-106.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="2">
+     <transform x="15.8" y="-107.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="4">
+     <transform x="15.8" y="-109.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="2">
+     <transform x="15.8" y="-105.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="4">
+     <transform x="15.8" y="-105.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="4">
+     <transform x="15.8" y="-108.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="1">
+     <transform x="15.8" y="-106.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi2" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="4">
+     <transform x="19.8" y="-126" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="4">
+     <transform x="19.8" y="-129" skX="2.74" skY="2.74" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="6">
+     <transform x="19.8" y="-125" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="4">
+     <transform x="19.8" y="-128.5" skX="-1.98" skY="-1.98" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="1">
+     <transform x="19.8" y="-126" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 2" scale="1" offset="0">
+    <frame z="7" tweenEasing="0" duration="2">
+     <transform x="-14.45" y="-58.3" skX="32.46" skY="32.46" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="2">
+     <transform x="19.5" y="-57.7" skX="13.81" skY="13.81" scX="1" scY="1" pX="-0.2" pY="0"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="2">
+     <transform x="36.25" y="-72.85" skX="13.81" skY="13.81" scX="1" scY="1" pX="-0.2" pY="-0.05"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="2">
+     <transform x="35.2" y="-72.55" skX="-20.31" skY="-20.31" scX="1" scY="1" pX="-0.2" pY="-0.1"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="2">
+     <transform x="33.95" y="-64.2" skX="-4.9" skY="-4.9" scX="1" scY="1" pX="-0.2" pY="-0.05"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="2">
+     <transform x="14.3" y="-58.45" skX="0.29" skY="0.29" scX="1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="2">
+     <transform x="2.8" y="-58.35" skX="-1.05" skY="-1.05" scX="1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="4">
+     <transform x="-14.45" y="-58.2" skX="-3.46" skY="-3.46" scX="1" scY="1" pX="-0.1" pY="-0.2"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="1">
+     <transform x="-14.45" y="-58.3" skX="32.46" skY="32.46" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi7" scale="1" offset="0">
+    <frame z="8" tweenEasing="0" duration="2">
+     <transform x="-0.7" y="-108" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="2">
+     <transform x="-0.7" y="-109" skX="-36.75" skY="-36.75" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="4">
+     <transform x="-0.75" y="-111" skX="-59.91" skY="-59.91" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="2">
+     <transform x="-0.7" y="-107" skX="-56.52" skY="-56.52" scX="1" scY="1" pX="0.1" pY="0.1"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="4">
+     <transform x="-0.7" y="-107.4" skX="-33.85" skY="-33.85" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="4">
+     <transform x="-0.7" y="-110.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="1">
+     <transform x="-0.7" y="-108" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi1" scale="1" offset="0">
+    <frame z="9" tweenEasing="0" duration="4">
+     <transform x="43.05" y="-197.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="4">
+     <transform x="43.05" y="-200.5" skX="6.2" skY="6.2" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="6">
+     <transform x="43.05" y="-196.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="4">
+     <transform x="42.55" y="-200" skX="-3.75" skY="-3.75" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="1">
+     <transform x="43.05" y="-197.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi3" scale="1" offset="0">
+    <frame z="10" tweenEasing="0" duration="4">
+     <transform x="-9.7" y="-188.4" skX="31.96" skY="31.96" scX="1" scY="1" pX="15" pY="-4.45"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="4">
+     <transform x="-8.3" y="-192.6" skX="31.86" skY="31.86" scX="1" scY="1" pX="14.95" pY="-4.45"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="6">
+     <transform x="-9.65" y="-188.4" skX="31.84" skY="31.84" scX="1" scY="1" pX="14.95" pY="-4.45"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="4">
+     <transform x="-9.7" y="-191.9" skX="31.84" skY="31.84" scX="1" scY="1" pX="14.95" pY="-4.45"/>
+    </frame>
+    <frame z="10" duration="1">
+     <transform x="-9.7" y="-188.4" skX="31.96" skY="31.96" scX="1" scY="1" pX="15" pY="-4.45"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi4" scale="1" offset="0">
+    <frame z="11" tweenEasing="0" duration="4">
+     <transform x="-41" y="-161.15" skX="39.85" skY="39.85" scX="1" scY="1" pX="-0.05" pY="-0.1"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="4">
+     <transform x="-40.35" y="-163.95" skX="45.09" skY="45.09" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="6">
+     <transform x="-41.05" y="-161.15" skX="39.85" skY="39.85" scX="1" scY="1" pX="-0.05" pY="-0.1"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="4">
+     <transform x="-41" y="-164.1" skX="46.33" skY="46.33" scX="1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+    <frame z="11" duration="1">
+     <transform x="-41" y="-161.15" skX="39.85" skY="39.85" scX="1" scY="1" pX="-0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="gongji_1" fadeInTime="0" duration="3" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="chazi3_1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="38" y="-194.85" skX="10.47" skY="10.47" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="-12.75" y="-211.6" skX="57.33" skY="57.33" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi5" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="51.7" y="-157.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="-32.85" y="-170.3" skX="-1.47" skY="-1.47" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi10" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="2">
+     <transform x="50.5" y="-67.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="1">
+     <transform x="17.55" y="-76.8" skX="-5.81" skY="-5.81" scX="0.91" scY="1.09" pX="-0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi8" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="2">
+     <transform x="18.05" y="-104.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="1">
+     <transform x="-12.95" y="-123" skX="5.3" skY="5.3" scX="1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi6" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="2">
+     <transform x="15.8" y="-108.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="1">
+     <transform x="-10.4" y="-122.65" skX="-15.93" skY="-15.93" scX="1" scY="1" pX="0.05" pY="-0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi2" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="2">
+     <transform x="19.8" y="-128.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="1">
+     <transform x="-12" y="-142.8" skX="-15.93" skY="-15.93" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi9" scale="1" offset="0">
+    <frame z="6" tweenEasing="0" duration="2">
+     <transform x="-12.7" y="-59" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" duration="1">
+     <transform x="-24.3" y="-62.35" skX="-8.46" skY="-8.46" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi7" scale="1" offset="0">
+    <frame z="8" tweenEasing="0" duration="2">
+     <transform x="-0.7" y="-110.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="1">
+     <transform x="-30.05" y="-118.4" skX="-20.21" skY="-20.21" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi1" scale="1" offset="0">
+    <frame z="9" tweenEasing="0" duration="2">
+     <transform x="43.05" y="-200" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="1">
+     <transform x="-9.3" y="-217.95" skX="-15.93" skY="-15.93" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi3" scale="1" offset="0">
+    <frame z="10" tweenEasing="0" duration="2">
+     <transform x="-13.15" y="-187" skX="0.29" skY="0.29" scX="1" scY="1" pX="14.85" pY="-4.4"/>
+    </frame>
+    <frame z="10" duration="1">
+     <transform x="-57.05" y="-196.6" skX="8.7" skY="8.7" scX="1" scY="1" pX="14.95" pY="-4.25"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi4" scale="1" offset="0">
+    <frame z="11" tweenEasing="0" duration="2">
+     <transform x="-24.45" y="-146.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" duration="1">
+     <transform x="-76.85" y="-159.1" skX="26.73" skY="26.73" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="gongji_2" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="chazi3_1" scale="1" offset="0">
+    <frame z="0" duration="2">
+     <transform x="-12.75" y="-211.6" skX="57.33" skY="57.33" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi5" scale="1" offset="0">
+    <frame z="1" duration="2">
+     <transform x="-32.85" y="-170.3" skX="-1.47" skY="-1.47" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi10" scale="1" offset="0">
+    <frame z="2" duration="2">
+     <transform x="17.55" y="-76.8" skX="-5.81" skY="-5.81" scX="0.91" scY="1.09" pX="-0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi8" scale="1" offset="0">
+    <frame z="3" duration="2">
+     <transform x="-12.95" y="-123" skX="5.3" skY="5.3" scX="1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi6" scale="1" offset="0">
+    <frame z="4" duration="2">
+     <transform x="-10.4" y="-122.65" skX="-15.93" skY="-15.93" scX="1" scY="1" pX="0.05" pY="-0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi2" scale="1" offset="0">
+    <frame z="5" duration="2">
+     <transform x="-12" y="-142.8" skX="-15.93" skY="-15.93" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi9" scale="1" offset="0">
+    <frame z="6" duration="2">
+     <transform x="-24.3" y="-62.35" skX="-8.46" skY="-8.46" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi7" scale="1" offset="0">
+    <frame z="8" duration="2">
+     <transform x="-30.05" y="-118.4" skX="-20.21" skY="-20.21" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi1" scale="1" offset="0">
+    <frame z="9" duration="2">
+     <transform x="-9.3" y="-217.95" skX="-15.93" skY="-15.93" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi3" scale="1" offset="0">
+    <frame z="10" duration="2">
+     <transform x="-57.05" y="-196.6" skX="8.7" skY="8.7" scX="1" scY="1" pX="14.95" pY="-4.25"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi4" scale="1" offset="0">
+    <frame z="11" duration="2">
+     <transform x="-76.85" y="-159.1" skX="26.73" skY="26.73" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="gongji_3" fadeInTime="0" duration="12" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="chazi3_1" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="-12.75" y="-211.6" skX="57.33" skY="57.33" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="0" duration="2">
+     <transform x="92.7" y="-156.45" skX="-11.84" skY="-11.84" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="7">
+     <transform x="98.05" y="-171.55" skX="-70.25" skY="-70.25" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="2">
+     <transform x="66.6" y="-190.2" skX="-21.13" skY="-21.13" scX="-1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi5" scale="1" offset="0">
+    <frame z="1" duration="1">
+     <transform x="-32.85" y="-170.3" skX="-1.47" skY="-1.47" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="1" duration="2">
+     <transform x="121.65" y="-126.6" skX="6.71" skY="6.71" scX="1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame z="1" duration="7">
+     <transform x="139.35" y="-185.2" skX="-111.24" skY="-111.24" scX="1" scY="0.79" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="1" duration="2">
+     <transform x="97.65" y="-163.6" skX="-37.74" skY="-37.74" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi10" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="17.55" y="-76.8" skX="-5.81" skY="-5.81" scX="0.91" scY="1.09" pX="-0.05" pY="-0.1"/>
+    </frame>
+    <frame z="2" duration="2">
+     <transform x="47.55" y="-12.8" skX="15.24" skY="5.23" scX="1" scY="1.02" pX="10.75" pY="-60.75"/>
+    </frame>
+    <frame z="2" duration="7">
+     <transform x="47.55" y="-12.8" skX="15.24" skY="5.23" scX="1" scY="1.02" pX="10.75" pY="-60.75"/>
+    </frame>
+    <frame z="2" duration="2">
+     <transform x="47.55" y="-12.8" skX="15.24" skY="5.23" scX="1" scY="1.02" pX="10.75" pY="-60.75"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi8" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="-12.95" y="-123" skX="5.3" skY="5.3" scX="1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+    <frame z="3" duration="2">
+     <transform x="38.5" y="-101.85" skX="-11.72" skY="-11.72" scX="1" scY="1" pX="0" pY="0.15"/>
+    </frame>
+    <frame z="3" duration="7">
+     <transform x="38.5" y="-101.85" skX="-11.72" skY="-11.72" scX="1" scY="1" pX="0" pY="0.15"/>
+    </frame>
+    <frame z="3" duration="2">
+     <transform x="38.5" y="-101.85" skX="-11.72" skY="-11.72" scX="1" scY="1" pX="0" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi6" scale="1" offset="0">
+    <frame z="4" duration="1">
+     <transform x="-10.4" y="-122.65" skX="-15.93" skY="-15.93" scX="1" scY="1" pX="0.05" pY="-0.2"/>
+    </frame>
+    <frame z="4" duration="2">
+     <transform x="36.65" y="-102.25" skX="27.68" skY="27.68" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="7">
+     <transform x="36.7" y="-106.45" skX="23.22" skY="23.22" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="4" duration="2">
+     <transform x="36.65" y="-106.45" skX="5.23" skY="5.23" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi2" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="-12" y="-142.8" skX="-15.93" skY="-15.93" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="5" duration="2">
+     <transform x="49.15" y="-116.75" skX="22.44" skY="22.44" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="7">
+     <transform x="38.8" y="-122.9" skX="32.17" skY="32.17" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="2">
+     <transform x="42.4" y="-125.75" skX="1.29" skY="1.29" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi9" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="-24.3" y="-62.35" skX="-8.46" skY="-8.46" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="6" duration="2">
+     <transform x="-46.65" y="-5.5" skX="7.76" skY="0" scX="1" scY="1.01" pX="33.95" pY="-53.5"/>
+    </frame>
+    <frame z="6" duration="7">
+     <transform x="-46.65" y="-5.5" skX="7.76" skY="0" scX="1" scY="1.01" pX="33.95" pY="-53.5"/>
+    </frame>
+    <frame z="6" duration="2">
+     <transform x="-46.65" y="-5.5" skX="7.76" skY="0" scX="1" scY="1.01" pX="33.95" pY="-53.5"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi7" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="-30.05" y="-118.4" skX="-20.21" skY="-20.21" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="8" duration="2">
+     <transform x="20.35" y="-109.7" skX="11.68" skY="11.68" scX="1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+    <frame z="8" duration="7">
+     <transform x="20.35" y="-109.7" skX="11.68" skY="11.68" scX="1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+    <frame z="8" duration="2">
+     <transform x="20.35" y="-109.7" skX="11.68" skY="11.68" scX="1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="-9.3" y="-217.95" skX="-15.93" skY="-15.93" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="9" duration="2">
+     <transform x="97.95" y="-173.95" skX="22.44" skY="22.44" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="9" duration="7">
+     <transform x="101.5" y="-167.1" skX="5.23" skY="5.23" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="2">
+     <transform x="68.5" y="-194.85" skX="5.23" skY="5.23" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi3" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-57.05" y="-196.6" skX="8.7" skY="8.7" scX="1" scY="1" pX="14.95" pY="-4.25"/>
+    </frame>
+    <frame z="10" duration="2">
+     <transform x="50.45" y="-170.85" skX="-61.11" skY="-61.11" scX="1" scY="1" pX="14.8" pY="-4.4"/>
+    </frame>
+    <frame z="10" duration="7">
+     <transform x="58.25" y="-182.55" skX="-104.06" skY="-104.06" scX="1" scY="1.53" pX="14.95" pY="-4.35"/>
+    </frame>
+    <frame z="10" duration="2">
+     <transform x="15.85" y="-183.35" skX="-57.39" skY="-57.39" scX="1" scY="1" pX="14.75" pY="-4.5"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi4" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="-76.85" y="-159.1" skX="26.73" skY="26.73" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="11" duration="2">
+     <transform x="77.75" y="-134.85" skX="3.71" skY="3.71" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="11" duration="7">
+     <transform x="115.5" y="-189.2" skX="-112.73" skY="-112.73" scX="1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+    <frame z="11" duration="2">
+     <transform x="43.85" y="-156.55" skX="-44.99" skY="-44.99" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <frame duration="1"/>
+   <frame duration="11" event="E_fly_horizontal"/>
+  </animation>
+  <animation name="A_attack_back1" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="chazi3_1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="-46.05" y="-197.7" skX="-32.62" skY="-32.62" scX="-1" scY="1" pX="0.15" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi5" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="-10.6" y="-179.75" skX="-88.54" skY="-88.54" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi10" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="1">
+     <transform x="45.65" y="-90.9" skX="-0.89" skY="-0.89" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi8" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="1">
+     <transform x="3.15" y="-115.55" skX="-18.39" skY="-18.39" scX="1" scY="1" pX="-0.15" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi6" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="1">
+     <transform x="-3.5" y="-119.7" skX="-43.1" skY="-43.1" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi2" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="1">
+     <transform x="-14.1" y="-136.85" skX="-43.1" skY="-43.1" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi9" scale="1" offset="0">
+    <frame z="6" tweenEasing="0" duration="1">
+     <transform x="-12.7" y="-59" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi7" scale="1" offset="0">
+    <frame z="8" tweenEasing="0" duration="1">
+     <transform x="-16.65" y="-115.5" skX="-18.39" skY="-18.39" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi1" scale="1" offset="0">
+    <frame z="9" tweenEasing="0" duration="1">
+     <transform x="-45.95" y="-204.9" skX="-65.29" skY="-65.29" scX="1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi3" scale="1" offset="0">
+    <frame z="10" tweenEasing="0" duration="1">
+     <transform x="-78.2" y="-157" skX="-12.35" skY="-12.35" scX="1" scY="1" pX="14.95" pY="-4.4"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi4" scale="1" offset="0">
+    <frame z="11" tweenEasing="0" duration="1">
+     <transform x="-81.35" y="-119.1" skX="-33.37" skY="-33.37" scX="1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="A_attack_back2" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="chazi3_1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="-2.35" y="-193.8" skX="-16.65" skY="-16.65" scX="-1" scY="1" pX="0.15" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi5" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="28.2" y="-160.8" skX="6.42" skY="6.42" scX="1" scY="1" pX="0.15" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi10" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="1">
+     <transform x="-3.7" y="-85.55" skX="-64.6" skY="-64.6" scX="1" scY="1" pX="0.15" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi8" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="1">
+     <transform x="-44.5" y="-113.1" skX="-14.62" skY="-14.62" scX="1" scY="1" pX="-0.15" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi6" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="1">
+     <transform x="-51.85" y="-120.05" skX="19.37" skY="19.37" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi2" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="1">
+     <transform x="-41.6" y="-137.35" skX="19.37" skY="19.37" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi9" scale="1" offset="0">
+    <frame z="6" tweenEasing="0" duration="1">
+     <transform x="-35.75" y="-64.9" skX="-26.64" skY="-26.64" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi7" scale="1" offset="0">
+    <frame z="8" tweenEasing="0" duration="1">
+     <transform x="-64.15" y="-114.3" skX="-45.33" skY="-45.33" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi1" scale="1" offset="0">
+    <frame z="9" tweenEasing="0" duration="1">
+     <transform x="4.05" y="-196.95" skX="15.91" skY="15.91" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi3" scale="1" offset="0">
+    <frame z="10" tweenEasing="0" duration="1">
+     <transform x="-50" y="-196.85" skX="-50.4" skY="-50.4" scX="1" scY="1" pX="15.05" pY="-4.25"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi4" scale="1" offset="0">
+    <frame z="11" tweenEasing="0" duration="1">
+     <transform x="-24.95" y="-158.95" skX="-2.4" skY="-2.4" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="fukong1" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="chazi3_1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="-56.05" y="-198" skX="-50.62" skY="-50.62" scX="-1" scY="1" pX="0.15" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi5" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="-9.9" y="-190.45" skX="-38.01" skY="-38.01" scX="1" scY="1" pX="0.2" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi10" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="1">
+     <transform x="45.25" y="-97.2" skX="-43.42" skY="-43.42" scX="1" scY="1" pX="0.25" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi8" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="1">
+     <transform x="-1.15" y="-117.7" skX="-30.04" skY="-30.04" scX="1" scY="1" pX="-0.2" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi6" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="1">
+     <transform x="-10.15" y="-122.05" skX="-45.59" skY="-45.59" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi2" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="1">
+     <transform x="-21.5" y="-138.6" skX="-45.59" skY="-45.59" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi9" scale="1" offset="0">
+    <frame z="6" tweenEasing="0" duration="1">
+     <transform x="4.6" y="-63.75" skX="-42.69" skY="-42.69" scX="1" scY="1" pX="-0.25" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi7" scale="1" offset="0">
+    <frame z="8" tweenEasing="0" duration="1">
+     <transform x="-22.65" y="-107.95" skX="-43.31" skY="-43.31" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi1" scale="1" offset="0">
+    <frame z="9" tweenEasing="0" duration="1">
+     <transform x="-56.15" y="-205.2" skX="-66.75" skY="-66.75" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi3" scale="1" offset="0">
+    <frame z="10" tweenEasing="0" duration="1">
+     <transform x="-85.85" y="-160.95" skX="-23.83" skY="-23.83" scX="1" scY="1" pX="15.1" pY="-4.35"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi4" scale="1" offset="0">
+    <frame z="11" tweenEasing="0" duration="1">
+     <transform x="-77.45" y="-118.7" skX="25.92" skY="25.92" scX="1" scY="1" pX="0.15" pY="-0.05"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="fukong2" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="chazi3_1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="-8.9" y="-178.1" skX="-14.95" skY="-14.95" scX="-1" scY="1" pX="0.25" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi5" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="24.15" y="-144.95" skX="-24.8" skY="-24.8" scX="1" scY="1" pX="0.15" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi10" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="1">
+     <transform x="51.7" y="-95.7" skX="-43.42" skY="-43.42" scX="1" scY="1" pX="0.15" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi8" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="1">
+     <transform x="1.85" y="-93.8" skX="-57.03" skY="-57.03" scX="1" scY="1" pX="-0.25" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi6" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="1">
+     <transform x="-7.2" y="-98.05" skX="-23.12" skY="-23.12" scX="1" scY="1" pX="-0.05" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi2" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="1">
+     <transform x="-15.6" y="-109.65" skX="-9.91" skY="-9.91" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi9" scale="1" offset="0">
+    <frame z="6" tweenEasing="0" duration="1">
+     <transform x="29.05" y="-61.25" skX="-50.45" skY="-50.45" scX="1" scY="1" pX="-0.25" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi7" scale="1" offset="0">
+    <frame z="8" tweenEasing="0" duration="1">
+     <transform x="-19.7" y="-84" skX="-76.51" skY="-76.51" scX="1" scY="1" pX="-0.1" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi1" scale="1" offset="0">
+    <frame z="9" tweenEasing="0" duration="1">
+     <transform x="-4.9" y="-184.05" skX="15.15" skY="15.15" scX="1" scY="1" pX="0.15" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi3" scale="1" offset="0">
+    <frame z="10" tweenEasing="0" duration="1">
+     <transform x="-54.8" y="-165.3" skX="-1.16" skY="-1.16" scX="1" scY="1" pX="15.1" pY="-4.45"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi4" scale="1" offset="0">
+    <frame z="11" tweenEasing="0" duration="1">
+     <transform x="-63.1" y="-125.7" skX="2.63" skY="2.63" scX="1" scY="1" pX="0.3" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="fukong4" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="chazi3_1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="-90.35" y="-44.4" skX="-89.1" skY="-89.1" scX="-1" scY="1" pX="0.1" pY="-0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi5" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="-51.95" y="-62.05" skX="-44.68" skY="-44.68" scX="1" scY="1" pX="0.1" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi10" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="1">
+     <transform x="58.95" y="-59.55" skX="-98.1" skY="-98.1" scX="1" scY="1" pX="0.3" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi8" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="1">
+     <transform x="10.65" y="-54.2" skX="-55.48" skY="-55.48" scX="1" scY="1" pX="-0.25" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi6" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="1">
+     <transform x="-0.05" y="-53.05" skX="-107.01" skY="-107.01" scX="1" scY="1" pX="-0.05" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi2" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="1">
+     <transform x="-22.45" y="-55.05" skX="-114.3" skY="-114.3" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi9" scale="1" offset="0">
+    <frame z="6" tweenEasing="0" duration="1">
+     <transform x="60.35" y="-21.7" skX="-105.13" skY="-105.13" scX="1" scY="1" pX="-0.3" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi7" scale="1" offset="0">
+    <frame z="8" tweenEasing="0" duration="1">
+     <transform x="6.25" y="-31" skX="-95.18" skY="-95.18" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi1" scale="1" offset="0">
+    <frame z="9" tweenEasing="0" duration="1">
+     <transform x="-97.15" y="-46.85" skX="-115.23" skY="-115.23" scX="1" scY="1" pX="0" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi3" scale="1" offset="0">
+    <frame z="10" tweenEasing="0" duration="1">
+     <transform x="-66.6" y="-3.15" skX="-91.06" skY="-91.06" scX="1" scY="1" pX="15.1" pY="-4.45"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi4" scale="1" offset="0">
+    <frame z="11" tweenEasing="0" duration="1">
+     <transform x="-21.7" y="9.9" skX="-49.24" skY="-49.24" scX="1" scY="1" pX="0.2" pY="0.1"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="daodi" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="chazi3_1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="-81.1" y="-56" skX="-93.92" skY="-93.92" scX="-1" scY="1" pX="0.15" pY="-0.3"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi5" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="-48.1" y="-76" skX="-50.91" skY="-50.91" scX="1" scY="1" pX="0.1" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi10" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="1">
+     <transform x="56.8" y="-76" skX="-106.87" skY="-106.87" scX="1" scY="1" pX="0.25" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi8" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="1">
+     <transform x="8.15" y="-63.25" skX="-72.56" skY="-72.56" scX="1" scY="1" pX="-0.3" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi6" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="1">
+     <transform x="4.3" y="-62.85" skX="-107.02" skY="-107.02" scX="1" scY="1" pX="-0.05" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi2" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="1">
+     <transform x="-18.15" y="-64.9" skX="-114.29" skY="-114.29" scX="1" scY="1" pX="-0.15" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi9" scale="1" offset="0">
+    <frame z="6" tweenEasing="0" duration="1">
+     <transform x="66.4" y="-50.8" skX="-111.33" skY="-111.33" scX="1" scY="1" pX="-0.25" pY="-0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi7" scale="1" offset="0">
+    <frame z="8" tweenEasing="0" duration="1">
+     <transform x="14.55" y="-43.45" skX="-112.09" skY="-112.09" scX="1" scY="1" pX="0.1" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi1" scale="1" offset="0">
+    <frame z="9" tweenEasing="0" duration="1">
+     <transform x="-91.3" y="-64.9" skX="-119.63" skY="-119.63" scX="1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi3" scale="1" offset="0">
+    <frame z="10" tweenEasing="0" duration="1">
+     <transform x="-58.45" y="-13.1" skX="-99.64" skY="-99.64" scX="1" scY="1" pX="15.1" pY="-4.45"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi4" scale="1" offset="0">
+    <frame z="11" tweenEasing="0" duration="1">
+     <transform x="-19.65" y="-9.2" skX="-62.23" skY="-62.23" scX="1" scY="1" pX="0.2" pY="0.1"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="fukong3" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="chazi3_1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="-78.6" y="-41.4" skX="-154.3" skY="-154.3" scX="-1" scY="1" pX="0.1" pY="-0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi5" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="-78.6" y="-83.65" skX="-109.87" skY="-109.87" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi10" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="1">
+     <transform x="-1.8" y="-97.75" skX="-155.85" skY="-155.85" scX="1" scY="1" pX="0.25" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi8" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="1">
+     <transform x="-1" y="-46.1" skX="-140.97" skY="-140.97" scX="1" scY="1" pX="-0.3" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi6" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="1">
+     <transform x="1.95" y="-46.55" skX="-107.01" skY="-107.01" scX="1" scY="1" pX="-0.05" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi2" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="1">
+     <transform x="-20.45" y="-48.55" skX="-114.3" skY="-114.3" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi9" scale="1" offset="0">
+    <frame z="6" tweenEasing="0" duration="1">
+     <transform x="52.95" y="-70.75" skX="-162.87" skY="-162.87" scX="1" scY="1" pX="-0.35" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi7" scale="1" offset="0">
+    <frame z="8" tweenEasing="0" duration="1">
+     <transform x="16.25" y="-29.95" skX="-152.93" skY="-152.93" scX="1" scY="1" pX="-0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi1" scale="1" offset="0">
+    <frame z="9" tweenEasing="0" duration="1">
+     <transform x="-92.1" y="-56.9" skX="-152.79" skY="-152.79" scX="1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi3" scale="1" offset="0">
+    <frame z="10" tweenEasing="0" duration="1">
+     <transform x="-57.15" y="2.9" skX="-177.99" skY="-177.99" scX="1" scY="1" pX="15.1" pY="-4.4"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi4" scale="1" offset="0">
+    <frame z="11" tweenEasing="0" duration="1">
+     <transform x="-37.4" y="-40.05" skX="-127.5" skY="-127.5" scX="1" scY="1" pX="0.25" pY="0.1"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="A_fly_vertical" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="chazi3_1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="-77.05" y="-76.85" skX="-58.53" skY="-58.53" scX="-1" scY="1" pX="0.05" pY="-0.25"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi5" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="-27.5" y="-75.2" skX="-43.14" skY="-43.14" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi10" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="1">
+     <transform x="48.7" y="-85.5" skX="-64.72" skY="-64.72" scX="1" scY="1" pX="0.3" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi8" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="1">
+     <transform x="-1.85" y="-79.5" skX="-59.87" skY="-59.87" scX="1" scY="1" pX="-0.3" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi6" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="1">
+     <transform x="1.2" y="-79.65" skX="-101.82" skY="-101.82" scX="1" scY="1" pX="0" pY="0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi2" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="1">
+     <transform x="-18.95" y="-84" skX="-123.77" skY="-123.77" scX="1" scY="1" pX="-0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi9" scale="1" offset="0">
+    <frame z="6" tweenEasing="0" duration="1">
+     <transform x="56.6" y="-52.7" skX="-77.23" skY="-77.23" scX="1" scY="1" pX="-0.3" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi7" scale="1" offset="0">
+    <frame z="8" tweenEasing="0" duration="1">
+     <transform x="5.95" y="-63.75" skX="-96.21" skY="-96.21" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi1" scale="1" offset="0">
+    <frame z="9" tweenEasing="0" duration="1">
+     <transform x="-91.1" y="-61.4" skX="-152.79" skY="-152.79" scX="1" scY="1" pX="-0.15" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi3" scale="1" offset="0">
+    <frame z="10" tweenEasing="0" duration="1">
+     <transform x="-62.6" y="-30.15" skX="-79.02" skY="-79.02" scX="1" scY="1" pX="15.1" pY="-4.45"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi4" scale="1" offset="0">
+    <frame z="11" tweenEasing="0" duration="1">
+     <transform x="-24.45" y="-11.05" skX="-53.95" skY="-53.95" scX="1" scY="1" pX="0.25" pY="0.1"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="siwang" fadeInTime="0" duration="15" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="chazi3_1" scale="1" offset="0">
+    <frame z="0" duration="5">
+     <transform x="-90.35" y="-44.4" skX="-89.1" skY="-89.1" scX="-1" scY="1" pX="0.1" pY="-0.2"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="0" duration="3">
+     <transform x="-90.35" y="-44.4" skX="-89.1" skY="-89.1" scX="-1" scY="1" pX="0.1" pY="-0.2"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="0" duration="2">
+     <transform x="-90.35" y="-44.4" skX="-89.1" skY="-89.1" scX="-1" scY="1" pX="0.1" pY="-0.2"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="0" duration="1">
+     <transform x="-90.35" y="-44.4" skX="-89.1" skY="-89.1" scX="-1" scY="1" pX="0.1" pY="-0.2"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="chazi5" scale="1" offset="0">
+    <frame z="1" duration="5">
+     <transform x="-51.95" y="-62.05" skX="-44.68" skY="-44.68" scX="1" scY="1" pX="0.1" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="1" duration="3">
+     <transform x="-51.95" y="-62.05" skX="-44.68" skY="-44.68" scX="1" scY="1" pX="0.1" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="1" duration="2">
+     <transform x="-51.95" y="-62.05" skX="-44.68" skY="-44.68" scX="1" scY="1" pX="0.1" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="1" duration="1">
+     <transform x="-51.95" y="-62.05" skX="-44.68" skY="-44.68" scX="1" scY="1" pX="0.1" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="chazi10" scale="1" offset="0">
+    <frame z="2" duration="5">
+     <transform x="58.95" y="-59.55" skX="-98.1" skY="-98.1" scX="1" scY="1" pX="0.3" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="2" duration="3">
+     <transform x="58.95" y="-59.55" skX="-98.1" skY="-98.1" scX="1" scY="1" pX="0.3" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="2" duration="2">
+     <transform x="58.95" y="-59.55" skX="-98.1" skY="-98.1" scX="1" scY="1" pX="0.3" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="2" duration="1">
+     <transform x="58.95" y="-59.55" skX="-98.1" skY="-98.1" scX="1" scY="1" pX="0.3" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="chazi8" scale="1" offset="0">
+    <frame z="3" duration="5">
+     <transform x="10.65" y="-54.2" skX="-55.48" skY="-55.48" scX="1" scY="1" pX="-0.25" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="3" duration="3">
+     <transform x="10.65" y="-54.2" skX="-55.48" skY="-55.48" scX="1" scY="1" pX="-0.25" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="3" duration="2">
+     <transform x="10.65" y="-54.2" skX="-55.48" skY="-55.48" scX="1" scY="1" pX="-0.25" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="3" duration="1">
+     <transform x="10.65" y="-54.2" skX="-55.48" skY="-55.48" scX="1" scY="1" pX="-0.25" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="chazi6" scale="1" offset="0">
+    <frame z="4" duration="5">
+     <transform x="-0.05" y="-53.05" skX="-107.01" skY="-107.01" scX="1" scY="1" pX="-0.05" pY="0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="4" duration="3">
+     <transform x="-0.05" y="-53.05" skX="-107.01" skY="-107.01" scX="1" scY="1" pX="-0.05" pY="0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="4" duration="2">
+     <transform x="-0.05" y="-53.05" skX="-107.01" skY="-107.01" scX="1" scY="1" pX="-0.05" pY="0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="4" duration="1">
+     <transform x="-0.05" y="-53.05" skX="-107.01" skY="-107.01" scX="1" scY="1" pX="-0.05" pY="0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="chazi2" scale="1" offset="0">
+    <frame z="5" duration="5">
+     <transform x="-22.45" y="-55.05" skX="-114.3" skY="-114.3" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="5" duration="3">
+     <transform x="-22.45" y="-55.05" skX="-114.3" skY="-114.3" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="5" duration="2">
+     <transform x="-22.45" y="-55.05" skX="-114.3" skY="-114.3" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="5" duration="1">
+     <transform x="-22.45" y="-55.05" skX="-114.3" skY="-114.3" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="chazi9" scale="1" offset="0">
+    <frame z="6" duration="5">
+     <transform x="60.35" y="-21.7" skX="-105.13" skY="-105.13" scX="1" scY="1" pX="-0.3" pY="-0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="6" duration="3">
+     <transform x="60.35" y="-21.7" skX="-105.13" skY="-105.13" scX="1" scY="1" pX="-0.3" pY="-0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="6" duration="2">
+     <transform x="60.35" y="-21.7" skX="-105.13" skY="-105.13" scX="1" scY="1" pX="-0.3" pY="-0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="6" duration="1">
+     <transform x="60.35" y="-21.7" skX="-105.13" skY="-105.13" scX="1" scY="1" pX="-0.3" pY="-0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="chazi7" scale="1" offset="0">
+    <frame z="8" duration="5">
+     <transform x="6.25" y="-31" skX="-95.18" skY="-95.18" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="8" duration="3">
+     <transform x="6.25" y="-31" skX="-95.18" skY="-95.18" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="8" duration="2">
+     <transform x="6.25" y="-31" skX="-95.18" skY="-95.18" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="8" duration="1">
+     <transform x="6.25" y="-31" skX="-95.18" skY="-95.18" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="chazi1" scale="1" offset="0">
+    <frame z="9" duration="5">
+     <transform x="-97.15" y="-46.85" skX="-115.23" skY="-115.23" scX="1" scY="1" pX="0" pY="0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="9" duration="3">
+     <transform x="-97.15" y="-46.85" skX="-115.23" skY="-115.23" scX="1" scY="1" pX="0" pY="0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="9" duration="2">
+     <transform x="-97.15" y="-46.85" skX="-115.23" skY="-115.23" scX="1" scY="1" pX="0" pY="0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="9" duration="1">
+     <transform x="-97.15" y="-46.85" skX="-115.23" skY="-115.23" scX="1" scY="1" pX="0" pY="0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="chazi3" scale="1" offset="0">
+    <frame z="10" duration="5">
+     <transform x="-66.6" y="-3.15" skX="-91.06" skY="-91.06" scX="1" scY="1" pX="15.1" pY="-4.45"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="10" duration="3">
+     <transform x="-66.6" y="-3.15" skX="-91.06" skY="-91.06" scX="1" scY="1" pX="15.1" pY="-4.45"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="10" duration="2">
+     <transform x="-66.6" y="-3.15" skX="-91.06" skY="-91.06" scX="1" scY="1" pX="15.1" pY="-4.45"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="10" duration="1">
+     <transform x="-66.6" y="-3.15" skX="-91.06" skY="-91.06" scX="1" scY="1" pX="15.1" pY="-4.45"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="chazi4" scale="1" offset="0">
+    <frame z="11" duration="5">
+     <transform x="-21.7" y="9.9" skX="-49.24" skY="-49.24" scX="1" scY="1" pX="0.2" pY="0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="11" duration="3">
+     <transform x="-21.7" y="9.9" skX="-49.24" skY="-49.24" scX="1" scY="1" pX="0.2" pY="0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="11" duration="2">
+     <transform x="-21.7" y="9.9" skX="-49.24" skY="-49.24" scX="1" scY="1" pX="0.2" pY="0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="11" duration="1">
+     <transform x="-21.7" y="9.9" skX="-49.24" skY="-49.24" scX="1" scY="1" pX="0.2" pY="0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+  </animation>
+  <animation name="gongji2_1" fadeInTime="0" duration="3" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="chazi3_1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="38" y="-194.85" skX="10.47" skY="10.47" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="-44.35" y="-210.4" skX="41.09" skY="41.09" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi5" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="51.7" y="-157.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="-43.85" y="-180.25" skX="-50.9" skY="-50.9" scX="1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi10" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="2">
+     <transform x="50.5" y="-67.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="1">
+     <transform x="17.55" y="-76.8" skX="-5.81" skY="-5.81" scX="0.91" scY="1.09" pX="-0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi8" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="2">
+     <transform x="18.05" y="-104.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="1">
+     <transform x="-12.95" y="-123" skX="5.3" skY="5.3" scX="1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi6" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="2">
+     <transform x="15.8" y="-108.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="1">
+     <transform x="-17.25" y="-125.65" skX="-32.17" skY="-32.17" scX="1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi2" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="2">
+     <transform x="19.8" y="-128.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="1">
+     <transform x="-24.35" y="-144.55" skX="-32.17" skY="-32.17" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi9" scale="1" offset="0">
+    <frame z="6" tweenEasing="0" duration="2">
+     <transform x="-12.7" y="-59" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" duration="1">
+     <transform x="-19.4" y="-62.35" skX="-8.46" skY="-8.46" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi7" scale="1" offset="0">
+    <frame z="8" tweenEasing="0" duration="2">
+     <transform x="-0.7" y="-110.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="1">
+     <transform x="-32.15" y="-118.4" skX="-32.17" skY="-32.17" scX="1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi1" scale="1" offset="0">
+    <frame z="9" tweenEasing="0" duration="2">
+     <transform x="43.05" y="-200" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="1">
+     <transform x="-42.8" y="-217.5" skX="-32.17" skY="-32.17" scX="1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi3" scale="1" offset="0">
+    <frame z="10" tweenEasing="0" duration="2">
+     <transform x="-13.15" y="-187" skX="0.29" skY="0.29" scX="1" scY="1" pX="14.85" pY="-4.4"/>
+    </frame>
+    <frame z="10" duration="1">
+     <transform x="-82.65" y="-183.65" skX="31.76" skY="31.76" scX="1" scY="1" pX="14.9" pY="-4.3"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi4" scale="1" offset="0">
+    <frame z="11" tweenEasing="0" duration="2">
+     <transform x="-24.45" y="-146.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" duration="1">
+     <transform x="-110.55" y="-152.15" skX="-10.24" skY="-10.24" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="gongji2_2" fadeInTime="0" duration="13" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="chazi3_1" scale="1" offset="0">
+    <frame z="0" duration="2">
+     <transform x="-44.35" y="-210.4" skX="41.09" skY="41.09" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="0" duration="2">
+     <transform x="66.55" y="-190.2" skX="-47.03" skY="-47.03" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="9">
+     <transform x="99.75" y="-154.2" skX="-67.12" skY="-67.12" scX="-1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi5" scale="1" offset="0">
+    <frame z="1" duration="2">
+     <transform x="-43.85" y="-180.25" skX="-50.9" skY="-50.9" scX="1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+    <frame z="1" duration="2">
+     <transform x="108.4" y="-178.6" skX="-31.99" skY="-31.99" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="1" duration="9">
+     <transform x="145.35" y="-153.7" skX="-45.99" skY="-31.76" scX="1.16" scY="1.21" pX="0.2" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi10" scale="1" offset="0">
+    <frame z="2" duration="2">
+     <transform x="17.55" y="-76.8" skX="-5.81" skY="-5.81" scX="0.91" scY="1.09" pX="-0.05" pY="-0.1"/>
+    </frame>
+    <frame z="2" duration="2">
+     <transform x="47.55" y="-12.8" skX="15.24" skY="5.23" scX="1" scY="1.02" pX="10.75" pY="-60.75"/>
+    </frame>
+    <frame z="2" duration="9">
+     <transform x="79.3" y="-12.8" skX="15.24" skY="5.23" scX="1" scY="1.02" pX="10.75" pY="-60.75"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi8" scale="1" offset="0">
+    <frame z="3" duration="2">
+     <transform x="-12.95" y="-123" skX="5.3" skY="5.3" scX="1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+    <frame z="3" duration="2">
+     <transform x="38.5" y="-101.85" skX="-11.72" skY="-11.72" scX="1" scY="1" pX="0" pY="0.15"/>
+    </frame>
+    <frame z="3" duration="9">
+     <transform x="54" y="-95.5" skX="-21.2" skY="-21.2" scX="1" scY="1" pX="0" pY="0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi6" scale="1" offset="0">
+    <frame z="4" duration="2">
+     <transform x="-17.25" y="-125.65" skX="-32.17" skY="-32.17" scX="1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+    <frame z="4" duration="2">
+     <transform x="36.65" y="-106.45" skX="5.23" skY="5.23" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="4" duration="9">
+     <transform x="37.4" y="-88.8" skX="24.96" skY="24.96" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi2" scale="1" offset="0">
+    <frame z="5" duration="2">
+     <transform x="-24.35" y="-144.55" skX="-32.17" skY="-32.17" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame z="5" duration="2">
+     <transform x="42.4" y="-125.75" skX="5.23" skY="5.23" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="9">
+     <transform x="45.95" y="-99.55" skX="27.23" skY="27.23" scX="1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi9" scale="1" offset="0">
+    <frame z="6" duration="2">
+     <transform x="-19.4" y="-62.35" skX="-8.46" skY="-8.46" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="6" duration="2">
+     <transform x="-46.65" y="-5.5" skX="7.76" skY="0" scX="1" scY="1.01" pX="33.95" pY="-53.5"/>
+    </frame>
+    <frame z="6" duration="9">
+     <transform x="-50.2" y="-5.5" skX="7.76" skY="0" scX="1" scY="1.01" pX="33.95" pY="-53.5"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi7" scale="1" offset="0">
+    <frame z="8" duration="2">
+     <transform x="-32.15" y="-118.4" skX="-32.17" skY="-32.17" scX="1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame z="8" duration="2">
+     <transform x="20.35" y="-109.7" skX="11.68" skY="11.68" scX="1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+    <frame z="8" duration="9">
+     <transform x="14.7" y="-91.4" skX="22.69" skY="22.69" scX="1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi1" scale="1" offset="0">
+    <frame z="9" duration="2">
+     <transform x="-42.8" y="-217.5" skX="-32.17" skY="-32.17" scX="1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+    <frame z="9" duration="2">
+     <transform x="72.1" y="-194.85" skX="5.23" skY="5.23" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="9" duration="9">
+     <transform x="102.35" y="-152.55" skX="5.23" skY="5.23" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi3" scale="1" offset="0">
+    <frame z="10" duration="2">
+     <transform x="-82.65" y="-183.65" skX="31.76" skY="31.76" scX="1" scY="1" pX="14.9" pY="-4.3"/>
+    </frame>
+    <frame z="10" duration="2">
+     <transform x="19.75" y="-184.25" skX="-78.32" skY="-78.32" scX="1" scY="1" pX="14.8" pY="-4.45"/>
+    </frame>
+    <frame z="10" duration="9">
+     <transform x="55.25" y="-155.9" skX="-88.12" skY="-88.12" scX="1" scY="1.32" pX="14.8" pY="-4.45"/>
+    </frame>
+   </timeline>
+   <timeline name="chazi4" scale="1" offset="0">
+    <frame z="11" duration="2">
+     <transform x="-110.55" y="-152.15" skX="-10.24" skY="-10.24" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame z="11" duration="2">
+     <transform x="61.15" y="-163.45" skX="-44.99" skY="-44.99" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="11" duration="9">
+     <transform x="112.35" y="-145.4" skX="-46.18" skY="-38.58" scX="1.16" scY="1.1" pX="-0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="103010texiao5_1" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="12" duration="10">
+     <transform x="5.1" y="-12.8" skX="-6.03" skY="-6.03" scX="1.12" scY="0.99" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <frame duration="2"/>
+   <frame duration="1" event="move"/>
+   <frame duration="10" event="E_fly_horizontal"/>
+  </animation>
+ </armature>
+ <armature name="103010texiao5_1">
+  <bone name="103010texiao5">
+   <transform x="-25.6" y="34.8" skX="0" skY="0" scX="0.43" scY="0.5"/>
+  </bone>
+  <bone name="图层 2">
+   <transform x="-102" y="-22.65" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="103010texiao5" parent="103010texiao5" z="0">
+    <display name="103010yan" type="image">
+     <transform x="-157.2" y="-80.15" skX="0" skY="0" scX="1" scY="1" pX="140" pY="62.05"/>
+    </display>
+   </slot>
+   <slot name="图层 2" parent="图层 2" z="1">
+    <display name="103010texiao5_2" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="69.85" pY="68"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="unnamed" fadeInTime="0" duration="26" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="103010texiao5" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="-25.6" y="34.8" skX="0" skY="0" scX="0.43" scY="0.5" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="3">
+     <transform x="-30.1" y="27.3" skX="0" skY="0" scX="0.43" scY="0.52" pX="-0.05" pY="-0.1"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="73" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="-34.75" y="19.75" skX="0" skY="0" scX="0.49" scY="0.6" pX="0.1" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="20" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 2" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="1" tweenEasing="0" duration="4">
+     <transform x="-102" y="-22.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="4">
+     <transform x="-105.55" y="-22.65" skX="0" skY="0" scX="1.07" scY="1.07" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="40" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="-117.35" y="-22.65" skX="0" skY="0" scX="1.12" scY="1.12" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="16" displayIndex="-1"/>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

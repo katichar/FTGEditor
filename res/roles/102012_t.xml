@@ -1,0 +1,18 @@
+<TextureAtlas name="102012" imagePath="102012.png">
+ <SubTexture name="xb" x="415" y="106" width="39" height="29"/>
+ <SubTexture name="s" x="293" y="106" width="32" height="41"/>
+ <SubTexture name="xt" x="377" y="44" width="36" height="86"/>
+ <SubTexture name="dt" x="72" y="103" width="61" height="49"/>
+ <SubTexture name="xt2" x="329" y="44" width="46" height="77"/>
+ <SubTexture name="xbs" x="250" y="106" width="41" height="46"/>
+ <SubTexture name="sbs" x="135" y="103" width="52" height="55"/>
+ <SubTexture name="t" x="189" y="103" width="59" height="44"/>
+ <SubTexture name="t2" x="258" y="44" width="70" height="61"/>
+ <SubTexture name="dt2" x="477" y="44" width="30" height="75"/>
+ <SubTexture name="nz" x="456" y="121" width="44" height="19"/>
+ <SubTexture name="xb2" x="327" y="123" width="39" height="24"/>
+ <SubTexture name="s2" x="415" y="44" width="61" height="61"/>
+ <SubTexture name="kuaiquan" x="258" y="0" width="223" height="42"/>
+ <SubTexture name="qiyan" x="0" y="0" width="70" height="265"/>
+ <SubTexture name="jianfei" x="72" y="0" width="184" height="101"/>
+</TextureAtlas>

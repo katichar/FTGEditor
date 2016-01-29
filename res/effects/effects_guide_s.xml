@@ -1,0 +1,25 @@
+<dragonBones name="zhiyingguang1" frameRate="24" version="2.3">
+ <armature name="zhiyingguang">
+  <bone name="图层 2">
+   <transform x="0.4" y="-0.2" skX="0" skY="0" scX="0.87" scY="0.87"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 2" parent="图层 2" z="0">
+    <display name="zhiyingguangnew" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="67" pY="67"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="zhiyingguang" fadeInTime="0.3" duration="19" scale="1" loop="0" autoTween="1" tweenEasing="NaN">
+   <timeline name="图层 2" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="18">
+     <transform x="0.4" y="-0.2" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="0.4" y="-0.2" skX="0" skY="0" scX="1.08" scY="1.08" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

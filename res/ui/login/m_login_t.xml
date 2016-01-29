@@ -1,0 +1,8 @@
+<TextureAtlas name="m_login" imagePath="m_login.png">
+ <SubTexture name="a0" x="0" y="0" width="1348" height="610"/>
+ <SubTexture name="a2" x="0" y="611" width="997" height="451"/>
+ <SubTexture name="a1" x="999" y="1064" width="997" height="451"/>
+ <SubTexture name="a3" x="999" y="611" width="997" height="451"/>
+ <SubTexture name="a4" x="0" y="1517" width="997" height="451"/>
+ <SubTexture name="a5" x="0" y="1064" width="997" height="451"/>
+</TextureAtlas>

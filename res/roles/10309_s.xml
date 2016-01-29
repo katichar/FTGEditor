@@ -1,0 +1,2731 @@
+<dragonBones name="10309" frameRate="24" version="2.3">
+ <armature name="10309">
+  <bone name="10309rhand">
+   <transform x="44.4" y="-125.25" skX="-24.16" skY="-24.16" scX="-1" scY="1"/>
+  </bone>
+  <bone name="10309rarmxia_1">
+   <transform x="26.45" y="-158.7" skX="4.71" skY="-2.02" scX="1" scY="0.77"/>
+  </bone>
+  <bone name="10309rarm _1">
+   <transform x="18.35" y="-196.7" skX="15.4" skY="14.87" scX="1" scY="0.91"/>
+  </bone>
+  <bone name="10309rfoot">
+   <transform x="31.95" y="-15.75" skX="0" skY="0" scX="-1" scY="1"/>
+  </bone>
+  <bone name="10309rfoot _1">
+   <transform x="31.95" y="-15.75" skX="0" skY="0" scX="-1" scY="1"/>
+  </bone>
+  <bone name="10309rlegxia">
+   <transform x="38.8" y="-74.5" skX="-16.59" skY="-19.25" scX="-1" scY="0.85"/>
+  </bone>
+  <bone name="10309rleg">
+   <transform x="17.25" y="-119.55" skX="-18.22" skY="-18.22" scX="-1" scY="0.79"/>
+  </bone>
+  <bone name="10309lfoot">
+   <transform x="-27.5" y="-7.5" skX="0" skY="0" scX="-1" scY="1"/>
+  </bone>
+  <bone name="10309waist">
+   <transform x="6" y="-130" skX="0" skY="0" scX="-1" scY="1"/>
+  </bone>
+  <bone name="10309rlegxia_1">
+   <transform x="-11.75" y="-71.25" skX="-2.24" skY="-2.24" scX="-1" scY="1"/>
+  </bone>
+  <bone name="10309rleg _1">
+   <transform x="-5.95" y="-126" skX="14.29" skY="14.29" scX="-1" scY="1"/>
+  </bone>
+  <bone name="10309body">
+   <transform x="1.9" y="-128.75" skX="0" skY="0" scX="-1" scY="1"/>
+  </bone>
+  <bone name="10309yibai">
+   <transform x="-15.35" y="-146.75" skX="0" skY="0" scX="-1" scY="1"/>
+  </bone>
+  <bone name="10309lingdai">
+   <transform x="12.4" y="-193.5" skX="0" skY="0" scX="-1" scY="1"/>
+  </bone>
+  <bone name="10309head">
+   <transform x="2.15" y="-218.25" skX="0" skY="0" scX="-1" scY="1"/>
+  </bone>
+  <bone name="10309lhand">
+   <transform x="-45.7" y="-99.45" skX="-5.64" skY="-5.64" scX="-1" scY="1"/>
+  </bone>
+  <bone name="10309rarmxia">
+   <transform x="-37.05" y="-151.6" skX="-16.35" skY="-16.35" scX="-1" scY="1"/>
+  </bone>
+  <bone name="10309rarm">
+   <transform x="-20.35" y="-191" skX="-5.88" skY="-5.88" scX="-1" scY="1"/>
+  </bone>
+  <bone name="10309equip">
+   <transform x="174.2" y="-126.7" skX="3.74" skY="3.74" scX="-0.55" scY="0.36"/>
+  </bone>
+  <bone name="10309equip_1">
+   <transform x="226.5" y="-159.85" skX="3.74" skY="3.74" scX="-0.55" scY="0.36"/>
+  </bone>
+  <bone name="10309equip_2">
+   <transform x="106.5" y="-87.25" skX="23.69" skY="23.69" scX="-0.55" scY="0.36"/>
+  </bone>
+  <bone name="10309zhuaguang">
+   <transform x="25" y="-134.05" skX="78.5" skY="71.67" scX="0.76" scY="1.16"/>
+  </bone>
+  <bone name="10309daguang">
+   <transform x="58.7" y="-164.75" skX="49.77" skY="5.33" scX="2.24" scY="1.63"/>
+  </bone>
+  <bone name="图层 27">
+   <transform x="-60.55" y="-232" skX="97.31" skY="97.31" scX="1" scY="1"/>
+  </bone>
+  <bone name="10309zhuaguang 1">
+   <transform x="21.4" y="-236.5" skX="-92.79" skY="-92.79" scX="1.24" scY="1.24"/>
+  </bone>
+  <bone name="图层 2">
+   <transform x="-22.95" y="-222.45" skX="-39.67" skY="-39.67" scX="-1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="10309rhand" parent="10309rhand" z="0">
+    <display name="10309rhand" type="image">
+     <transform x="-4.8" y="20.55" skX="0" skY="0" scX="1" scY="1" pX="13.5" pY="27.5"/>
+    </display>
+   </slot>
+   <slot name="10309rarmxia_1" parent="10309rarmxia_1" z="1">
+    <display name="10309rarmxia" type="image">
+     <transform x="13.05" y="24.5" skX="0" skY="0" scX="1" scY="1" pX="23.5" pY="35.5"/>
+    </display>
+   </slot>
+   <slot name="10309rarm _1" parent="10309rarm _1" z="2">
+    <display name="10309rarm" type="image">
+     <transform x="12.7" y="21.05" skX="0" skY="0" scX="1" scY="1" pX="25" pY="30"/>
+    </display>
+   </slot>
+   <slot name="10309rfoot" parent="10309rfoot" z="3">
+    <display name="10309rfoot" type="image">
+     <transform x="-14.75" y="7" skX="0" skY="0" scX="1" scY="1" pX="25.5" pY="16"/>
+    </display>
+   </slot>
+   <slot name="10309rfoot _1" parent="10309rfoot _1" z="4">
+    <display name="10309rfoot" type="image">
+     <transform x="-14.75" y="7" skX="0" skY="0" scX="1" scY="1" pX="25.5" pY="16"/>
+    </display>
+   </slot>
+   <slot name="10309rlegxia" parent="10309rlegxia" z="5">
+    <display name="10309rlegxia" type="image">
+     <transform x="12.05" y="28.2" skX="0" skY="0" scX="1" scY="1" pX="23" pY="46"/>
+    </display>
+   </slot>
+   <slot name="10309rleg" parent="10309rleg" z="6">
+    <display name="10309rleg" type="image">
+     <transform x="-3.05" y="28.35" skX="0" skY="0" scX="1" scY="1" pX="16.5" pY="42"/>
+    </display>
+   </slot>
+   <slot name="10309lfoot" parent="10309lfoot" z="7">
+    <display name="10309lfoot" type="image">
+     <transform x="-2.25" y="14.75" skX="0" skY="0" scX="1" scY="1" pX="15.5" pY="23.5"/>
+    </display>
+   </slot>
+   <slot name="10309waist" parent="10309waist" z="8">
+    <display name="10309waist" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="26" pY="16.5"/>
+    </display>
+   </slot>
+   <slot name="10309rlegxia_1" parent="10309rlegxia_1" z="9">
+    <display name="10309rlegxia" type="image">
+     <transform x="10.2" y="31.65" skX="0" skY="0" scX="1" scY="1" pX="23" pY="46"/>
+    </display>
+   </slot>
+   <slot name="10309rleg _1" parent="10309rleg _1" z="10">
+    <display name="10309rleg" type="image">
+     <transform x="-4.7" y="29.75" skX="0" skY="0" scX="1" scY="1" pX="16.5" pY="42"/>
+    </display>
+   </slot>
+   <slot name="10309body" parent="10309body" z="11">
+    <display name="10309body" type="image">
+     <transform x="0.25" y="-51" skX="0" skY="0" scX="1" scY="1" pX="33" pY="58.5"/>
+    </display>
+   </slot>
+   <slot name="10309yibai" parent="10309yibai" z="12">
+    <display name="10309yibai" type="image">
+     <transform x="6" y="26.5" skX="0" skY="0" scX="1" scY="1" pX="31.5" pY="39"/>
+    </display>
+   </slot>
+   <slot name="10309lingdai" parent="10309lingdai" z="13">
+    <display name="10309lingdai" type="image">
+     <transform x="1.75" y="27.75" skX="0" skY="0" scX="1" scY="1" pX="6" pY="32.5"/>
+    </display>
+   </slot>
+   <slot name="10309head" parent="10309head" z="14">
+    <display name="10309head" type="image">
+     <transform x="-7" y="-25" skX="0" skY="0" scX="1" scY="1" pX="24.5" pY="38.5"/>
+    </display>
+   </slot>
+   <slot name="10309lhand" parent="10309lhand" z="19">
+    <display name="10309lhand" type="image">
+     <transform x="1.7" y="18.1" skX="0" skY="0" scX="1" scY="1" pX="13" pY="25"/>
+    </display>
+   </slot>
+   <slot name="10309rarmxia" parent="10309rarmxia" z="21">
+    <display name="10309rarmxia" type="image">
+     <transform x="10.75" y="23.35" skX="0" skY="0" scX="1" scY="1" pX="23.5" pY="35.5"/>
+    </display>
+   </slot>
+   <slot name="10309rarm" parent="10309rarm" z="22">
+    <display name="10309rarm" type="image">
+     <transform x="8.95" y="15.2" skX="0" skY="0" scX="1" scY="1" pX="25" pY="30"/>
+    </display>
+   </slot>
+   <slot name="10309equip" parent="10309equip" z="16" blendMode="add">
+    <display name="10309equip" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="31" pY="9.5"/>
+    </display>
+   </slot>
+   <slot name="10309equip_1" parent="10309equip_1" z="17" blendMode="add">
+    <display name="10309equip" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="31" pY="9.5"/>
+    </display>
+   </slot>
+   <slot name="10309equip_2" parent="10309equip_2" z="18" blendMode="add">
+    <display name="10309equip" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="31" pY="9.5"/>
+    </display>
+   </slot>
+   <slot name="10309zhuaguang" parent="10309zhuaguang" z="24" blendMode="add">
+    <display name="10309zhuaguang" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="177.05" pY="177.6"/>
+    </display>
+   </slot>
+   <slot name="10309daguang" parent="10309daguang" z="25" blendMode="add">
+    <display name="10309daoguang" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="101" pY="85"/>
+    </display>
+   </slot>
+   <slot name="图层 27" parent="图层 27" z="20">
+    <display name="10309rhand" type="image">
+     <transform x="-4.75" y="20.4" skX="0" skY="0" scX="1" scY="1" pX="13.5" pY="27.5"/>
+    </display>
+   </slot>
+   <slot name="10309zhuaguang 1" parent="10309zhuaguang 1" z="23" blendMode="add">
+    <display name="10309zhuaguang" type="image">
+     <transform x="0" y="0.05" skX="0" skY="0" scX="1" scY="1" pX="177.05" pY="177.6"/>
+    </display>
+   </slot>
+   <slot name="图层 2" parent="图层 2" z="15">
+    <display name="10309head1" type="image">
+     <transform x="-0.4" y="-27.55" skX="0" skY="0" scX="1" scY="1" pX="24.5" pY="38.5"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="zhanli" fadeInTime="0" duration="30" scale="1" loop="0" autoTween="1" tweenEasing="NaN">
+   <timeline name="10309rhand" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="14">
+     <transform x="44.4" y="-125.25" skX="-24.16" skY="-24.16" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="15">
+     <transform x="45.45" y="-127.1" skX="-24.54" skY="-24.91" scX="-1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="44.4" y="-125.25" skX="-24.16" skY="-24.16" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia_1" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="14">
+     <transform x="26.45" y="-158.7" skX="4.71" skY="-2.02" scX="1" scY="0.77" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="15">
+     <transform x="27.2" y="-160.35" skX="4.17" skY="-2.93" scX="1" scY="0.77" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="26.45" y="-158.7" skX="4.71" skY="-2.02" scX="1" scY="0.77" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm _1" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="14">
+     <transform x="18.35" y="-196.7" skX="15.4" skY="14.87" scX="1" scY="0.91" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="15">
+     <transform x="18.9" y="-198.2" skX="14.88" skY="13.89" scX="1" scY="0.91" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="2" duration="1">
+     <transform x="18.35" y="-196.7" skX="15.4" skY="14.87" scX="1" scY="0.91" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rfoot" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="14">
+     <transform x="31.95" y="-15.75" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="15">
+     <transform x="31.95" y="-15.75" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="1">
+     <transform x="31.95" y="-15.75" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rfoot _1" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="14">
+     <transform x="31.95" y="-15.75" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="15">
+     <transform x="31.95" y="-15.75" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="1">
+     <transform x="31.95" y="-15.75" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="14">
+     <transform x="38.8" y="-74.5" skX="-16.59" skY="-19.25" scX="-1" scY="0.85" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="15">
+     <transform x="38.8" y="-74.55" skX="-16.54" skY="-19.08" scX="-1" scY="0.85" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="1">
+     <transform x="38.8" y="-74.5" skX="-16.59" skY="-19.25" scX="-1" scY="0.85" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg" scale="1" offset="0">
+    <frame z="6" tweenEasing="0" duration="14">
+     <transform x="17.25" y="-119.55" skX="-18.22" skY="-18.22" scX="-1" scY="0.79" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="15">
+     <transform x="17.25" y="-121.1" skX="-18.16" skY="-18.91" scX="-1" scY="0.78" pX="0.1" pY="0"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="1">
+     <transform x="17.25" y="-119.55" skX="-18.22" skY="-18.22" scX="-1" scY="0.79" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lfoot" scale="1" offset="0">
+    <frame z="7" tweenEasing="0" duration="14">
+     <transform x="-27.5" y="-7.5" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="15">
+     <transform x="-27.5" y="-7.5" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="1">
+     <transform x="-27.5" y="-7.5" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309waist" scale="1" offset="0">
+    <frame z="8" tweenEasing="0" duration="14">
+     <transform x="6" y="-130" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="15">
+     <transform x="6" y="-131.3" skX="0" skY="-0.93" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="1">
+     <transform x="6" y="-130" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia_1" scale="1" offset="0">
+    <frame z="9" tweenEasing="0" duration="14">
+     <transform x="-11.75" y="-71.25" skX="-2.24" skY="-2.24" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="15">
+     <transform x="-11.8" y="-71.25" skX="-2.06" skY="-2.06" scX="-1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="1">
+     <transform x="-11.75" y="-71.25" skX="-2.24" skY="-2.24" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg _1" scale="1" offset="0">
+    <frame z="10" tweenEasing="0" duration="14">
+     <transform x="-5.95" y="-126" skX="14.29" skY="14.29" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="15">
+     <transform x="-5.85" y="-127.05" skX="14.22" skY="13.39" scX="-1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="1">
+     <transform x="-5.95" y="-126" skX="14.29" skY="14.29" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309body" scale="1" offset="0">
+    <frame z="11" tweenEasing="0" duration="14">
+     <transform x="1.9" y="-128.75" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="15">
+     <transform x="2.9" y="-130" skX="-0.38" skY="-0.93" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="1">
+     <transform x="1.9" y="-128.75" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309yibai" scale="1" offset="0">
+    <frame z="12" tweenEasing="0" duration="14">
+     <transform x="-15.35" y="-146.75" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="15">
+     <transform x="-14.45" y="-147.7" skX="-3.91" skY="-4.46" scX="-1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="1">
+     <transform x="-15.35" y="-146.75" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lingdai" scale="1" offset="0">
+    <frame z="13" tweenEasing="0" duration="14">
+     <transform x="12.4" y="-193.5" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="15">
+     <transform x="12.95" y="-194.9" skX="-3.84" skY="-4.4" scX="-1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="1">
+     <transform x="12.4" y="-193.5" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309head" scale="1" offset="0">
+    <frame z="14" tweenEasing="0" duration="14">
+     <transform x="2.15" y="-218.25" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="15">
+     <transform x="2.55" y="-219.5" skX="-0.38" skY="-0.93" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="1">
+     <transform x="2.15" y="-218.25" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lhand" scale="1" offset="0">
+    <frame z="19" tweenEasing="0" duration="14">
+     <transform x="-45.7" y="-99.45" skX="-5.64" skY="-5.64" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="15">
+     <transform x="-45" y="-103.4" skX="-4.3" skY="-3.95" scX="-1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="1">
+     <transform x="-45.7" y="-99.45" skX="-5.64" skY="-5.64" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia" scale="1" offset="0">
+    <frame z="21" tweenEasing="0" duration="14">
+     <transform x="-37.05" y="-151.6" skX="-16.35" skY="-16.35" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="21" tweenEasing="0" duration="15">
+     <transform x="-39.6" y="-155.15" skX="-19.23" skY="-19.7" scX="-1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="21" tweenEasing="0" duration="1">
+     <transform x="-37.05" y="-151.6" skX="-16.35" skY="-16.35" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm" scale="1" offset="0">
+    <frame z="22" tweenEasing="0" duration="14">
+     <transform x="-20.35" y="-191" skX="-5.88" skY="-5.88" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="22" tweenEasing="0" duration="15">
+     <transform x="-19.75" y="-191.85" skX="-2.19" skY="-2.73" scX="-1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="22" tweenEasing="0" duration="1">
+     <transform x="-20.35" y="-191" skX="-5.88" skY="-5.88" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="zou" fadeInTime="0" duration="22" scale="1" loop="0" autoTween="1" tweenEasing="NaN">
+   <timeline name="10309rhand" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="56.75" y="-117.4" skX="28.24" skY="28.24" scX="-1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="6">
+     <transform x="46.35" y="-116.6" skX="36.22" skY="36.22" scX="-1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="5">
+     <transform x="52.75" y="-117.7" skX="26.86" skY="26.86" scX="-1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="6">
+     <transform x="46.75" y="-116.9" skX="37.07" skY="37.07" scX="-1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="56.75" y="-117.4" skX="28.24" skY="28.24" scX="-1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia_1" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="4">
+     <transform x="52.55" y="-149.95" skX="36.56" skY="23.08" scX="1" scY="0.73" pX="-0.15" pY="-0.2"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="6">
+     <transform x="52.55" y="-149.95" skX="49.28" skY="35.81" scX="1" scY="0.73" pX="-0.2" pY="-0.3"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="5">
+     <transform x="52.55" y="-150" skX="41.05" skY="27.51" scX="1" scY="0.73" pX="-0.15" pY="-0.25"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="6">
+     <transform x="52.55" y="-150" skX="51.79" skY="38.25" scX="1" scY="0.73" pX="-0.25" pY="-0.25"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="52.55" y="-149.95" skX="36.56" skY="23.08" scX="1" scY="0.73" pX="-0.15" pY="-0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rfoot" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="3">
+     <transform x="-52.65" y="-29.3" skX="69.57" skY="69.57" scX="-1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="3">
+     <transform x="-21.8" y="-38.1" skX="88.1" skY="88.1" scX="-1" scY="1" pX="0.1" pY="-0.1"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="3">
+     <transform x="33.7" y="-38" skX="37.82" skY="37.82" scX="-1" scY="1" pX="0.05" pY="-0.1"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="3">
+     <transform x="61.75" y="-6.9" skX="-22.58" skY="-22.58" scX="-1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="3">
+     <transform x="27.75" y="-5.3" skX="-12.13" skY="-12.13" scX="-1" scY="1" pX="0.1" pY="-0.1"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="3">
+     <transform x="6.95" y="-8.5" skX="-5.39" skY="-5.39" scX="-1" scY="1" pX="0.1" pY="-0.1"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="3">
+     <transform x="-24.65" y="-19.3" skX="14.33" skY="14.33" scX="-1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="1">
+     <transform x="-56.25" y="-26.55" skX="32.62" skY="32.62" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rfoot _1" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="3">
+     <transform x="35" y="4.7" skX="-8.62" skY="-8.62" scX="-1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="3">
+     <transform x="14.6" y="2.3" skX="-8.62" skY="-8.62" scX="-1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="3">
+     <transform x="-20.65" y="-0.15" skX="12.36" skY="12.36" scX="-1" scY="1" pX="0.05" pY="0.15"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="3">
+     <transform x="-36.2" y="-2.1" skX="2.08" skY="2.08" scX="-1" scY="1" pX="0.1" pY="0.15"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="3">
+     <transform x="-29.7" y="-43.4" skX="89.75" skY="89.75" scX="-1" scY="1" pX="0.1" pY="0.2"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="3">
+     <transform x="-11.05" y="-38.55" skX="66.79" skY="66.79" scX="-1" scY="1" pX="0.15" pY="0.25"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="3">
+     <transform x="59.9" y="-22.2" skX="-31.85" skY="-31.85" scX="-1" scY="1" pX="0.15" pY="0.2"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="1">
+     <transform x="35" y="4.7" skX="-8.62" skY="-8.62" scX="-1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="3">
+     <transform x="-8.3" y="-55.2" skX="32.81" skY="30.15" scX="-1" scY="0.85" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="3">
+     <transform x="26.5" y="-57.95" skX="38.51" skY="47.41" scX="-1.01" scY="0.85" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="3">
+     <transform x="54.85" y="-71.15" skX="0.12" skY="-3.37" scX="-1" scY="0.66" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="3">
+     <transform x="54.5" y="-62.75" skX="-31.64" skY="-35.13" scX="-1" scY="0.85" pX="0" pY="-0.2"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="3">
+     <transform x="34.05" y="-61.55" skX="-17.65" skY="-21.14" scX="-1" scY="0.85" pX="0.05" pY="-0.3"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="3">
+     <transform x="22.85" y="-64.35" skX="-8.42" skY="-11.92" scX="-1" scY="0.85" pX="0.05" pY="-0.3"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="3">
+     <transform x="14.45" y="-61.95" skX="18.04" skY="14.55" scX="-1" scY="0.85" pX="0" pY="-0.3"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="1">
+     <transform x="-8.3" y="-55.2" skX="32.81" skY="30.15" scX="-1" scY="0.85" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg" scale="1" offset="0">
+    <frame z="6" tweenEasing="0" duration="3">
+     <transform x="19.65" y="-97.85" skX="43.56" skY="43.56" scX="-1" scY="0.79" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="3">
+     <transform x="19.65" y="-101.75" skX="-4.69" skY="-4.69" scX="-1" scY="0.79" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="3">
+     <transform x="19.65" y="-101.65" skX="-44.86" skY="-44.86" scX="-1" scY="0.79" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="3">
+     <transform x="19.65" y="-98.45" skX="-37.11" skY="-37.11" scX="-1" scY="0.79" pX="-0.1" pY="-0.1"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="3">
+     <transform x="19.65" y="-98.45" skX="-8.63" skY="-8.63" scX="-1" scY="0.68" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="3">
+     <transform x="19.65" y="-102.45" skX="9.32" skY="9.32" scX="-1" scY="0.68" pX="-0.15" pY="-0.05"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="3">
+     <transform x="19.7" y="-102.45" skX="17.28" skY="17.28" scX="-1" scY="0.68" pX="-0.2" pY="0.1"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="1">
+     <transform x="19.65" y="-97.85" skX="43.56" skY="43.56" scX="-1" scY="0.79" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309waist" scale="1" offset="0">
+    <frame z="8" tweenEasing="0" duration="3">
+     <transform x="14.9" y="-112.45" skX="29.24" skY="29.24" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="3">
+     <transform x="14.9" y="-116.45" skX="29.24" skY="29.24" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="3">
+     <transform x="14.9" y="-116.45" skX="29.24" skY="29.24" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="3">
+     <transform x="14.9" y="-113.25" skX="29.24" skY="29.24" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="3">
+     <transform x="14.9" y="-113.25" skX="29.24" skY="29.24" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="3">
+     <transform x="14.9" y="-117.25" skX="29.24" skY="29.24" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="3">
+     <transform x="14.9" y="-117.25" skX="29.24" skY="29.24" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="1">
+     <transform x="14.9" y="-112.45" skX="29.24" skY="29.24" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia_1" scale="1" offset="0">
+    <frame z="9" tweenEasing="0" duration="3">
+     <transform x="35.55" y="-65.6" skX="-18.35" skY="-18.35" scX="-1" scY="1" pX="-0.05" pY="-0.1"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="3">
+     <transform x="15.55" y="-62.8" skX="-18.35" skY="-18.35" scX="-1" scY="1" pX="-0.1" pY="-0.1"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="3">
+     <transform x="11.35" y="-63.35" skX="5.6" skY="5.6" scX="-1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="3">
+     <transform x="5.9" y="-58.75" skX="17.05" skY="17.05" scX="-1" scY="1" pX="-0.1" pY="-0.15"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="3">
+     <transform x="24.3" y="-60.8" skX="49.47" skY="49.47" scX="-1" scY="0.9" pX="-0.15" pY="0.1"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="3">
+     <transform x="31.5" y="-67.25" skX="30.71" skY="30.71" scX="-1" scY="0.85" pX="-0.15" pY="-0.1"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="3">
+     <transform x="42.35" y="-74.85" skX="-42.75" skY="-42.75" scX="-1" scY="0.85" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="1">
+     <transform x="35.55" y="-65.6" skX="-18.35" skY="-18.35" scX="-1" scY="1" pX="-0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg _1" scale="1" offset="0">
+    <frame z="10" tweenEasing="0" duration="3">
+     <transform x="2.5" y="-114.8" skX="-27.41" skY="-27.41" scX="-1" scY="1" pX="-0.1" pY="-0.1"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="3">
+     <transform x="2.5" y="-118.8" skX="-5.96" skY="-5.96" scX="-1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="3">
+     <transform x="2.5" y="-118.8" skX="-4.21" skY="-4.21" scX="-1" scY="1" pX="-0.2" pY="-0.05"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="3">
+     <transform x="2.5" y="-115.6" skX="3.04" skY="3.04" scX="-1" scY="1" pX="-0.1" pY="-0.1"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="3">
+     <transform x="2.5" y="-115.6" skX="-14.95" skY="-14.95" scX="-1" scY="1" pX="-0.15" pY="-0.15"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="3">
+     <transform x="2.5" y="-119.6" skX="-23.17" skY="-23.17" scX="-1" scY="1" pX="-0.15" pY="-0.2"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="3">
+     <transform x="2.5" y="-119.6" skX="-34.88" skY="-34.88" scX="-1" scY="1" pX="-0.15" pY="-0.25"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="1">
+     <transform x="2.5" y="-114.8" skX="-27.41" skY="-27.41" scX="-1" scY="1" pX="-0.1" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309body" scale="1" offset="0">
+    <frame z="11" tweenEasing="0" duration="3">
+     <transform x="10.75" y="-113.35" skX="29.24" skY="18.69" scX="-1.02" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="3">
+     <transform x="10.75" y="-117.35" skX="29.24" skY="18.69" scX="-1.02" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="3">
+     <transform x="10.75" y="-117.35" skX="29.24" skY="18.69" scX="-1.02" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="3">
+     <transform x="10.75" y="-114.15" skX="29.24" skY="18.69" scX="-1.02" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="3">
+     <transform x="10.75" y="-114.15" skX="29.24" skY="18.69" scX="-1.02" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="3">
+     <transform x="10.75" y="-118.15" skX="29.24" skY="18.69" scX="-1.02" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="3">
+     <transform x="10.75" y="-118.15" skX="29.24" skY="18.69" scX="-1.02" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="1">
+     <transform x="10.75" y="-113.35" skX="29.24" skY="18.69" scX="-1.02" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309yibai" scale="1" offset="0">
+    <frame z="12" tweenEasing="0" duration="6">
+     <transform x="4.4" y="-137.55" skX="29.24" skY="29.24" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="6">
+     <transform x="4.4" y="-141.55" skX="13.29" skY="13.29" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="6">
+     <transform x="4.4" y="-138.3" skX="20.5" skY="20.5" scX="-1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="3">
+     <transform x="4.4" y="-142.35" skX="29.24" skY="29.24" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="1">
+     <transform x="4.4" y="-137.55" skX="29.24" skY="29.24" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lingdai" scale="1" offset="0">
+    <frame z="13" tweenEasing="0" duration="3">
+     <transform x="54.65" y="-167.15" skX="6.82" skY="6.82" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="3">
+     <transform x="54.55" y="-171" skX="4.26" skY="4.26" scX="-1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="3">
+     <transform x="54.9" y="-171.3" skX="1.76" skY="1.76" scX="-1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="3">
+     <transform x="54.55" y="-167.8" skX="3" skY="3" scX="-1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="3">
+     <transform x="54.1" y="-167.95" skX="4.27" skY="4.27" scX="-1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="3">
+     <transform x="54.1" y="-172.65" skX="5.01" skY="5.01" scX="-1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="3">
+     <transform x="54.05" y="-172.55" skX="5.81" skY="5.81" scX="-1" scY="1" pX="0.1" pY="-0.05"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="1">
+     <transform x="54.05" y="-167.15" skX="6.82" skY="6.82" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309head" scale="1" offset="0">
+    <frame z="14" tweenEasing="0" duration="3">
+     <transform x="62.4" y="-175.8" skX="-13.19" skY="-13.19" scX="-1" scY="1" pX="0.05" pY="-0.1"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="3">
+     <transform x="62.4" y="-179.8" skX="-13.19" skY="-13.19" scX="-1" scY="1" pX="0.1" pY="-0.1"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="6">
+     <transform x="62.4" y="-179.8" skX="-16.89" skY="-16.89" scX="-1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="3">
+     <transform x="62.4" y="-176.6" skX="-13.19" skY="-13.19" scX="-1" scY="1" pX="0.05" pY="-0.1"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="3">
+     <transform x="62.4" y="-180.6" skX="-10.96" skY="-10.96" scX="-1" scY="1" pX="0.1" pY="-0.15"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="3">
+     <transform x="62.4" y="-180.6" skX="-13.19" skY="-13.19" scX="-1" scY="1" pX="0.05" pY="-0.1"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="1">
+     <transform x="62.4" y="-175.8" skX="-13.19" skY="-13.19" scX="-1" scY="1" pX="0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lhand" scale="1" offset="0">
+    <frame z="19" tweenEasing="0" duration="6">
+     <transform x="-45.2" y="-112.7" skX="26.28" skY="26.28" scX="-1" scY="1" pX="-0.1" pY="0.2"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="3">
+     <transform x="-46.85" y="-120.8" skX="22.52" skY="22.52" scX="-1" scY="1" pX="0" pY="0.15"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="3">
+     <transform x="-45.1" y="-114.9" skX="26.28" skY="26.28" scX="-1" scY="1" pX="-0.15" pY="0.2"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="3">
+     <transform x="-44.8" y="-112.75" skX="26.24" skY="26.24" scX="-1" scY="1" pX="-0.15" pY="0.25"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="3">
+     <transform x="-44.25" y="-115.7" skX="26.23" skY="26.23" scX="-1" scY="1" pX="-0.05" pY="0.15"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="3">
+     <transform x="-46.65" y="-115.45" skX="26.28" skY="26.28" scX="-1" scY="1" pX="0.05" pY="0.2"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="1">
+     <transform x="-45.2" y="-112.7" skX="26.28" skY="26.28" scX="-1" scY="1" pX="-0.1" pY="0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia" scale="1" offset="0">
+    <frame z="21" tweenEasing="0" duration="6">
+     <transform x="-10.65" y="-153.3" skX="14.82" skY="14.82" scX="-1" scY="1" pX="0.1" pY="0.1"/>
+    </frame>
+    <frame z="21" tweenEasing="0" duration="3">
+     <transform x="-10.75" y="-159.1" skX="17.22" skY="17.22" scX="-1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+    <frame z="21" tweenEasing="0" duration="3">
+     <transform x="-12.4" y="-154.35" skX="14.82" skY="14.82" scX="-1" scY="1" pX="0.1" pY="0.15"/>
+    </frame>
+    <frame z="21" tweenEasing="0" duration="3">
+     <transform x="-11.55" y="-152.3" skX="14.73" skY="14.73" scX="-1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+    <frame z="21" tweenEasing="0" duration="3">
+     <transform x="-11.85" y="-155.45" skX="14.72" skY="14.72" scX="-1" scY="1" pX="0.1" pY="0.1"/>
+    </frame>
+    <frame z="21" tweenEasing="0" duration="3">
+     <transform x="-13.7" y="-156.55" skX="14.82" skY="14.82" scX="-1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="21" tweenEasing="0" duration="1">
+     <transform x="-10.65" y="-153.3" skX="14.82" skY="14.82" scX="-1" scY="1" pX="0.1" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm" scale="1" offset="0">
+    <frame z="22" tweenEasing="0" duration="3">
+     <transform x="20.3" y="-176.65" skX="21.58" skY="21.58" scX="-1" scY="1" pX="0.35" pY="-0.05"/>
+    </frame>
+    <frame z="22" tweenEasing="0" duration="3">
+     <transform x="20.5" y="-179.45" skX="21.58" skY="21.58" scX="-1" scY="1" pX="0.25" pY="-0.05"/>
+    </frame>
+    <frame z="22" tweenEasing="0" duration="3">
+     <transform x="20.5" y="-179.45" skX="26.56" skY="26.56" scX="-1" scY="1" pX="0.3" pY="-0.1"/>
+    </frame>
+    <frame z="22" tweenEasing="0" duration="3">
+     <transform x="20.5" y="-176.25" skX="25.79" skY="25.79" scX="-1" scY="1" pX="0.25" pY="-0.1"/>
+    </frame>
+    <frame z="22" tweenEasing="0" duration="3">
+     <transform x="20.5" y="-176.25" skX="21.58" skY="21.58" scX="-1" scY="1" pX="0.3" pY="-0.05"/>
+    </frame>
+    <frame z="22" tweenEasing="0" duration="3">
+     <transform x="20.5" y="-180.25" skX="21.58" skY="21.58" scX="-1" scY="1" pX="0.25" pY="-0.05"/>
+    </frame>
+    <frame z="22" tweenEasing="0" duration="3">
+     <transform x="20.5" y="-179.45" skX="25.31" skY="25.31" scX="-1" scY="1" pX="0.3" pY="-0.1"/>
+    </frame>
+    <frame z="22" tweenEasing="0" duration="1">
+     <transform x="20.3" y="-176.65" skX="21.58" skY="21.58" scX="-1" scY="1" pX="0.35" pY="-0.05"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="gongji1_1" fadeInTime="0" duration="2" scale="5" loop="0" autoTween="1" tweenEasing="2">
+   <timeline name="10309rhand" scale="1" offset="0">
+    <frame z="0" duration="2">
+     <transform x="64.1" y="-137.4" skX="-72.58" skY="-72.58" scX="-1" scY="1" pX="-0.15" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia_1" scale="1" offset="0">
+    <frame z="1" duration="2">
+     <transform x="26.6" y="-145.25" skX="-45.08" skY="-51.82" scX="1" scY="0.77" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm _1" scale="1" offset="0">
+    <frame z="2" duration="2">
+     <transform x="36" y="-188.6" skX="44.48" skY="43.95" scX="1" scY="0.91" pX="0.25" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rfoot" scale="1" offset="0">
+    <frame z="3" duration="2">
+     <transform x="-21.5" y="-21.2" skX="4.75" skY="4.75" scX="-1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia" scale="1" offset="0">
+    <frame z="5" duration="2">
+     <transform x="19.7" y="-73.1" skX="16.25" skY="0.78" scX="-1" scY="0.85" pX="-0.6" pY="3.2"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg" scale="1" offset="0">
+    <frame z="6" duration="2">
+     <transform x="36.25" y="-111.05" skX="32.52" skY="15.88" scX="-1" scY="0.92" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lfoot" scale="1" offset="0">
+    <frame z="7" duration="2">
+     <transform x="31.7" y="-4.3" skX="-33.19" skY="-29.79" scX="-1" scY="1" pX="0.1" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309waist" scale="1" offset="0">
+    <frame z="8" duration="2">
+     <transform x="24.95" y="-119.3" skX="-8.35" skY="-17.84" scX="-1.02" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia_1" scale="1" offset="0">
+    <frame z="9" duration="2">
+     <transform x="32.75" y="-63.2" skX="-20.25" skY="-12.21" scX="-1" scY="0.93" pX="1.5" pY="1.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg _1" scale="1" offset="0">
+    <frame z="10" duration="2">
+     <transform x="6.9" y="-115.45" skX="-16.69" skY="-16.69" scX="-1" scY="1" pX="0.2" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309body" scale="1" offset="0">
+    <frame z="11" duration="2">
+     <transform x="16.05" y="-121.65" skX="4.01" skY="-7.5" scX="-1.02" scY="1" pX="-0.1" pY="0.25"/>
+    </frame>
+   </timeline>
+   <timeline name="10309yibai" scale="1" offset="0">
+    <frame z="12" duration="2">
+     <transform x="2" y="-140.3" skX="13.9" skY="13.9" scX="-1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lingdai" scale="1" offset="0">
+    <frame z="13" duration="2">
+     <transform x="31.95" y="-189.2" skX="-8.4" skY="-8.4" scX="-1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309head" scale="1" offset="0">
+    <frame z="14" duration="2">
+     <transform x="21" y="-210.8" skX="-23.33" skY="-23.33" scX="-1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lhand" scale="1" offset="0">
+    <frame z="19" duration="2">
+     <transform x="-13.95" y="-121.05" skX="-33.35" skY="-33.36" scX="-1" scY="0.81" pX="-0.05" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia" scale="1" offset="0">
+    <frame z="21" duration="2">
+     <transform x="-18.65" y="-157.8" skX="-56.49" skY="-50.86" scX="-1.32" scY="0.56" pX="0.2" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm" scale="1" offset="0">
+    <frame z="22" duration="2">
+     <transform x="2.15" y="-186" skX="6.35" skY="6.35" scX="-1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="gongji1_2" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="10309rhand" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="72.75" y="-113.8" skX="-51.2" skY="-51.2" scX="-1" scY="1" pX="-0.15" pY="-0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia_1" scale="1" offset="0">
+    <frame z="1" duration="1">
+     <transform x="40.65" y="-134.85" skX="-23.7" skY="-30.44" scX="1" scY="0.77" pX="-0.1" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm _1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="65.15" y="-171.7" skX="65.86" skY="65.33" scX="1" scY="0.91" pX="0.2" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rfoot" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="-22.45" y="-26.85" skX="13.98" skY="13.98" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="28.35" y="-75.65" skX="26.04" skY="5.74" scX="-1" scY="0.87" pX="0.45" pY="3.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="38.6" y="-108.65" skX="29.69" skY="10.88" scX="-1" scY="0.93" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lfoot" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="47.7" y="-5.9" skX="-33.19" skY="-29.79" scX="-1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309waist" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="32.2" y="-115.45" skX="-1" skY="-11.89" scX="-1.02" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia_1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="51.3" y="-63.75" skX="-15.76" skY="-1.02" scX="-1" scY="0.95" pX="0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg _1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="21.25" y="-110.6" skX="-24.2" skY="-24.2" scX="-1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309body" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="22.25" y="-116.7" skX="25.39" skY="13.88" scX="-1.02" scY="1" pX="-0.05" pY="0.3"/>
+    </frame>
+   </timeline>
+   <timeline name="10309yibai" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="15.9" y="-139.2" skX="35.28" skY="35.28" scX="-1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lingdai" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="58.45" y="-171.15" skX="37.72" skY="37.72" scX="-1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309head" scale="1" offset="0">
+    <frame z="14" duration="1">
+     <transform x="59.3" y="-197.95" skX="-10.45" skY="-10.45" scX="-1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lhand" scale="1" offset="0">
+    <frame z="19" duration="1">
+     <transform x="98.45" y="-178.6" skX="-173.45" skY="-173.45" scX="-1" scY="0.81" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia" scale="1" offset="0">
+    <frame z="21" duration="1">
+     <transform x="65.15" y="-155.5" skX="-167.06" skY="-167.06" scX="-1.22" scY="0.61" pX="0.15" pY="0.25"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm" scale="1" offset="0">
+    <frame z="22" duration="1">
+     <transform x="35.1" y="-177.8" skX="-83.69" skY="-83.69" scX="-1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="gongji1_3" fadeInTime="0" duration="12" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="10309rhand" scale="1" offset="0">
+    <frame z="0" duration="2">
+     <transform x="72.75" y="-113.8" skX="-51.2" skY="-51.2" scX="-1" scY="1" pX="-0.15" pY="-0.2"/>
+    </frame>
+    <frame z="0" duration="4">
+     <transform x="33.5" y="-126.2" skX="-65.88" skY="-65.88" scX="-1" scY="1" pX="-0.05" pY="-0.15"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="33.5" y="-126.2" skX="-65.88" skY="-65.88" scX="-1" scY="1" pX="-0.05" pY="-0.15"/>
+    </frame>
+    <frame z="0" duration="4">
+     <transform x="43.7" y="-131.7" skX="-56.19" skY="-56.19" scX="-1" scY="1" pX="-0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia_1" scale="1" offset="0">
+    <frame z="1" duration="2">
+     <transform x="40.65" y="-134.85" skX="-23.7" skY="-30.44" scX="1" scY="0.77" pX="-0.1" pY="0.15"/>
+    </frame>
+    <frame z="1" duration="4">
+     <transform x="-2.2" y="-140.05" skX="-31.92" skY="-38.65" scX="1" scY="0.77" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="-2.2" y="-140.05" skX="-31.92" skY="-38.65" scX="1" scY="0.77" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="1" duration="4">
+     <transform x="10.85" y="-151.4" skX="-22.23" skY="-28.96" scX="1" scY="0.77" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm _1" scale="1" offset="0">
+    <frame z="2" duration="2">
+     <transform x="65.15" y="-171.7" skX="65.86" skY="65.33" scX="1" scY="0.91" pX="0.2" pY="0"/>
+    </frame>
+    <frame z="2" duration="4">
+     <transform x="-7.05" y="-184.05" skX="25.93" skY="25.4" scX="1" scY="0.91" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="2">
+     <transform x="-7.05" y="-184.05" skX="25.93" skY="25.4" scX="1" scY="0.91" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="2" duration="4">
+     <transform x="13.5" y="-195.55" skX="35.62" skY="35.09" scX="1" scY="0.91" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rfoot" scale="1" offset="0">
+    <frame z="3" duration="2">
+     <transform x="-22.45" y="-26.85" skX="13.98" skY="13.98" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="3" duration="4">
+     <transform x="-49.55" y="-29.25" skX="-7.71" skY="-7.71" scX="-1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="2">
+     <transform x="-49.55" y="-29.25" skX="-7.71" skY="-7.71" scX="-1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="3" duration="4">
+     <transform x="-49.55" y="-29.25" skX="-7.71" skY="-7.71" scX="-1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia" scale="1" offset="0">
+    <frame z="5" duration="2">
+     <transform x="28.35" y="-75.65" skX="26.04" skY="5.74" scX="-1" scY="0.87" pX="0.45" pY="3.15"/>
+    </frame>
+    <frame z="5" duration="4">
+     <transform x="-1.6" y="-60.05" skX="33.07" skY="30.75" scX="-0.97" scY="0.84" pX="0.4" pY="3.1"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="2">
+     <transform x="-1.6" y="-60.05" skX="33.07" skY="30.75" scX="-0.97" scY="0.84" pX="0.4" pY="3.1"/>
+    </frame>
+    <frame z="5" duration="4">
+     <transform x="-8" y="-67.55" skX="21.19" skY="30.75" scX="-0.97" scY="0.85" pX="0.45" pY="3.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg" scale="1" offset="0">
+    <frame z="6" duration="2">
+     <transform x="38.6" y="-108.65" skX="29.69" skY="10.88" scX="-1" scY="0.93" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="6" duration="4">
+     <transform x="11.55" y="-109.75" skX="26.41" skY="7.61" scX="-1" scY="0.93" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="2">
+     <transform x="11.55" y="-109.75" skX="26.41" skY="7.61" scX="-1" scY="0.93" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame z="6" duration="4">
+     <transform x="19.75" y="-125.6" skX="31.9" skY="13.1" scX="-1" scY="1.03" pX="0.2" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lfoot" scale="1" offset="0">
+    <frame z="7" duration="2">
+     <transform x="47.7" y="-5.9" skX="-33.19" skY="-29.79" scX="-1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="7" duration="4">
+     <transform x="47.7" y="-5.9" skX="-33.19" skY="-29.79" scX="-1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="2">
+     <transform x="47.7" y="-5.9" skX="-33.19" skY="-29.79" scX="-1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="7" duration="4">
+     <transform x="31.7" y="-4.3" skX="-33.19" skY="-29.79" scX="-1" scY="1" pX="0.1" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309waist" scale="1" offset="0">
+    <frame z="8" duration="2">
+     <transform x="32.2" y="-115.45" skX="-1" skY="-11.89" scX="-1.02" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="4">
+     <transform x="-0.95" y="-116.5" skX="-15.68" skY="-26.57" scX="-1.02" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="2">
+     <transform x="-0.95" y="-116.5" skX="-15.68" skY="-26.57" scX="-1.02" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="4">
+     <transform x="8.1" y="-127.95" skX="-5.99" skY="-16.88" scX="-1.02" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia_1" scale="1" offset="0">
+    <frame z="9" duration="2">
+     <transform x="51.3" y="-63.75" skX="-15.76" skY="-1.02" scX="-1" scY="0.95" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="9" duration="4">
+     <transform x="38.45" y="-64.8" skX="-28.96" skY="-12.21" scX="-1" scY="0.96" pX="1.55" pY="1.1"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="2">
+     <transform x="38.45" y="-64.8" skX="-28.96" skY="-12.21" scX="-1" scY="0.96" pX="1.55" pY="1.1"/>
+    </frame>
+    <frame z="9" duration="4">
+     <transform x="32.75" y="-63.2" skX="-20.25" skY="-12.21" scX="-1" scY="0.93" pX="1.5" pY="1.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg _1" scale="1" offset="0">
+    <frame z="10" duration="2">
+     <transform x="21.25" y="-110.6" skX="-24.2" skY="-24.2" scX="-1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame z="10" duration="4">
+     <transform x="-8.55" y="-106.5" skX="-41.63" skY="-41.63" scX="-1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="2">
+     <transform x="-8.55" y="-106.5" skX="-41.63" skY="-41.63" scX="-1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame z="10" duration="4">
+     <transform x="6.9" y="-115.45" skX="-16.69" skY="-16.69" scX="-1" scY="1" pX="0.2" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309body" scale="1" offset="0">
+    <frame z="11" duration="2">
+     <transform x="22.25" y="-116.7" skX="25.39" skY="13.88" scX="-1.02" scY="1" pX="-0.05" pY="0.3"/>
+    </frame>
+    <frame z="11" duration="4">
+     <transform x="-4.65" y="-114.15" skX="-14.53" skY="-14.3" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="2">
+     <transform x="-4.65" y="-114.15" skX="-14.53" skY="-14.3" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" duration="4">
+     <transform x="4.05" y="-126.3" skX="-4.84" skY="-4.61" scX="-1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309yibai" scale="1" offset="0">
+    <frame z="12" duration="2">
+     <transform x="15.9" y="-139.2" skX="35.28" skY="35.28" scX="-1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+    <frame z="12" duration="4">
+     <transform x="-25.9" y="-128.3" skX="-34.88" skY="-34.88" scX="-1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="2">
+     <transform x="-25.9" y="-128.3" skX="-34.88" skY="-34.88" scX="-1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="12" duration="4">
+     <transform x="-14.3" y="-143.7" skX="-10.45" skY="-10.45" scX="-1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lingdai" scale="1" offset="0">
+    <frame z="13" duration="2">
+     <transform x="58.45" y="-171.15" skX="37.72" skY="37.72" scX="-1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="13" duration="4">
+     <transform x="-10.25" y="-181.2" skX="-34.44" skY="-34.44" scX="-1" scY="1" pX="0.05" pY="0.2"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="2">
+     <transform x="-10.25" y="-181.2" skX="-34.44" skY="-34.44" scX="-1" scY="1" pX="0.05" pY="0.2"/>
+    </frame>
+    <frame z="13" duration="4">
+     <transform x="9.8" y="-193.3" skX="-0.01" skY="-0.01" scX="-1" scY="1" pX="0" pY="0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="10309head" scale="1" offset="0">
+    <frame z="14" duration="2">
+     <transform x="59.3" y="-197.95" skX="-10.45" skY="-10.45" scX="-1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="14" duration="4">
+     <transform x="-28.6" y="-200.35" skX="1.02" skY="1.02" scX="-1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="2">
+     <transform x="-28.6" y="-200.35" skX="1.02" skY="1.02" scX="-1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+    <frame z="14" duration="4">
+     <transform x="-4.95" y="-215.35" skX="-12.69" skY="-12.69" scX="-1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309equip" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="16" tweenEasing="0" duration="9">
+     <transform x="174.2" y="-126.7" skX="3.74" skY="3.74" scX="-0.55" scY="0.36" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" tweenEasing="0" duration="1">
+     <transform x="734.45" y="-14.05" skX="15.18" skY="15.18" scX="-0.55" scY="0.36" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309equip_1" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="17" tweenEasing="0" duration="9">
+     <transform x="226.5" y="-159.85" skX="3.74" skY="3.74" scX="-0.55" scY="0.36" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" tweenEasing="0" duration="1">
+     <transform x="850.55" y="-26.95" skX="15.18" skY="15.18" scX="-0.55" scY="0.36" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309equip_2" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="18" tweenEasing="0" duration="9">
+     <transform x="106.5" y="-87.25" skX="23.69" skY="23.69" scX="-0.55" scY="0.36" pX="0" pY="0"/>
+    </frame>
+    <frame z="18" tweenEasing="0" duration="1">
+     <transform x="615.4" y="6.75" skX="15.18" skY="15.18" scX="-0.55" scY="0.36" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lhand" scale="1" offset="0">
+    <frame z="19" duration="2">
+     <transform x="98.45" y="-178.6" skX="-173.45" skY="-173.45" scX="-1" scY="0.81" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="4">
+     <transform x="-129.75" y="-141.3" skX="76.04" skY="76.04" scX="-1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="2">
+     <transform x="-129.75" y="-141.3" skX="76.04" skY="76.04" scX="-1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="19" duration="4">
+     <transform x="-36.9" y="-97.45" skX="-5.64" skY="-5.64" scX="-1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia" scale="1" offset="0">
+    <frame z="21" duration="2">
+     <transform x="65.15" y="-155.5" skX="-167.06" skY="-167.06" scX="-1.22" scY="0.61" pX="0.15" pY="0.25"/>
+    </frame>
+    <frame z="21" tweenEasing="0" duration="4">
+     <transform x="-83.4" y="-160.85" skX="42.13" skY="42.13" scX="-1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="21" tweenEasing="0" duration="2">
+     <transform x="-83.4" y="-160.85" skX="42.13" skY="42.13" scX="-1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="21" duration="4">
+     <transform x="-39.85" y="-151.6" skX="-29.07" skY="-29.07" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm" scale="1" offset="0">
+    <frame z="22" duration="2">
+     <transform x="35.1" y="-177.8" skX="-83.69" skY="-83.69" scX="-1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+    <frame z="22" duration="4">
+     <transform x="-42.7" y="-175.65" skX="39.18" skY="39.18" scX="-1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame z="22" tweenEasing="0" duration="2">
+     <transform x="-42.7" y="-175.65" skX="39.18" skY="39.18" scX="-1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame z="22" duration="4">
+     <transform x="-22.7" y="-189.55" skX="-4.79" skY="-4.79" scX="-1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309zhuaguang" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="24" duration="2">
+     <transform x="25" y="-134.05" skX="78.5" skY="71.67" scX="0.76" scY="1.16" pX="0" pY="0"/>
+    </frame>
+    <frame z="24" duration="1">
+     <transform x="-58.3" y="-114.45" skX="93.44" skY="71.67" scX="0.66" scY="0.81" pX="0" pY="0.15"/>
+    </frame>
+    <frame z="24" duration="1">
+     <transform x="-128.1" y="-125.05" skX="89.61" skY="133.62" scX="0.72" scY="0.52" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame duration="6" displayIndex="-1"/>
+   </timeline>
+   <timeline name="10309daguang" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="25" duration="2">
+     <transform x="58.7" y="-164.75" skX="49.77" skY="5.33" scX="2.24" scY="1.63" pX="0" pY="0"/>
+    </frame>
+    <frame z="25" duration="1">
+     <transform x="6.2" y="-141.75" skX="86.98" skY="85.63" scX="0.46" scY="2.57" pX="0" pY="0"/>
+    </frame>
+    <frame z="25" duration="1">
+     <transform x="-113.6" y="-136.95" skX="117.06" skY="168.43" scX="0.96" scY="0.97" pX="0" pY="0"/>
+    </frame>
+    <frame duration="6" displayIndex="-1"/>
+   </timeline>
+   <frame duration="2"/>
+   <frame duration="10" event="E_attack_back"/>
+  </animation>
+  <animation name="gongji2_1" fadeInTime="0" duration="2" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="10309rhand" scale="1" offset="0">
+    <frame z="0" duration="2">
+     <transform x="43" y="-124.25" skX="-57.66" skY="-57.66" scX="-1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia_1" scale="1" offset="0">
+    <frame z="1" duration="2">
+     <transform x="21.7" y="-148.8" skX="-15.06" skY="-21.79" scX="1" scY="0.77" pX="0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm _1" scale="1" offset="0">
+    <frame z="2" duration="2">
+     <transform x="30" y="-189.65" skX="25.62" skY="25.09" scX="1" scY="0.91" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rfoot" scale="1" offset="0">
+    <frame z="3" duration="2">
+     <transform x="31.95" y="-15.75" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia" scale="1" offset="0">
+    <frame z="5" duration="2">
+     <transform x="50.1" y="-72.25" skX="-1.59" skY="-4.25" scX="-1" scY="0.85" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg" scale="1" offset="0">
+    <frame z="6" duration="2">
+     <transform x="17" y="-115.15" skX="-33.21" skY="-33.21" scX="-1" scY="0.79" pX="0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lfoot" scale="1" offset="0">
+    <frame z="7" duration="2">
+     <transform x="-27.5" y="-7.5" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309waist" scale="1" offset="0">
+    <frame z="8" duration="2">
+     <transform x="6.05" y="-126.2" skX="10.22" skY="10.22" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia_1" scale="1" offset="0">
+    <frame z="9" duration="2">
+     <transform x="-0.6" y="-71.25" skX="5.73" skY="5.73" scX="-1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg _1" scale="1" offset="0">
+    <frame z="10" duration="2">
+     <transform x="-5.95" y="-126" skX="-0.71" skY="-0.71" scX="-1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309body" scale="1" offset="0">
+    <frame z="11" duration="2">
+     <transform x="1.75" y="-125.65" skX="10.22" skY="10.22" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309yibai" scale="1" offset="0">
+    <frame z="12" duration="2">
+     <transform x="-12" y="-146.4" skX="10.22" skY="10.22" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lingdai" scale="1" offset="0">
+    <frame z="13" duration="2">
+     <transform x="23.6" y="-187.55" skX="10.22" skY="10.22" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309head" scale="1" offset="0">
+    <frame z="14" duration="2">
+     <transform x="17.9" y="-213.7" skX="10.22" skY="10.22" scX="-1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lhand" scale="1" offset="0">
+    <frame z="19" duration="2">
+     <transform x="7.1" y="-113" skX="-55.42" skY="-55.42" scX="-1" scY="1" pX="0.15" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia" scale="1" offset="0">
+    <frame z="21" duration="2">
+     <transform x="-27.2" y="-153.3" skX="-66.12" skY="-66.12" scX="-1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm" scale="1" offset="0">
+    <frame z="22" duration="2">
+     <transform x="-9.1" y="-190.85" skX="4.34" skY="4.34" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="gongji2_2" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="10309rhand" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="58.6" y="-167.85" skX="-80.37" skY="-80.37" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia_1" scale="1" offset="0">
+    <frame z="1" duration="1">
+     <transform x="24.25" y="-156.45" skX="-67.77" skY="-74.5" scX="1" scY="0.77" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm _1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="6.4" y="-197.35" skX="2.91" skY="2.38" scX="1" scY="0.91" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rfoot" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="31.95" y="-15.75" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="50.1" y="-72.25" skX="-1.59" skY="-4.25" scX="-1" scY="0.85" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="22.2" y="-119.55" skX="-25.92" skY="-25.92" scX="-1" scY="0.79" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lfoot" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="-27.5" y="-7.5" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309waist" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="8.85" y="-129.55" skX="-12.48" skY="-12.48" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia_1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="-0.6" y="-71.25" skX="5.73" skY="5.73" scX="-1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg _1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-8.95" y="-126" skX="-0.71" skY="-0.71" scX="-1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309body" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="5.05" y="-127.4" skX="-12.48" skY="-12.48" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309yibai" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="-15.6" y="-141.2" skX="-12.48" skY="-12.48" scX="-1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lingdai" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="1.3" y="-192.9" skX="-12.48" skY="-12.48" scX="-1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309head" scale="1" offset="0">
+    <frame z="14" duration="1">
+     <transform x="-14.05" y="-214.85" skX="-12.48" skY="-12.48" scX="-1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lhand" scale="1" offset="0">
+    <frame z="19" duration="1">
+     <transform x="32.9" y="-117.8" skX="-78.13" skY="-78.13" scX="-1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia" scale="1" offset="0">
+    <frame z="21" duration="1">
+     <transform x="-14.4" y="-141.7" skX="-88.83" skY="-88.83" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm" scale="1" offset="0">
+    <frame z="22" duration="1">
+     <transform x="-30.1" y="-183.35" skX="-48.37" skY="-48.37" scX="-1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="gongji2_3" fadeInTime="0" duration="8" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="10309rhand" scale="1" offset="0">
+    <frame z="0" duration="2">
+     <transform x="-17.65" y="-233.4" skX="173.63" skY="173.63" scX="-1" scY="1" pX="0.15" pY="-0.05"/>
+    </frame>
+    <frame z="0" duration="2">
+     <transform x="209.5" y="-133.35" skX="-42.67" skY="-42.67" scX="-1" scY="1" pX="0.15" pY="-0.1"/>
+    </frame>
+    <frame z="0" duration="3">
+     <transform x="142.3" y="-69.8" skX="28" skY="28" scX="-1" scY="1" pX="0.2" pY="0.1"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="142.3" y="-69.8" skX="28" skY="28" scX="-1" scY="1" pX="0.2" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia_1" scale="1" offset="0">
+    <frame z="1" duration="2">
+     <transform x="8.45" y="-203.2" skX="175.24" skY="168.51" scX="1" scY="0.77" pX="-0.05" pY="0.1"/>
+    </frame>
+    <frame z="1" duration="2">
+     <transform x="170.45" y="-143.4" skX="-41.05" skY="-47.78" scX="1" scY="0.77" pX="-0.1" pY="0.1"/>
+    </frame>
+    <frame z="1" duration="3">
+     <transform x="138.85" y="-109.85" skX="29.61" skY="22.89" scX="1" scY="0.77" pX="-0.15" pY="0.05"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="138.85" y="-109.85" skX="29.61" skY="22.89" scX="1" scY="0.77" pX="-0.15" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm _1" scale="1" offset="0">
+    <frame z="2" duration="2">
+     <transform x="46.1" y="-174.3" skX="157.66" skY="157.12" scX="1" scY="0.91" pX="0.1" pY="0.1"/>
+    </frame>
+    <frame z="2" duration="2">
+     <transform x="116.9" y="-127.45" skX="-103.13" skY="-103.66" scX="1" scY="0.91" pX="0.15" pY="-0.05"/>
+    </frame>
+    <frame z="2" duration="3">
+     <transform x="114" y="-146.2" skX="-2.93" skY="-3.46" scX="1" scY="0.91" pX="0.1" pY="-0.15"/>
+    </frame>
+    <frame z="2" duration="1">
+     <transform x="114" y="-146.2" skX="-2.93" skY="-3.46" scX="1" scY="0.91" pX="0.1" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rfoot" scale="1" offset="0">
+    <frame z="3" duration="2">
+     <transform x="31.95" y="-15.75" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="2">
+     <transform x="31.95" y="-15.75" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="3">
+     <transform x="31.95" y="-15.75" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="1">
+     <transform x="31.95" y="-15.75" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia" scale="1" offset="0">
+    <frame z="5" duration="2">
+     <transform x="72.85" y="-52.3" skX="24.6" skY="29.22" scX="-1" scY="0.86" pX="-1.3" pY="1.1"/>
+    </frame>
+    <frame z="5" duration="2">
+     <transform x="79.75" y="-47.5" skX="31.88" skY="29.22" scX="-1" scY="0.85" pX="-0.05" pY="0.15"/>
+    </frame>
+    <frame z="5" duration="3">
+     <transform x="74.2" y="-54.5" skX="24.89" skY="22.23" scX="-1" scY="0.85" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="5" duration="1">
+     <transform x="74.2" y="-54.5" skX="24.89" skY="22.23" scX="-1" scY="0.85" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg" scale="1" offset="0">
+    <frame z="6" duration="2">
+     <transform x="71.3" y="-101.3" skX="5.28" skY="5.28" scX="-1" scY="0.79" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="6" duration="2">
+     <transform x="70.5" y="-97.95" skX="-5.72" skY="-5.73" scX="-1" scY="0.79" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="6" duration="3">
+     <transform x="61.15" y="-102.85" skX="-11.22" skY="-11.22" scX="-1" scY="0.79" pX="0.05" pY="0.1"/>
+    </frame>
+    <frame z="6" duration="1">
+     <transform x="61.15" y="-102.85" skX="-11.22" skY="-11.22" scX="-1" scY="0.79" pX="0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lfoot" scale="1" offset="0">
+    <frame z="7" duration="2">
+     <transform x="-43.45" y="-27.35" skX="27.53" skY="27.53" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="7" duration="2">
+     <transform x="-42.35" y="-16.4" skX="-1.72" skY="-1.72" scX="-1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="7" duration="3">
+     <transform x="-42.35" y="-16.4" skX="-1.72" skY="-1.72" scX="-1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="7" duration="1">
+     <transform x="-42.35" y="-16.4" skX="-1.72" skY="-1.72" scX="-1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309waist" scale="1" offset="0">
+    <frame z="8" duration="2">
+     <transform x="58.8" y="-111.1" skX="2.75" skY="2.75" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="2">
+     <transform x="58.35" y="-108.15" skX="26.93" skY="26.93" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="3">
+     <transform x="48.05" y="-111.85" skX="24.18" skY="24.18" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="1">
+     <transform x="48.05" y="-111.85" skX="24.18" skY="24.18" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia_1" scale="1" offset="0">
+    <frame z="9" duration="2">
+     <transform x="9.55" y="-61.6" skX="39.46" skY="39.46" scX="-1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="9" duration="2">
+     <transform x="9.65" y="-61.1" skX="33.85" skY="33.85" scX="-1" scY="1" pX="0.15" pY="0.05"/>
+    </frame>
+    <frame z="9" duration="3">
+     <transform x="4.65" y="-63.1" skX="29.39" skY="29.39" scX="-1" scY="1" pX="0.15" pY="0.05"/>
+    </frame>
+    <frame z="9" duration="1">
+     <transform x="4.65" y="-63.1" skX="29.39" skY="29.39" scX="-1" scY="1" pX="0.15" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg _1" scale="1" offset="0">
+    <frame z="10" duration="2">
+     <transform x="47.55" y="-104.5" skX="49.05" skY="49.05" scX="-1" scY="1" pX="-0.05" pY="-0.1"/>
+    </frame>
+    <frame z="10" duration="2">
+     <transform x="45.15" y="-112" skX="41.11" skY="41.11" scX="-1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="10" duration="3">
+     <transform x="36.15" y="-114.05" skX="39.84" skY="39.84" scX="-1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+    <frame z="10" duration="1">
+     <transform x="36.15" y="-114.05" skX="39.84" skY="39.84" scX="-1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309body" scale="1" offset="0">
+    <frame z="11" duration="2">
+     <transform x="63.65" y="-106.45" skX="-24.92" skY="-24.92" scX="-1" scY="1" pX="-0.05" pY="-0.1"/>
+    </frame>
+    <frame z="11" duration="2">
+     <transform x="47.05" y="-120.9" skX="74.3" skY="74.3" scX="-1" scY="1" pX="-0.05" pY="-0.15"/>
+    </frame>
+    <frame z="11" duration="3">
+     <transform x="38.1" y="-127.25" skX="84.01" skY="84.01" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="11" duration="1">
+     <transform x="38.1" y="-127.25" skX="84.01" skY="84.01" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309yibai" scale="1" offset="0">
+    <frame z="12" duration="2">
+     <transform x="41.65" y="-121.45" skX="19.02" skY="19.02" scX="-1" scY="1" pX="0.1" pY="0.15"/>
+    </frame>
+    <frame z="12" duration="2">
+     <transform x="55.1" y="-137.55" skX="53.49" skY="53.49" scX="-1" scY="1" pX="0.1" pY="0.15"/>
+    </frame>
+    <frame z="12" duration="3">
+     <transform x="48.8" y="-142.45" skX="64.46" skY="64.46" scX="-1" scY="1" pX="0.15" pY="0.2"/>
+    </frame>
+    <frame z="12" duration="1">
+     <transform x="48.8" y="-142.45" skX="64.46" skY="64.46" scX="-1" scY="1" pX="0.15" pY="0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lingdai" scale="1" offset="0">
+    <frame z="13" duration="2">
+     <transform x="46.05" y="-169.7" skX="-24.92" skY="-24.92" scX="-1" scY="1" pX="0.2" pY="0"/>
+    </frame>
+    <frame z="13" duration="2">
+     <transform x="120.1" y="-131.3" skX="44.31" skY="44.31" scX="-1" scY="1" pX="0.25" pY="0.05"/>
+    </frame>
+    <frame z="13" duration="3">
+     <transform x="111.75" y="-125.2" skX="30.05" skY="30.05" scX="-1" scY="1" pX="0.25" pY="-0.1"/>
+    </frame>
+    <frame z="13" duration="1">
+     <transform x="111.75" y="-125.2" skX="30.05" skY="30.05" scX="-1" scY="1" pX="0.25" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309head" scale="1" offset="0">
+    <frame z="14" duration="2">
+     <transform x="26.2" y="-187.7" skX="-24.92" skY="-24.92" scX="-1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame z="14" duration="2">
+     <transform x="133.3" y="-144.95" skX="74.3" skY="74.3" scX="-1" scY="1" pX="-0.15" pY="0"/>
+    </frame>
+    <frame z="14" duration="3">
+     <transform x="127.15" y="-136.35" skX="84.01" skY="84.01" scX="-1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="14" duration="1">
+     <transform x="127.15" y="-136.35" skX="84.01" skY="84.01" scX="-1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lhand" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="19" duration="2">
+     <transform x="197.3" y="-141.1" skX="-63.14" skY="-63.14" scX="1" scY="1" pX="-0.15" pY="-0.1"/>
+    </frame>
+    <frame z="19" duration="3">
+     <transform x="116.3" y="-63.85" skX="15.11" skY="15.11" scX="1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame z="19" duration="1">
+     <transform x="116.3" y="-63.85" skX="15.11" skY="15.11" scX="1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 27" scale="1" offset="0">
+    <frame z="20" duration="2">
+     <transform x="-60.55" y="-232" skX="97.31" skY="97.31" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="6" displayIndex="-1"/>
+   </timeline>
+   <timeline name="10309rarmxia" scale="1" offset="0">
+    <frame z="21" duration="2">
+     <transform x="-21.05" y="-201.5" skX="101.29" skY="101.29" scX="-1" scY="1" pX="-0.1" pY="0.15"/>
+    </frame>
+    <frame z="21" duration="2">
+     <transform x="148.6" y="-144.5" skX="-112.04" skY="-112.04" scX="-1" scY="1" pX="-0.05" pY="0.15"/>
+    </frame>
+    <frame z="21" duration="3">
+     <transform x="116.6" y="-112.85" skX="-26.59" skY="-26.59" scX="-1" scY="1" pX="-0.1" pY="0.35"/>
+    </frame>
+    <frame z="21" duration="1">
+     <transform x="116.6" y="-112.85" skX="-26.59" skY="-26.59" scX="-1" scY="1" pX="-0.1" pY="0.35"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm" scale="1" offset="0">
+    <frame z="22" duration="2">
+     <transform x="11.15" y="-174.25" skX="97.67" skY="97.67" scX="-1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="22" duration="2">
+     <transform x="109.45" y="-148.85" skX="-115.66" skY="-115.66" scX="-1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="22" duration="3">
+     <transform x="102.2" y="-144" skX="-50.16" skY="-50.16" scX="-1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="22" duration="1">
+     <transform x="102.2" y="-144" skX="-50.16" skY="-50.16" scX="-1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309zhuaguang 1" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="23" duration="2">
+     <transform x="21.4" y="-236.5" skX="-92.79" skY="-92.79" scX="1.24" scY="1.24" pX="0" pY="0"/>
+    </frame>
+    <frame z="23" duration="1">
+     <transform x="160.45" y="-217.8" skX="-48.73" skY="-3.67" scX="1.06" scY="1.02" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="23" duration="2">
+     <transform x="195.75" y="-105.25" skX="1.76" skY="46.82" scX="0.52" scY="0.46" pX="0" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="10309zhuaguang" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="24" duration="2">
+     <transform x="171.4" y="-157.85" skX="-49.61" skY="-49.61" scX="1.15" scY="1.15" pX="0.05" pY="0.1"/>
+    </frame>
+    <frame z="24" duration="1">
+     <transform x="171.3" y="-100.35" skX="28.58" skY="58.03" scX="1" scY="0.87" pX="0.1" pY="0.15"/>
+    </frame>
+    <frame z="24" duration="1">
+     <transform x="157.15" y="-48.3" skX="56.96" skY="86.55" scX="0.34" scY="0.47" pX="-0.1" pY="0.1"/>
+    </frame>
+    <frame z="24" duration="1">
+     <transform x="121.15" y="-35.75" skX="99.17" skY="128.75" scX="0.34" scY="0.48" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="10309daguang" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="25" duration="2">
+     <transform x="138.65" y="-129.55" skX="-61.92" skY="-34.6" scX="0.91" scY="2.7" pX="0" pY="0"/>
+    </frame>
+    <frame z="25" duration="1">
+     <transform x="187.2" y="-100.75" skX="13.67" skY="33.42" scX="0.81" scY="2.07" pX="0" pY="0"/>
+    </frame>
+    <frame z="25" duration="2">
+     <transform x="170.5" y="-87.1" skX="13.67" skY="21.77" scX="0.75" scY="1.59" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <frame duration="2"/>
+   <frame duration="6" event="E_attack_back"/>
+  </animation>
+  <animation name="A_attack_back1" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="10309rhand" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="68.5" y="-193.8" skX="-70.14" skY="-70.14" scX="-1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia_1" scale="1" offset="0">
+    <frame z="1" duration="1">
+     <transform x="25.4" y="-191.55" skX="-56.01" skY="-62.74" scX="1" scY="0.77" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm _1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="-14.25" y="-207.15" skX="-37.07" skY="-37.61" scX="1" scY="0.91" pX="-0.15" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rfoot" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="29.45" y="-20.75" skX="-20.5" skY="-20.5" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="15.8" y="-79" skX="-37.78" skY="-40.44" scX="-1" scY="0.85" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="-3.7" y="-127.5" skX="-11.95" skY="-11.95" scX="-1" scY="0.79" pX="0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lfoot" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="-27.5" y="-7.5" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309waist" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="-17.25" y="-136.9" skX="-5.48" skY="-5.48" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia_1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="-22.1" y="-70.4" skX="-11.09" skY="8.67" scX="-1" scY="1.06" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg _1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-27.85" y="-128.95" skX="1.66" skY="1.66" scX="-1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309body" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="-21.25" y="-135.35" skX="-5.48" skY="-5.48" scX="-1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309yibai" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="-39.05" y="-155.15" skX="-22.19" skY="-22.19" scX="-1" scY="1" pX="0.1" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lingdai" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="-17.05" y="-200.8" skX="-17.68" skY="-17.68" scX="-1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 2" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="-22.95" y="-222.45" skX="-39.67" skY="-39.67" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lhand" scale="1" offset="0">
+    <frame z="19" duration="1">
+     <transform x="-82.75" y="-120.5" skX="-11.12" skY="-11.12" scX="-1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia" scale="1" offset="0">
+    <frame z="21" duration="1">
+     <transform x="-80.25" y="-171.75" skX="-21.82" skY="-21.82" scX="-1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm" scale="1" offset="0">
+    <frame z="22" duration="1">
+     <transform x="-50.15" y="-198.6" skX="21.08" skY="21.08" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="A_attack_back2" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="10309rhand" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="85.2" y="-131.6" skX="-38.01" skY="-38.01" scX="-1" scY="1" pX="0.15" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia_1" scale="1" offset="0">
+    <frame z="1" duration="1">
+     <transform x="55.25" y="-158.95" skX="-12.69" skY="-19.42" scX="1" scY="0.77" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm _1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="43.55" y="-198.7" skX="13.51" skY="12.98" scX="1" scY="0.91" pX="-0.1" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rfoot" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="36.3" y="-25.8" skX="3.94" skY="3.94" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="44.45" y="-84.05" skX="-16.46" skY="-4.22" scX="-1" scY="0.93" pX="-0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="16.1" y="-124" skX="-30.65" skY="-30.65" scX="-1" scY="0.79" pX="0.2" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lfoot" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="-27.5" y="-10" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309waist" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="4.7" y="-135.9" skX="6.5" skY="6.5" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia_1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="-6.05" y="-74.85" skX="0.8" skY="8.67" scX="-1" scY="1.01" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg _1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-7.35" y="-130.3" skX="9.67" skY="9.67" scX="-1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309body" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="-0.55" y="-141.7" skX="26.65" skY="26.65" scX="-1" scY="1" pX="0.1" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309yibai" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="-5.05" y="-168.05" skX="9.94" skY="9.94" scX="-1" scY="1" pX="0.1" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lingdai" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="37.8" y="-194.95" skX="14.45" skY="14.45" scX="-1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 2" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="44.35" y="-216.35" skX="38.16" skY="38.16" scX="-1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lhand" scale="1" offset="0">
+    <frame z="19" duration="1">
+     <transform x="2.55" y="-130.55" skX="-20.88" skY="-20.88" scX="-1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia" scale="1" offset="0">
+    <frame z="21" duration="1">
+     <transform x="-14.45" y="-179.05" skX="-43.64" skY="-43.64" scX="-1" scY="1" pX="0.15" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm" scale="1" offset="0">
+    <frame z="22" duration="1">
+     <transform x="8.6" y="-210.7" skX="6.49" skY="6.49" scX="-1" scY="1" pX="-0.15" pY="-0.15"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="fukong1" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="10309rhand" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="29.35" y="-163.8" skX="-62.19" skY="-62.19" scX="-1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia_1" scale="1" offset="0">
+    <frame z="1" duration="1">
+     <transform x="-7.6" y="-175.5" skX="-36.87" skY="-43.6" scX="1" scY="0.77" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm _1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="-43.15" y="-193.95" skX="-33.12" skY="-33.66" scX="1" scY="0.91" pX="-0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rfoot" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="25.05" y="-40.35" skX="-32.7" skY="-32.7" scX="-1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="9.95" y="-98.6" skX="-38.21" skY="-40.87" scX="-1" scY="0.85" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="-37.6" y="-114.6" skX="-65.57" skY="-65.57" scX="-1" scY="0.79" pX="0.2" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lfoot" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="-2.15" y="-0.1" skX="-36.65" skY="-36.65" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309waist" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="-52.85" y="-120.85" skX="-17.67" skY="-17.67" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia_1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="-22.65" y="-64.45" skX="-35.85" skY="-27.97" scX="-1" scY="1.01" pX="0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg _1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-61.5" y="-110.6" skX="-32.77" skY="-32.77" scX="-1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309body" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="-59.95" y="-123.9" skX="2.48" skY="2.48" scX="-1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309yibai" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="-74.85" y="-146.15" skX="-14.23" skY="-14.23" scX="-1" scY="1" pX="0.1" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lingdai" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="-46.7" y="-188.25" skX="-9.73" skY="-9.73" scX="-1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 2" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="-49.55" y="-210.4" skX="-12.76" skY="-12.76" scX="-1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lhand" scale="1" offset="0">
+    <frame z="19" duration="1">
+     <transform x="-28.05" y="-126.55" skX="-81.8" skY="-81.8" scX="-1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia" scale="1" offset="0">
+    <frame z="21" duration="1">
+     <transform x="-68.4" y="-153.8" skX="-79.53" skY="-79.53" scX="-1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm" scale="1" offset="0">
+    <frame z="22" duration="1">
+     <transform x="-79.85" y="-190.65" skX="-46.89" skY="-46.89" scX="-1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="fukong2" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="10309rhand" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="2.3" y="-110.45" skX="-114.15" skY="-114.15" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia_1" scale="1" offset="0">
+    <frame z="1" duration="1">
+     <transform x="-32.7" y="-88.6" skX="-88.83" skY="-95.56" scX="1" scY="0.77" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm _1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="-79.2" y="-87.45" skX="-61.89" skY="-62.43" scX="1" scY="0.91" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rfoot" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="86.9" y="-39" skX="-45.94" skY="-45.94" scX="-1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="32.2" y="-59.45" skX="-92.62" skY="-95.28" scX="-1" scY="0.85" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="-13.25" y="-42.9" skX="-101.83" skY="-101.83" scX="-1" scY="0.79" pX="0.25" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lfoot" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="100.85" y="13.8" skX="-88.61" skY="-88.61" scX="-1" scY="1" pX="0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309waist" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="-27.55" y="-34.75" skX="-69.64" skY="-69.64" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia_1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="33.5" y="4.7" skX="-100.76" skY="-92.89" scX="-1" scY="1.01" pX="0.15" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg _1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-24.9" y="-21.7" skX="-58" skY="-58" scX="-1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309body" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="-34.3" y="-31" skX="-49.48" skY="-49.48" scX="-1" scY="1" pX="-0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309yibai" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="-61.05" y="-33" skX="-66.2" skY="-66.2" scX="-1" scY="1" pX="0" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lingdai" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="-76.9" y="-81.15" skX="-61.69" skY="-61.69" scX="-1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 2" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="-96.1" y="-92.65" skX="-32.24" skY="-32.24" scX="-1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lhand" scale="1" offset="0">
+    <frame z="19" duration="1">
+     <transform x="-26.8" y="-6.25" skX="-96.57" skY="-96.57" scX="-1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia" scale="1" offset="0">
+    <frame z="21" duration="1">
+     <transform x="-76.1" y="-23.2" skX="-96.06" skY="-96.06" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm" scale="1" offset="0">
+    <frame z="22" duration="1">
+     <transform x="-99.25" y="-56.5" skX="-56.38" skY="-56.38" scX="-1" scY="1" pX="-0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="fukong3" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="10309rhand" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="-17.85" y="-84.85" skX="-143.4" skY="-143.4" scX="-1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia_1" scale="1" offset="0">
+    <frame z="1" duration="1">
+     <transform x="-42.95" y="-55.1" skX="-104.82" skY="-111.55" scX="1" scY="0.77" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm _1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="-80.05" y="-33.1" skX="-90.6" skY="-91.14" scX="1" scY="0.91" pX="0" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rfoot" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="100.45" y="-67.95" skX="-69.23" skY="-69.23" scX="-1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="42.15" y="-65.6" skX="-115.91" skY="-118.57" scX="-1" scY="0.85" pX="-0.1" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="-3.55" y="-42.9" skX="-107.41" skY="-107.41" scX="-1" scY="0.79" pX="0.25" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lfoot" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="119.7" y="-25.45" skX="-111.89" skY="-111.89" scX="-1" scY="1" pX="0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309waist" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="-13.5" y="-29.85" skX="-92.92" skY="-92.92" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia_1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="55.2" y="-29.75" skX="-105.03" skY="-97.16" scX="-1" scY="1.01" pX="0.2" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg _1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-5.9" y="-18.8" skX="-92.53" skY="-92.53" scX="-1" scY="1" pX="-0.05" pY="0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="10309body" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="-8.55" y="-24.55" skX="-94.18" skY="-94.18" scX="-1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309yibai" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="-28.95" y="-7.15" skX="-110.9" skY="-110.9" scX="-1" scY="1" pX="0.1" pY="0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lingdai" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="-74" y="-30.15" skX="-106.39" skY="-106.39" scX="-1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 2" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="-95.85" y="-25" skX="-107.1" skY="-107.1" scX="-1" scY="1" pX="0" pY="0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lhand" scale="1" offset="0">
+    <frame z="19" duration="1">
+     <transform x="14.25" y="-12.25" skX="-141.27" skY="-141.27" scX="-1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia" scale="1" offset="0">
+    <frame z="21" duration="1">
+     <transform x="-30.25" y="14.9" skX="-140.76" skY="-140.76" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm" scale="1" offset="0">
+    <frame z="22" duration="1">
+     <transform x="-72.5" y="3" skX="-101.08" skY="-101.08" scX="-1" scY="1" pX="-0.1" pY="-0.2"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="fukong4" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="10309rhand" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="-39.6" y="-102.7" skX="-126.9" skY="-126.9" scX="-1" scY="1" pX="0.05" pY="-0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia_1" scale="1" offset="0">
+    <frame z="1" duration="1">
+     <transform x="-53.3" y="-62.5" skX="-127.54" skY="-134.27" scX="1" scY="0.77" pX="-0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm _1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="-82.65" y="-35.25" skX="-101.35" skY="-101.88" scX="1" scY="0.91" pX="0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rfoot" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="82.95" y="-55.45" skX="-69.23" skY="-69.23" scX="-1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="27.15" y="-43.45" skX="-125.39" skY="-128.05" scX="-1" scY="0.85" pX="-0.1" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="-4.5" y="-9.9" skX="-128.6" skY="-128.6" scX="-1" scY="0.79" pX="0.25" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lfoot" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="109.7" y="-5.45" skX="-111.89" skY="-111.89" scX="-1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309waist" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="-13.45" y="-2.3" skX="-94.43" skY="-94.43" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia_1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="45.7" y="-12.25" skX="-105.03" skY="-97.16" scX="-1" scY="1.01" pX="0.2" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg _1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-6.9" y="14.2" skX="-109.29" skY="-109.29" scX="-1" scY="1" pX="0.05" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309body" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="-21.15" y="2.05" skX="-69.7" skY="-69.7" scX="-1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309yibai" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="-45.35" y="9.4" skX="-108.93" skY="-108.93" scX="-1" scY="1" pX="0.15" pY="0.25"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lingdai" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="-78.35" y="-30.15" skX="-81.9" skY="-81.9" scX="-1" scY="1" pX="-0.15" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 2" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="-100.4" y="-34.5" skX="-57.37" skY="-57.37" scX="-1" scY="1" pX="-0.05" pY="0.3"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lhand" scale="1" offset="0">
+    <frame z="19" duration="1">
+     <transform x="-11.75" y="-41.8" skX="-156.99" skY="-156.99" scX="-1" scY="1" pX="-0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia" scale="1" offset="0">
+    <frame z="21" duration="1">
+     <transform x="-54.15" y="-10.1" skX="-152.98" skY="-152.98" scX="-1" scY="1" pX="0.1" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm" scale="1" offset="0">
+    <frame z="22" duration="1">
+     <transform x="-90.75" y="0.6" skX="-135.31" skY="-135.31" scX="-1" scY="1" pX="-0.1" pY="-0.15"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="A_fly_vertical" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="10309rhand" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="-2.15" y="-65.3" skX="-70.05" skY="-70.05" scX="-1" scY="1" pX="-0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia_1" scale="1" offset="0">
+    <frame z="1" duration="1">
+     <transform x="-38.65" y="-64.45" skX="-54.79" skY="-61.52" scX="1" scY="0.77" pX="0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm _1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="-81" y="-56.8" skX="-68.81" skY="-69.34" scX="1" scY="0.91" pX="0.1" pY="-0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rfoot" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="93.3" y="-45.5" skX="-29.01" skY="-29.01" scX="-1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="42.95" y="-72.3" skX="-85.18" skY="-87.84" scX="-1" scY="0.85" pX="-0.15" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="-2.9" y="-67.1" skX="-88.39" skY="-88.39" scX="-1" scY="0.79" pX="0.15" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lfoot" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="81.4" y="10" skX="-71.68" skY="-71.68" scX="-1" scY="1" pX="0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309waist" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="-11.55" y="-53.2" skX="-106.88" skY="-106.88" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia_1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="36.95" y="-36.5" skX="-64.82" skY="-56.95" scX="-1" scY="1.01" pX="0.15" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg _1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-20.25" y="-50.25" skX="-69.08" skY="-69.08" scX="-1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309body" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="-9.2" y="-52.35" skX="-97.35" skY="-97.35" scX="-1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309yibai" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="-27.15" y="-34.5" skX="-82.12" skY="-82.12" scX="-1" scY="1" pX="0.1" pY="0.25"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lingdai" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="-74.75" y="-54.3" skX="-109.55" skY="-109.55" scX="-1" scY="1" pX="-0.2" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 2" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="-96.4" y="-47.95" skX="-138.21" skY="-138.21" scX="-1" scY="1" pX="-0.05" pY="0.3"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lhand" scale="1" offset="0">
+    <frame z="19" duration="1">
+     <transform x="13.9" y="-12.3" skX="-95.18" skY="-95.18" scX="-1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia" scale="1" offset="0">
+    <frame z="21" duration="1">
+     <transform x="-36.9" y="-5.7" skX="-125.94" skY="-125.94" scX="-1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm" scale="1" offset="0">
+    <frame z="22" duration="1">
+     <transform x="-71.45" y="-21.3" skX="-94.25" skY="-94.25" scX="-1" scY="1" pX="-0.15" pY="-0.25"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="daodi" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="10309rhand" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="9.9" y="-17.2" skX="-76" skY="-76" scX="-1" scY="1" pX="0" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia_1" scale="1" offset="0">
+    <frame z="1" duration="1">
+     <transform x="-21.55" y="-21.7" skX="-46.05" skY="-52.78" scX="1" scY="0.77" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm _1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="-64.55" y="-20.55" skX="-60.07" skY="-60.6" scX="1" scY="0.91" pX="0.15" pY="-0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rfoot" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="112.2" y="-31" skX="-47.95" skY="-47.95" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="54.1" y="-25.8" skX="-116.85" skY="-119.51" scX="-1" scY="0.85" pX="-0.15" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="9" y="-18.9" skX="-87.35" skY="-87.35" scX="-1" scY="0.79" pX="0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lfoot" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="117.75" y="9" skX="-77.63" skY="-77.63" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309waist" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="3.6" y="-6.55" skX="-98.14" skY="-98.14" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rlegxia_1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="56.25" y="1.95" skX="-101.46" skY="-93.59" scX="-1" scY="1.01" pX="0.15" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rleg _1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-5.5" y="-4.85" skX="-76.55" skY="-76.55" scX="-1" scY="1" pX="-0.2" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="10309body" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="5.75" y="-5.3" skX="-88.61" skY="-88.61" scX="-1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309yibai" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="-14.65" y="9.6" skX="-101.09" skY="-101.09" scX="-1" scY="1" pX="0.1" pY="0.25"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lingdai" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="-58.75" y="-17.2" skX="-100.81" skY="-100.81" scX="-1" scY="1" pX="-0.2" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 2" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="-81.1" y="-14.2" skX="-111.97" skY="-111.97" scX="-1" scY="1" pX="-0.05" pY="0.3"/>
+    </frame>
+   </timeline>
+   <timeline name="10309lhand" scale="1" offset="0">
+    <frame z="19" duration="1">
+     <transform x="29.2" y="22.5" skX="-101.13" skY="-101.13" scX="-1" scY="1" pX="-0.15" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarmxia" scale="1" offset="0">
+    <frame z="21" duration="1">
+     <transform x="-20" y="24.1" skX="-117.2" skY="-117.2" scX="-1" scY="1" pX="0.15" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="10309rarm" scale="1" offset="0">
+    <frame z="22" duration="1">
+     <transform x="-60.5" y="15.8" skX="-107.76" skY="-107.76" scX="-1" scY="1" pX="-0.15" pY="-0.25"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="siwang" fadeInTime="0" duration="14" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="10309rhand" scale="1" offset="0">
+    <frame z="0" duration="4">
+     <transform x="9.9" y="-17.2" skX="-76" skY="-76" scX="-1" scY="1" pX="0" pY="-0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="0" duration="3">
+     <transform x="9.9" y="-17.2" skX="-76" skY="-76" scX="-1" scY="1" pX="0" pY="-0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="0" duration="2">
+     <transform x="9.9" y="-17.2" skX="-76" skY="-76" scX="-1" scY="1" pX="0" pY="-0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="0" duration="1">
+     <transform x="9.9" y="-17.2" skX="-76" skY="-76" scX="-1" scY="1" pX="0" pY="-0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="10309rarmxia_1" scale="1" offset="0">
+    <frame z="1" duration="4">
+     <transform x="-21.55" y="-21.7" skX="-46.05" skY="-52.78" scX="1" scY="0.77" pX="0.05" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="1" duration="3">
+     <transform x="-21.55" y="-21.7" skX="-46.05" skY="-52.78" scX="1" scY="0.77" pX="0.05" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="1" duration="2">
+     <transform x="-21.55" y="-21.7" skX="-46.05" skY="-52.78" scX="1" scY="0.77" pX="0.05" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="1" duration="1">
+     <transform x="-21.55" y="-21.7" skX="-46.05" skY="-52.78" scX="1" scY="0.77" pX="0.05" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="10309rarm _1" scale="1" offset="0">
+    <frame z="2" duration="4">
+     <transform x="-64.55" y="-20.55" skX="-60.07" skY="-60.6" scX="1" scY="0.91" pX="0.15" pY="-0.2"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="2" duration="3">
+     <transform x="-64.55" y="-20.55" skX="-60.07" skY="-60.6" scX="1" scY="0.91" pX="0.15" pY="-0.2"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="2" duration="2">
+     <transform x="-64.55" y="-20.55" skX="-60.07" skY="-60.6" scX="1" scY="0.91" pX="0.15" pY="-0.2"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="2" duration="1">
+     <transform x="-64.55" y="-20.55" skX="-60.07" skY="-60.6" scX="1" scY="0.91" pX="0.15" pY="-0.2"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="10309rfoot" scale="1" offset="0">
+    <frame z="3" duration="4">
+     <transform x="112.2" y="-31" skX="-47.95" skY="-47.95" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="3" duration="3">
+     <transform x="112.2" y="-31" skX="-47.95" skY="-47.95" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="3" duration="2">
+     <transform x="112.2" y="-31" skX="-47.95" skY="-47.95" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="3" duration="1">
+     <transform x="112.2" y="-31" skX="-47.95" skY="-47.95" scX="-1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="10309rlegxia" scale="1" offset="0">
+    <frame z="5" duration="4">
+     <transform x="54.1" y="-25.8" skX="-116.85" skY="-119.51" scX="-1" scY="0.85" pX="-0.15" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="5" duration="3">
+     <transform x="54.1" y="-25.8" skX="-116.85" skY="-119.51" scX="-1" scY="0.85" pX="-0.15" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="5" duration="2">
+     <transform x="54.1" y="-25.8" skX="-116.85" skY="-119.51" scX="-1" scY="0.85" pX="-0.15" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="5" duration="1">
+     <transform x="54.1" y="-25.8" skX="-116.85" skY="-119.51" scX="-1" scY="0.85" pX="-0.15" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="10309rleg" scale="1" offset="0">
+    <frame z="6" duration="4">
+     <transform x="9" y="-18.9" skX="-87.35" skY="-87.35" scX="-1" scY="0.79" pX="0.05" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="6" duration="3">
+     <transform x="9" y="-18.9" skX="-87.35" skY="-87.35" scX="-1" scY="0.79" pX="0.05" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="6" duration="2">
+     <transform x="9" y="-18.9" skX="-87.35" skY="-87.35" scX="-1" scY="0.79" pX="0.05" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="6" duration="1">
+     <transform x="9" y="-18.9" skX="-87.35" skY="-87.35" scX="-1" scY="0.79" pX="0.05" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="10309lfoot" scale="1" offset="0">
+    <frame z="7" duration="4">
+     <transform x="117.75" y="9" skX="-77.63" skY="-77.63" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="7" duration="3">
+     <transform x="117.75" y="9" skX="-77.63" skY="-77.63" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="7" duration="2">
+     <transform x="117.75" y="9" skX="-77.63" skY="-77.63" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="7" duration="1">
+     <transform x="117.75" y="9" skX="-77.63" skY="-77.63" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="10309waist" scale="1" offset="0">
+    <frame z="8" duration="4">
+     <transform x="3.6" y="-6.55" skX="-98.14" skY="-98.14" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="8" duration="3">
+     <transform x="3.6" y="-6.55" skX="-98.14" skY="-98.14" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="8" duration="2">
+     <transform x="3.6" y="-6.55" skX="-98.14" skY="-98.14" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="8" duration="1">
+     <transform x="3.6" y="-6.55" skX="-98.14" skY="-98.14" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="10309rlegxia_1" scale="1" offset="0">
+    <frame z="9" duration="4">
+     <transform x="56.25" y="1.95" skX="-101.46" skY="-93.59" scX="-1" scY="1.01" pX="0.15" pY="0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="9" duration="3">
+     <transform x="56.25" y="1.95" skX="-101.46" skY="-93.59" scX="-1" scY="1.01" pX="0.15" pY="0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="9" duration="2">
+     <transform x="56.25" y="1.95" skX="-101.46" skY="-93.59" scX="-1" scY="1.01" pX="0.15" pY="0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="9" duration="1">
+     <transform x="56.25" y="1.95" skX="-101.46" skY="-93.59" scX="-1" scY="1.01" pX="0.15" pY="0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="10309rleg _1" scale="1" offset="0">
+    <frame z="10" duration="4">
+     <transform x="-5.5" y="-4.85" skX="-76.55" skY="-76.55" scX="-1" scY="1" pX="-0.2" pY="0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="10" duration="3">
+     <transform x="-5.5" y="-4.85" skX="-76.55" skY="-76.55" scX="-1" scY="1" pX="-0.2" pY="0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="10" duration="2">
+     <transform x="-5.5" y="-4.85" skX="-76.55" skY="-76.55" scX="-1" scY="1" pX="-0.2" pY="0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="10" duration="1">
+     <transform x="-5.5" y="-4.85" skX="-76.55" skY="-76.55" scX="-1" scY="1" pX="-0.2" pY="0.15"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="10309body" scale="1" offset="0">
+    <frame z="11" duration="4">
+     <transform x="5.75" y="-5.3" skX="-88.61" skY="-88.61" scX="-1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="11" duration="3">
+     <transform x="5.75" y="-5.3" skX="-88.61" skY="-88.61" scX="-1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="11" duration="2">
+     <transform x="5.75" y="-5.3" skX="-88.61" skY="-88.61" scX="-1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="11" duration="1">
+     <transform x="5.75" y="-5.3" skX="-88.61" skY="-88.61" scX="-1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="10309yibai" scale="1" offset="0">
+    <frame z="12" duration="4">
+     <transform x="-14.65" y="9.6" skX="-101.09" skY="-101.09" scX="-1" scY="1" pX="0.1" pY="0.25"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="12" duration="3">
+     <transform x="-14.65" y="9.6" skX="-101.09" skY="-101.09" scX="-1" scY="1" pX="0.1" pY="0.25"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="12" duration="2">
+     <transform x="-14.65" y="9.6" skX="-101.09" skY="-101.09" scX="-1" scY="1" pX="0.1" pY="0.25"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="12" duration="1">
+     <transform x="-14.65" y="9.6" skX="-101.09" skY="-101.09" scX="-1" scY="1" pX="0.1" pY="0.25"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="10309lingdai" scale="1" offset="0">
+    <frame z="13" duration="4">
+     <transform x="-58.75" y="-17.2" skX="-100.81" skY="-100.81" scX="-1" scY="1" pX="-0.2" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="13" duration="3">
+     <transform x="-58.75" y="-17.2" skX="-100.81" skY="-100.81" scX="-1" scY="1" pX="-0.2" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="13" duration="2">
+     <transform x="-58.75" y="-17.2" skX="-100.81" skY="-100.81" scX="-1" scY="1" pX="-0.2" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="13" duration="1">
+     <transform x="-58.75" y="-17.2" skX="-100.81" skY="-100.81" scX="-1" scY="1" pX="-0.2" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 2" scale="1" offset="0">
+    <frame z="15" duration="4">
+     <transform x="-81.1" y="-14.2" skX="-111.97" skY="-111.97" scX="-1" scY="1" pX="-0.05" pY="0.3"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="15" duration="3">
+     <transform x="-81.1" y="-14.2" skX="-111.97" skY="-111.97" scX="-1" scY="1" pX="-0.05" pY="0.3"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="15" duration="2">
+     <transform x="-81.1" y="-14.2" skX="-111.97" skY="-111.97" scX="-1" scY="1" pX="-0.05" pY="0.3"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="15" duration="1">
+     <transform x="-81.1" y="-14.2" skX="-111.97" skY="-111.97" scX="-1" scY="1" pX="-0.05" pY="0.3"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="10309lhand" scale="1" offset="0">
+    <frame z="19" duration="4">
+     <transform x="29.2" y="22.5" skX="-101.13" skY="-101.13" scX="-1" scY="1" pX="-0.15" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="19" duration="3">
+     <transform x="29.2" y="22.5" skX="-101.13" skY="-101.13" scX="-1" scY="1" pX="-0.15" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="19" duration="2">
+     <transform x="29.2" y="22.5" skX="-101.13" skY="-101.13" scX="-1" scY="1" pX="-0.15" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="19" duration="1">
+     <transform x="29.2" y="22.5" skX="-101.13" skY="-101.13" scX="-1" scY="1" pX="-0.15" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="10309rarmxia" scale="1" offset="0">
+    <frame z="21" duration="4">
+     <transform x="-20" y="24.1" skX="-117.2" skY="-117.2" scX="-1" scY="1" pX="0.15" pY="0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="21" duration="3">
+     <transform x="-20" y="24.1" skX="-117.2" skY="-117.2" scX="-1" scY="1" pX="0.15" pY="0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="21" duration="2">
+     <transform x="-20" y="24.1" skX="-117.2" skY="-117.2" scX="-1" scY="1" pX="0.15" pY="0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="21" duration="1">
+     <transform x="-20" y="24.1" skX="-117.2" skY="-117.2" scX="-1" scY="1" pX="0.15" pY="0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="10309rarm" scale="1" offset="0">
+    <frame z="22" duration="4">
+     <transform x="-60.5" y="15.8" skX="-107.76" skY="-107.76" scX="-1" scY="1" pX="-0.15" pY="-0.25"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="22" duration="3">
+     <transform x="-60.5" y="15.8" skX="-107.76" skY="-107.76" scX="-1" scY="1" pX="-0.15" pY="-0.25"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="22" duration="2">
+     <transform x="-60.5" y="15.8" skX="-107.76" skY="-107.76" scX="-1" scY="1" pX="-0.15" pY="-0.25"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="22" duration="1">
+     <transform x="-60.5" y="15.8" skX="-107.76" skY="-107.76" scX="-1" scY="1" pX="-0.15" pY="-0.25"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

@@ -1,0 +1,15 @@
+<TextureAtlas name="10102" imagePath="10102.png">
+ <SubTexture name="dh7" x="97" y="67" width="54" height="70"/>
+ <SubTexture name="dh12" x="97" y="0" width="145" height="65"/>
+ <SubTexture name="dh6" x="300" y="96" width="35" height="53"/>
+ <SubTexture name="dh11" x="244" y="0" width="54" height="99"/>
+ <SubTexture name="dh9" x="300" y="0" width="57" height="94"/>
+ <SubTexture name="dh10" x="458" y="74" width="38" height="54"/>
+ <SubTexture name="dh3" x="359" y="68" width="54" height="50"/>
+ <SubTexture name="dh8" x="190" y="67" width="35" height="63"/>
+ <SubTexture name="dh2" x="424" y="0" width="56" height="72"/>
+ <SubTexture name="dh1" x="359" y="0" width="63" height="66"/>
+ <SubTexture name="dh5" x="153" y="67" width="35" height="78"/>
+ <SubTexture name="dh4" x="415" y="74" width="41" height="54"/>
+ <SubTexture name="dhtx1" x="0" y="0" width="95" height="227"/>
+</TextureAtlas>

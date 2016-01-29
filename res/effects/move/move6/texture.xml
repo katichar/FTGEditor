@@ -1,0 +1,13 @@
+<TextureAtlas name="6" imagePath="texture.png">
+ <SubTexture name="zhuilou1" x="902" y="0" width="900" height="506"/>
+ <SubTexture name="feiren_1" x="1804" y="250" width="200" height="210"/>
+ <SubTexture name="feiren_2" x="1804" y="0" width="200" height="248"/>
+ <SubTexture name="jiangshi" x="324" y="1016" width="700" height="322"/>
+ <SubTexture name="sehngchan" x="902" y="508" width="900" height="506"/>
+ <SubTexture name="baozang" x="0" y="508" width="900" height="506"/>
+ <SubTexture name="biabiao" x="0" y="0" width="900" height="506"/>
+ <SubTexture name="megnmeng" x="0" y="1016" width="323" height="774"/>
+ <SubTexture name="zuifan" x="1804" y="513" width="162" height="24"/>
+ <SubTexture name="quantao" x="1804" y="462" width="202" height="24"/>
+ <SubTexture name="zhicai" x="1804" y="487" width="184" height="25"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<TextureAtlas name="600217" imagePath="texture.png">
+ <SubTexture name="60021710" x="0" y="130" width="128" height="128"/>
+ <SubTexture name="60021709" x="130" y="0" width="128" height="128"/>
+ <SubTexture name="60021707" x="0" y="0" width="128" height="128"/>
+ <SubTexture name="60021706" x="130" y="260" width="128" height="128"/>
+ <SubTexture name="60021705" x="0" y="260" width="128" height="128"/>
+ <SubTexture name="60021704" x="260" y="130" width="128" height="128"/>
+ <SubTexture name="60021703" x="130" y="130" width="128" height="128"/>
+ <SubTexture name="60021702" x="260" y="260" width="128" height="128"/>
+ <SubTexture name="60021701" x="260" y="0" width="128" height="128"/>
+ <SubTexture name="6002176" x="390" y="0" width="112" height="112"/>
+ <SubTexture name="6002175" x="430" y="151" width="31" height="35"/>
+ <SubTexture name="6002174" x="430" y="114" width="37" height="35"/>
+ <SubTexture name="6002173" x="390" y="114" width="38" height="36"/>
+ <SubTexture name="6002172" x="469" y="114" width="35" height="36"/>
+ <SubTexture name="6002171" x="390" y="152" width="27" height="27"/>
+</TextureAtlas>

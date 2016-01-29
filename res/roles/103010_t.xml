@@ -1,0 +1,21 @@
+<TextureAtlas name="103010" imagePath="103010.png">
+ <SubTexture name="103010larmxia" x="791" y="178" width="79" height="47"/>
+ <SubTexture name="103010rfoot" x="611" y="233" width="65" height="47"/>
+ <SubTexture name="103010rhand" x="791" y="227" width="63" height="51"/>
+ <SubTexture name="103010rarm" x="339" y="178" width="68" height="76"/>
+ <SubTexture name="103010rlegxia" x="299" y="174" width="38" height="69"/>
+ <SubTexture name="103010rleg" x="469" y="178" width="72" height="68"/>
+ <SubTexture name="103010waist" x="651" y="178" width="78" height="53"/>
+ <SubTexture name="103010lfoot" x="611" y="178" width="38" height="47"/>
+ <SubTexture name="103010llegxia" x="977" y="149" width="37" height="74"/>
+ <SubTexture name="103010lleg" x="409" y="178" width="58" height="84"/>
+ <SubTexture name="103010body" x="914" y="0" width="106" height="147"/>
+ <SubTexture name="103010head" x="731" y="178" width="58" height="73"/>
+ <SubTexture name="103010larm" x="914" y="149" width="61" height="85"/>
+ <SubTexture name="103010lhand" x="543" y="178" width="66" height="66"/>
+ <SubTexture name="103010yan" x="0" y="0" width="355" height="173"/>
+ <SubTexture name="103010texiao5_2" x="158" y="174" width="140" height="136"/>
+ <SubTexture name="ppp2" x="356" y="0" width="303" height="176"/>
+ <SubTexture name="ppp3" x="661" y="0" width="251" height="176"/>
+ <SubTexture name="jianyinju" x="0" y="174" width="157" height="154"/>
+</TextureAtlas>

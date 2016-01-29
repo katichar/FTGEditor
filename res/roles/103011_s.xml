@@ -1,0 +1,3523 @@
+<dragonBones name="103011" frameRate="24" version="2.3">
+ <armature name="103011">
+  <bone name="d_d_w1">
+   <transform x="28.45" y="-137.6" skX="-7.68" skY="-7.68" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_b2_1">
+   <transform x="22.35" y="-171.45" skX="-15.43" skY="-15.43" scX="-1" scY="1"/>
+  </bone>
+  <bone name="d_d_s2">
+   <transform x="33.25" y="-147.65" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_wt2">
+   <transform x="25.2" y="-168.7" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_j2">
+   <transform x="15.85" y="-56.95" skX="60.49" skY="60.49" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_xt1_1">
+   <transform x="32.35" y="-98.55" skX="21.74" skY="21.74" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_dt1_1">
+   <transform x="18.5" y="-141.1" skX="-27.22" skY="-27.22" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_x1">
+   <transform x="18.7" y="-139.05" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_k1">
+   <transform x="10.6" y="-133.6" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_j1">
+   <transform x="-12.35" y="-49.5" skX="12.73" skY="12.73" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_xt1">
+   <transform x="-10.95" y="-91.4" skX="3.28" skY="3.28" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_dt1">
+   <transform x="-0.55" y="-133.55" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_t1">
+   <transform x="17.6" y="-191.25" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_wt1">
+   <transform x="8.5" y="-178.4" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_b1">
+   <transform x="-6.5" y="-192.5" skX="-11.96" skY="-11.96" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_b2">
+   <transform x="-22.65" y="-161.05" skX="6.21" skY="6.21" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_s1">
+   <transform x="-33.25" y="-133.75" skX="-3.04" skY="-3.04" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_texiao3">
+   <transform x="-7.6" y="-70.8" skX="-0.45" skY="-0.45" scX="-1.16" scY="1"/>
+  </bone>
+  <bone name="d_d_texiao1">
+   <transform x="189.25" y="-184.65" skX="0" skY="0" scX="1.28" scY="1.28"/>
+  </bone>
+  <bone name="d_d_b1_1">
+   <transform x="39.65" y="-169.45" skX="-53" skY="-53" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_texiao2">
+   <transform x="292.2" y="-180.4" skX="180" skY="-180" scX="-1.44" scY="1.81"/>
+  </bone>
+  <bone name="d_d_texiao4">
+   <transform x="196.7" y="-116.9" skX="0" skY="0" scX="0.87" scY="1.36"/>
+  </bone>
+  <skin name="default">
+   <slot name="d_d_w1" parent="d_d_w1" z="0">
+    <display name="d_w1" type="armature">
+     <transform x="-49.85" y="36.9" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="d_d_b2_1" parent="d_d_b2_1" z="2">
+    <display name="d_b2" type="image">
+     <transform x="-4" y="17.05" skX="0" skY="0" scX="1" scY="1" pX="18.5" pY="26.5"/>
+    </display>
+   </slot>
+   <slot name="d_d_s2" parent="d_d_s2" z="3">
+    <display name="d_s2" type="image">
+     <transform x="6.4" y="16.05" skX="0" skY="0" scX="1" scY="1" pX="16" pY="19.5"/>
+    </display>
+   </slot>
+   <slot name="d_d_wt2" parent="d_d_wt2" z="4">
+    <display name="d_wt2" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="16.5" pY="49.5"/>
+    </display>
+   </slot>
+   <slot name="d_d_j2" parent="d_d_j2" z="5">
+    <display name="d_j2" type="image">
+     <transform x="8.45" y="8.8" skX="0" skY="0" scX="1" scY="1" pX="18.5" pY="10.5"/>
+    </display>
+   </slot>
+   <slot name="d_d_xt1_1" parent="d_d_xt1_1" z="6">
+    <display name="d_xt1" type="image">
+     <transform x="-0.6" y="27.9" skX="0" skY="0" scX="1" scY="1" pX="18" pY="31"/>
+    </display>
+   </slot>
+   <slot name="d_d_dt1_1" parent="d_d_dt1_1" z="7">
+    <display name="d_dt1" type="image">
+     <transform x="-5.85" y="25.8" skX="0" skY="0" scX="1" scY="1" pX="23.5" pY="32"/>
+    </display>
+   </slot>
+   <slot name="d_d_x1" parent="d_d_x1" z="8">
+    <display name="d_x1" type="image">
+     <transform x="0" y="-29" skX="0" skY="0" scX="1" scY="1" pX="23" pY="33.5"/>
+    </display>
+   </slot>
+   <slot name="d_d_k1" parent="d_d_k1" z="9">
+    <display name="d_k1" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="18.5" pY="17.5"/>
+    </display>
+   </slot>
+   <slot name="d_d_j1" parent="d_d_j1" z="10">
+    <display name="d_j1" type="image">
+     <transform x="-0.4" y="18.95" skX="0" skY="0" scX="1" scY="1" pX="11.5" pY="21.5"/>
+    </display>
+   </slot>
+   <slot name="d_d_xt1" parent="d_d_xt1" z="11">
+    <display name="d_xt1" type="image">
+     <transform x="-0.6" y="27.75" skX="0" skY="0" scX="1" scY="1" pX="18" pY="31"/>
+    </display>
+   </slot>
+   <slot name="d_d_dt1" parent="d_d_dt1" z="12">
+    <display name="d_dt1" type="image">
+     <transform x="-5.85" y="25.65" skX="0" skY="0" scX="1" scY="1" pX="23.5" pY="32"/>
+    </display>
+   </slot>
+   <slot name="d_d_t1" parent="d_d_t1" z="13">
+    <display name="d_t1" type="image">
+     <transform x="-0.2" y="-19.6" skX="0" skY="0" scX="1" scY="1" pX="18.5" pY="21.5"/>
+    </display>
+   </slot>
+   <slot name="d_d_wt1" parent="d_d_wt1" z="14">
+    <display name="d_wt1" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="33" pY="60"/>
+    </display>
+   </slot>
+   <slot name="d_d_b1" parent="d_d_b1" z="15">
+    <display name="d_b1" type="image">
+     <transform x="-11.95" y="15" skX="0" skY="0" scX="1" scY="1" pX="18" pY="19.5"/>
+    </display>
+   </slot>
+   <slot name="d_d_b2" parent="d_d_b2" z="16">
+    <display name="d_b2" type="image">
+     <transform x="-4.05" y="17" skX="0" skY="0" scX="1" scY="1" pX="18.5" pY="26.5"/>
+    </display>
+   </slot>
+   <slot name="d_d_s1" parent="d_d_s1" z="17">
+    <display name="d_s1" type="image">
+     <transform x="-4.05" y="16.55" skX="0" skY="0" scX="1" scY="1" pX="16.5" pY="18.5"/>
+    </display>
+   </slot>
+   <slot name="d_d_texiao3" parent="d_d_texiao3" z="18" blendMode="lighten">
+    <display name="d_qie3" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="130.6" pY="93.4"/>
+    </display>
+    <display name="d_zhua1" type="armature">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="d_d_texiao1" parent="d_d_texiao1" z="20" blendMode="add">
+    <display name="d_zhua1" type="armature">
+     <transform x="0" y="0.15" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+    <display name="d_zhua2" type="armature">
+     <transform x="0" y="0.05" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+    <display name="d_zhua3" type="armature">
+     <transform x="-0.05" y="0.15" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="d_d_b1_1" parent="d_d_b1_1" z="1">
+    <display name="d_b1" type="image">
+     <transform x="-12" y="15.05" skX="0" skY="0" scX="1" scY="1" pX="18" pY="19.5"/>
+    </display>
+   </slot>
+   <slot name="d_d_texiao2" parent="d_d_texiao2" z="21" blendMode="add">
+    <display name="d_zhua1" type="armature">
+     <transform x="0" y="0.15" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+    <display name="d_zhua4" type="armature">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="d_d_texiao4" parent="d_d_texiao4" z="19" blendMode="lighten">
+    <display name="d_zhua1" type="armature">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="zhanli" fadeInTime="0" duration="40" scale="1" loop="0" autoTween="0" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="40">
+     <transform x="28.45" y="-137.6" skX="-7.68" skY="-7.68" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="15">
+     <transform x="22.35" y="-171.45" skX="-15.43" skY="-15.43" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="4">
+     <transform x="23.4" y="-162.25" skX="-25.19" skY="-25.19" scX="-1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="17">
+     <transform x="23.4" y="-163.55" skX="-25.19" skY="-25.19" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="4">
+     <transform x="22.35" y="-171.45" skX="-15.43" skY="-15.43" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="15">
+     <transform x="33.25" y="-147.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="4">
+     <transform x="40.6" y="-139.5" skX="6.71" skY="6.71" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="17">
+     <transform x="40.6" y="-140.8" skX="6.71" skY="6.71" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="3" duration="4">
+     <transform x="33.25" y="-147.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="15">
+     <transform x="25.2" y="-168.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="4">
+     <transform x="25.2" y="-163.35" skX="-0.81" skY="0" scX="1" scY="0.97" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="17">
+     <transform x="25.2" y="-164.65" skX="-0.81" skY="0" scX="1" scY="0.97" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="4">
+     <transform x="25.2" y="-168.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="15">
+     <transform x="15.85" y="-56.95" skX="60.49" skY="60.49" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="4">
+     <transform x="16.2" y="-56.8" skX="66.66" skY="66.66" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="17">
+     <transform x="16.2" y="-58.1" skX="66.66" skY="66.66" scX="1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+    <frame z="5" duration="4">
+     <transform x="15.85" y="-56.95" skX="60.49" skY="60.49" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" tweenEasing="0" duration="15">
+     <transform x="32.35" y="-98.55" skX="21.74" skY="21.74" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="4">
+     <transform x="37.9" y="-93.5" skX="29.29" skY="29.29" scX="1" scY="0.92" pX="0.1" pY="0"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="17">
+     <transform x="37.9" y="-94.8" skX="29.29" skY="29.29" scX="1" scY="0.92" pX="0.1" pY="-0.05"/>
+    </frame>
+    <frame z="6" duration="4">
+     <transform x="32.35" y="-98.55" skX="21.74" skY="21.74" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" tweenEasing="0" duration="15">
+     <transform x="18.5" y="-141.1" skX="-27.22" skY="-27.22" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="4">
+     <transform x="18.5" y="-135.7" skX="-32.09" skY="-32.09" scX="1" scY="1" pX="0" pY="-0.2"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="17">
+     <transform x="18.5" y="-137" skX="-32.09" skY="-32.09" scX="1" scY="1" pX="0" pY="-0.2"/>
+    </frame>
+    <frame z="7" duration="4">
+     <transform x="18.5" y="-141.1" skX="-27.22" skY="-27.22" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" tweenEasing="0" duration="15">
+     <transform x="18.7" y="-139.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="4">
+     <transform x="18.7" y="-133.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="17">
+     <transform x="18.7" y="-135" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="4">
+     <transform x="18.7" y="-139.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" tweenEasing="0" duration="15">
+     <transform x="10.6" y="-133.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="4">
+     <transform x="10.6" y="-128.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="17">
+     <transform x="10.6" y="-129.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="4">
+     <transform x="10.6" y="-133.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" tweenEasing="0" duration="15">
+     <transform x="-12.35" y="-49.5" skX="12.73" skY="12.73" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="4">
+     <transform x="-16.9" y="-44.15" skX="12.57" skY="12.57" scX="1" scY="0.91" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="17">
+     <transform x="-16.9" y="-45.45" skX="12.57" skY="12.57" scX="1" scY="0.91" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" duration="4">
+     <transform x="-12.35" y="-49.5" skX="12.73" skY="12.73" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" tweenEasing="0" duration="15">
+     <transform x="-10.95" y="-91.4" skX="3.28" skY="3.28" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="4">
+     <transform x="-12.3" y="-86.05" skX="6.7" skY="6.7" scX="1" scY="0.95" pX="-0.1" pY="0"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="17">
+     <transform x="-12.3" y="-87.35" skX="6.7" skY="6.7" scX="1" scY="0.95" pX="-0.1" pY="0"/>
+    </frame>
+    <frame z="11" duration="4">
+     <transform x="-10.95" y="-91.4" skX="3.28" skY="3.28" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" tweenEasing="0" duration="15">
+     <transform x="-0.55" y="-133.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="4">
+     <transform x="-0.55" y="-128.2" skX="2.49" skY="2.49" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="17">
+     <transform x="-0.55" y="-129.5" skX="2.49" skY="2.49" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="12" duration="4">
+     <transform x="-0.55" y="-133.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" tweenEasing="0" duration="15">
+     <transform x="17.6" y="-191.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="4">
+     <transform x="17.6" y="-185.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="17">
+     <transform x="17.6" y="-187.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" duration="4">
+     <transform x="17.6" y="-191.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" tweenEasing="0" duration="15">
+     <transform x="8.5" y="-178.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="4">
+     <transform x="8.5" y="-173.05" skX="0" skY="0" scX="1" scY="0.99" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="17">
+     <transform x="8.5" y="-174.35" skX="0" skY="0" scX="1" scY="0.99" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="4">
+     <transform x="8.5" y="-178.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" tweenEasing="0" duration="15">
+     <transform x="-6.5" y="-192.5" skX="-11.96" skY="-11.96" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" tweenEasing="0" duration="4">
+     <transform x="-6.55" y="-187.1" skX="-7.59" skY="-7.59" scX="1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame z="15" tweenEasing="0" duration="17">
+     <transform x="-6.55" y="-188.4" skX="-7.59" skY="-7.59" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="15" duration="4">
+     <transform x="-6.5" y="-192.5" skX="-11.96" skY="-11.96" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" tweenEasing="0" duration="15">
+     <transform x="-22.65" y="-161.05" skX="6.21" skY="6.21" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" tweenEasing="0" duration="4">
+     <transform x="-25.45" y="-155.75" skX="-4.39" skY="-4.39" scX="1" scY="0.93" pX="0" pY="0.15"/>
+    </frame>
+    <frame z="16" tweenEasing="0" duration="17">
+     <transform x="-25.45" y="-157.05" skX="-4.39" skY="-4.39" scX="1" scY="0.93" pX="0" pY="0.15"/>
+    </frame>
+    <frame z="16" duration="4">
+     <transform x="-22.65" y="-161.05" skX="6.21" skY="6.21" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" tweenEasing="0" duration="15">
+     <transform x="-33.25" y="-133.75" skX="-3.04" skY="-3.04" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" tweenEasing="0" duration="4">
+     <transform x="-32.5" y="-128.4" skX="-29.77" skY="-29.77" scX="1" scY="1" pX="0.15" pY="0.05"/>
+    </frame>
+    <frame z="17" tweenEasing="0" duration="17">
+     <transform x="-32.5" y="-129.7" skX="-29.77" skY="-29.77" scX="1" scY="1" pX="0.15" pY="0.05"/>
+    </frame>
+    <frame z="17" duration="4">
+     <transform x="-33.25" y="-133.75" skX="-3.04" skY="-3.04" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="pao" fadeInTime="0" duration="20" scale="1" loop="0" autoTween="0" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="20">
+     <transform x="-0.25" y="-96.9" skX="1.45" skY="1.45" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="10">
+     <transform x="32.8" y="-163.4" skX="-6.21" skY="-6.21" scX="-1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="9">
+     <transform x="32.8" y="-159.5" skX="-6.05" skY="-6.05" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="2" duration="1">
+     <transform x="32.8" y="-163.4" skX="-6.21" skY="-6.21" scX="-1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="10">
+     <transform x="45.15" y="-138.15" skX="9.22" skY="9.22" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="9">
+     <transform x="45.2" y="-134.2" skX="9.06" skY="9.06" scX="1" scY="1" pX="0.05" pY="-0.1"/>
+    </frame>
+    <frame z="3" duration="1">
+     <transform x="45.15" y="-138.15" skX="9.22" skY="9.22" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="10">
+     <transform x="49.55" y="-160.2" skX="9.22" skY="9.22" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="9">
+     <transform x="49.55" y="-156.25" skX="9.06" skY="9.06" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="1">
+     <transform x="49.55" y="-160.2" skX="9.22" skY="9.22" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="10">
+     <transform x="40.6" y="-56.85" skX="83.34" skY="83.34" scX="1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="9">
+     <transform x="40.55" y="-52.95" skX="83.46" skY="83.46" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="5" duration="1">
+     <transform x="40.6" y="-56.85" skX="83.34" skY="83.34" scX="1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" tweenEasing="0" duration="10">
+     <transform x="57.85" y="-94.95" skX="25.38" skY="25.38" scX="1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="9">
+     <transform x="57.8" y="-91.05" skX="25.32" skY="25.32" scX="1" scY="1" pX="0.2" pY="-0.05"/>
+    </frame>
+    <frame z="6" duration="1">
+     <transform x="57.85" y="-94.95" skX="25.38" skY="25.38" scX="1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" tweenEasing="0" duration="10">
+     <transform x="37.35" y="-131" skX="-34.75" skY="-34.75" scX="1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="9">
+     <transform x="37.4" y="-127.1" skX="-34.62" skY="-34.62" scX="1" scY="1" pX="0.05" pY="-0.2"/>
+    </frame>
+    <frame z="7" duration="1">
+     <transform x="37.35" y="-131" skX="-34.75" skY="-34.75" scX="1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" tweenEasing="0" duration="10">
+     <transform x="38.4" y="-132" skX="9.22" skY="9.22" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="9">
+     <transform x="38.45" y="-128.15" skX="9.06" skY="9.06" scX="1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+    <frame z="8" duration="1">
+     <transform x="38.4" y="-132" skX="9.22" skY="9.22" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" tweenEasing="0" duration="10">
+     <transform x="29.55" y="-127.95" skX="9.22" skY="9.22" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="9">
+     <transform x="29.6" y="-124.05" skX="9.06" skY="9.06" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="1">
+     <transform x="29.55" y="-127.95" skX="9.22" skY="9.22" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" tweenEasing="0" duration="10">
+     <transform x="-6.55" y="-48.6" skX="21.95" skY="21.95" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="9">
+     <transform x="-6.55" y="-44.7" skX="21.83" skY="21.83" scX="1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame z="10" duration="1">
+     <transform x="-6.55" y="-48.6" skX="21.95" skY="21.95" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" tweenEasing="0" duration="10">
+     <transform x="1.55" y="-89.7" skX="12.5" skY="12.5" scX="1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="9">
+     <transform x="1.55" y="-85.85" skX="12.32" skY="12.32" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="11" duration="1">
+     <transform x="1.55" y="-89.7" skX="12.5" skY="12.5" scX="1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" tweenEasing="0" duration="10">
+     <transform x="18.55" y="-129.7" skX="9.22" skY="9.22" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="9">
+     <transform x="18.55" y="-125.8" skX="9.06" skY="9.06" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="12" duration="1">
+     <transform x="18.55" y="-129.7" skX="9.22" skY="9.22" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" tweenEasing="0" duration="10">
+     <transform x="45.7" y="-183.75" skX="9.22" skY="9.22" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="9">
+     <transform x="45.75" y="-179.8" skX="9.06" skY="9.06" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="13" duration="1">
+     <transform x="45.7" y="-183.75" skX="9.22" skY="9.22" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" tweenEasing="0" duration="10">
+     <transform x="34.65" y="-172.5" skX="12.41" skY="12.41" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="9">
+     <transform x="34.65" y="-168.6" skX="12.3" skY="12.3" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="1">
+     <transform x="34.65" y="-172.5" skX="12.41" skY="12.41" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" tweenEasing="0" duration="10">
+     <transform x="21.9" y="-186.3" skX="14.72" skY="14.72" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="15" tweenEasing="0" duration="9">
+     <transform x="21.9" y="-182.4" skX="21.04" skY="21.04" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="15" duration="1">
+     <transform x="21.9" y="-186.3" skX="14.72" skY="14.72" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" tweenEasing="0" duration="10">
+     <transform x="-6.7" y="-165.45" skX="32.88" skY="32.88" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="16" tweenEasing="0" duration="9">
+     <transform x="-6.7" y="-165.5" skX="32.84" skY="32.84" scX="1" scY="1" pX="0.15" pY="-0.05"/>
+    </frame>
+    <frame z="16" duration="1">
+     <transform x="-6.7" y="-165.45" skX="32.88" skY="32.88" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" tweenEasing="0" duration="10">
+     <transform x="-28.4" y="-145.8" skX="23.63" skY="23.63" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="17" tweenEasing="0" duration="9">
+     <transform x="-27.15" y="-143.85" skX="38.27" skY="38.27" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="17" duration="1">
+     <transform x="-28.4" y="-145.8" skX="23.63" skY="23.63" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="gongji1_1" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="-20.5" y="-95.55" skX="-16.25" skY="-16.25" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="6.2" y="-168.55" skX="-35.15" skY="-35.15" scX="-1" scY="1" pX="-0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="22.35" y="-149.7" skX="-30.26" skY="-30.26" scX="1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" duration="1">
+     <transform x="11.25" y="-170.35" skX="-5.52" skY="-5.52" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="39.15" y="-58.25" skX="43.84" skY="43.84" scX="1" scY="1" pX="-0.1" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="37.8" y="-104.65" skX="-0.11" skY="-0.11" scX="1" scY="1" pX="0.15" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="4.95" y="-139.5" skX="-52.45" skY="-52.45" scX="1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="7.65" y="-140.3" skX="-5.52" skY="-5.52" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="-1.55" y="-134.25" skX="-8.49" skY="-8.49" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-18.85" y="-48.8" skX="14.49" skY="14.49" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="-17.65" y="-90.4" skX="5.04" skY="5.04" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="-12.6" y="-132.55" skX="-8.49" skY="-8.49" scX="1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="1.5" y="-192.2" skX="-5.52" skY="-5.52" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" duration="1">
+     <transform x="-6.3" y="-178.55" skX="-2.32" skY="-2.32" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="-22.15" y="-188.65" skX="24.96" skY="24.96" scX="1" scY="1" pX="-0.05" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" duration="1">
+     <transform x="-50.25" y="-174.75" skX="59.57" skY="59.58" scX="1" scY="1" pX="0" pY="-0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" duration="1">
+     <transform x="-79.3" y="-166.85" skX="55.63" skY="55.63" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="gongji1_2" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="2">
+     <transform x="-20.5" y="-95.55" skX="-16.25" skY="-16.25" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="2.75" y="-168.95" skX="-38.12" skY="-38.12" scX="-1" scY="1" pX="0" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="19.9" y="-150.95" skX="-33.23" skY="-33.23" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" duration="1">
+     <transform x="7.7" y="-171" skX="-8.49" skY="-8.49" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="39.15" y="-59.15" skX="49.07" skY="49.07" scX="1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="37.8" y="-105.55" skX="-0.11" skY="-0.11" scX="1" scY="1" pX="0.15" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="4.95" y="-139.5" skX="-54.67" skY="-54.67" scX="1" scY="1" pX="0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="5.65" y="-140.8" skX="-8.49" skY="-8.49" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="-1.55" y="-134.25" skX="-8.49" skY="-8.49" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-20.2" y="-48.8" skX="14.49" skY="14.49" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="-17.65" y="-90.4" skX="6.22" skY="6.22" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="-12.6" y="-132.55" skX="-7.22" skY="-7.22" scX="1" scY="1" pX="0.05" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="-3.15" y="-192.3" skX="-8.49" skY="-8.49" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" duration="1">
+     <transform x="-10.25" y="-178.25" skX="-5.29" skY="-5.29" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="-26.6" y="-187.5" skX="21.99" skY="21.99" scX="1" scY="1" pX="-0.1" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" duration="1">
+     <transform x="-53.9" y="-172.2" skX="56.6" skY="56.61" scX="1" scY="1" pX="-0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" duration="1">
+     <transform x="-82.55" y="-162.75" skX="52.66" skY="52.66" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="gongji1_3" fadeInTime="0" duration="8" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="-20.5" y="-95.55" skX="-16.25" skY="-16.25" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+    <frame z="0" duration="7">
+     <transform x="-0.25" y="-96.9" skX="1.45" skY="1.45" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="2.75" y="-168.95" skX="-38.12" skY="-38.12" scX="-1" scY="1" pX="0" pY="-0.15"/>
+    </frame>
+    <frame z="2" duration="2">
+     <transform x="32.8" y="-163.4" skX="-6.21" skY="-6.21" scX="-1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="2" duration="5">
+     <transform x="76.85" y="-171.3" skX="130.46" skY="130.46" scX="-1" scY="0.93" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="19.9" y="-150.95" skX="-33.23" skY="-33.23" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="3" duration="2">
+     <transform x="45.15" y="-138.15" skX="9.22" skY="9.22" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="3" duration="5">
+     <transform x="76.2" y="-183.1" skX="137.45" skY="137.45" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" duration="1">
+     <transform x="7.7" y="-171" skX="-8.49" skY="-8.49" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="2">
+     <transform x="49.55" y="-160.2" skX="9.22" skY="9.22" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="5">
+     <transform x="51.15" y="-159.95" skX="11.69" skY="11.69" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="39.15" y="-59.15" skX="49.07" skY="49.07" scX="1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+    <frame z="5" duration="2">
+     <transform x="40.6" y="-56.85" skX="83.34" skY="83.34" scX="1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+    <frame z="5" duration="5">
+     <transform x="51.65" y="-62.5" skX="85.82" skY="85.82" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="37.8" y="-105.55" skX="-0.11" skY="-0.11" scX="1" scY="1" pX="0.15" pY="0"/>
+    </frame>
+    <frame z="6" duration="2">
+     <transform x="57.85" y="-94.95" skX="25.38" skY="25.38" scX="1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+    <frame z="6" duration="5">
+     <transform x="70.2" y="-100" skX="27.85" skY="27.85" scX="1" scY="1" pX="0.1" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="4.95" y="-139.5" skX="-54.67" skY="-54.67" scX="1" scY="1" pX="0.05" pY="-0.1"/>
+    </frame>
+    <frame z="7" duration="2">
+     <transform x="37.35" y="-131" skX="-34.75" skY="-34.75" scX="1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+    <frame z="7" duration="5">
+     <transform x="37.7" y="-131.35" skX="-52" skY="-52" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="5.65" y="-140.8" skX="-8.49" skY="-8.49" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame z="8" duration="2">
+     <transform x="38.4" y="-132" skX="9.22" skY="9.22" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="8" duration="5">
+     <transform x="38.85" y="-132.3" skX="11.69" skY="11.69" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="-1.55" y="-134.25" skX="-8.49" skY="-8.49" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="2">
+     <transform x="29.55" y="-127.95" skX="9.22" skY="9.22" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="5">
+     <transform x="29.75" y="-128.65" skX="11.69" skY="11.69" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-20.2" y="-48.8" skX="14.49" skY="14.49" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="10" duration="2">
+     <transform x="-6.55" y="-48.6" skX="21.95" skY="21.95" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="10" duration="5">
+     <transform x="-9.7" y="-50.9" skX="24.42" skY="24.42" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="-17.65" y="-90.4" skX="6.22" skY="6.22" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="11" duration="2">
+     <transform x="1.55" y="-89.7" skX="12.5" skY="12.5" scX="1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+    <frame z="11" duration="5">
+     <transform x="0.15" y="-91.6" skX="14.97" skY="14.97" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="-12.6" y="-132.55" skX="-7.22" skY="-7.22" scX="1" scY="1" pX="0.05" pY="0.15"/>
+    </frame>
+    <frame z="12" duration="2">
+     <transform x="18.55" y="-129.7" skX="9.22" skY="9.22" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="12" duration="5">
+     <transform x="18.9" y="-130.85" skX="11.69" skY="11.69" scX="1" scY="1" pX="0.05" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="-3.15" y="-192.3" skX="-8.49" skY="-8.49" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" duration="2">
+     <transform x="45.7" y="-183.75" skX="9.22" skY="9.22" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" duration="5">
+     <transform x="48.3" y="-183.7" skX="11.69" skY="11.69" scX="1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" duration="1">
+     <transform x="-10.25" y="-178.25" skX="-5.29" skY="-5.29" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="2">
+     <transform x="34.65" y="-172.5" skX="12.41" skY="12.41" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="5">
+     <transform x="36.8" y="-172.9" skX="14.88" skY="14.88" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="-26.6" y="-187.5" skX="21.99" skY="21.99" scX="1" scY="1" pX="-0.1" pY="0.1"/>
+    </frame>
+    <frame z="15" duration="2">
+     <transform x="21.8" y="-186.35" skX="-86.82" skY="-86.82" scX="1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+    <frame z="15" duration="5">
+     <transform x="26.85" y="-177" skX="-120.81" skY="-120.8" scX="1" scY="1.18" pX="-0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" duration="1">
+     <transform x="-53.9" y="-172.2" skX="56.6" skY="56.61" scX="1" scY="1" pX="-0.05" pY="-0.15"/>
+    </frame>
+    <frame z="16" duration="2">
+     <transform x="47.9" y="-160.3" skX="-86.62" skY="-86.62" scX="1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+    <frame duration="5" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" duration="1">
+     <transform x="-82.55" y="-162.75" skX="52.66" skY="52.66" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" duration="2">
+     <transform x="83" y="-149.45" skX="-125.37" skY="-125.37" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame duration="5" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_texiao3" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="18" duration="2">
+     <transform x="-7.6" y="-70.8" skX="-0.45" skY="-0.45" scX="-1.16" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="5" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_texiao1" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="20" duration="5">
+     <transform x="78.4" y="-77" skX="-94.51" skY="-94.51" scX="-0.78" scY="1.58" pX="0" pY="0"/>
+    </frame>
+    <frame duration="2" displayIndex="-1"/>
+   </timeline>
+   <frame duration="1"/>
+   <frame duration="7" event="xue1"/>
+  </animation>
+  <animation name="gongji2_1" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="-3.25" y="-92.7" skX="-7.24" skY="-7.24" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="19.4" y="-163.4" skX="-14.91" skY="-14.91" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="35.4" y="-140.3" skX="0.52" skY="0.52" scX="1" scY="1" pX="0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" duration="1">
+     <transform x="36.45" y="-162.8" skX="0.52" skY="0.52" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="43.2" y="-59.3" skX="74.65" skY="74.65" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="54.5" y="-99.55" skX="16.68" skY="16.68" scX="1" scY="1" pX="0.15" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="28.75" y="-132.1" skX="-43.44" skY="-43.44" scX="1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="29.65" y="-133.25" skX="0.52" skY="0.52" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="21.5" y="-127.9" skX="0.52" skY="0.52" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-2.15" y="-44" skX="13.25" skY="13.25" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="-0.35" y="-85.85" skX="3.8" skY="3.8" scX="1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="10.4" y="-127.95" skX="0.52" skY="0.52" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="29.05" y="-185.5" skX="0.52" skY="0.52" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" duration="1">
+     <transform x="19.85" y="-172.7" skX="3.72" skY="3.72" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="5.05" y="-184.45" skX="-95.51" skY="-95.51" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" duration="1">
+     <transform x="34.75" y="-162.65" skX="-120.56" skY="-120.56" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" duration="1">
+     <transform x="70.4" y="-174.75" skX="-157.31" skY="-157.31" scX="1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="gongji2_2" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="4">
+     <transform x="-3.25" y="-92.7" skX="-7.24" skY="-7.24" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="19.4" y="-163.4" skX="-14.91" skY="-14.91" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="35.4" y="-140.3" skX="0.52" skY="0.52" scX="1" scY="1" pX="0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" duration="1">
+     <transform x="36.45" y="-162.8" skX="0.52" skY="0.52" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="44.55" y="-60.65" skX="74.65" skY="74.65" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="55.4" y="-100.45" skX="16.68" skY="16.68" scX="1" scY="1" pX="0.15" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="28.75" y="-132.1" skX="-45.63" skY="-45.63" scX="1" scY="1" pX="0" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="29.65" y="-133.25" skX="0.52" skY="0.52" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="21.5" y="-127.9" skX="0.52" skY="0.52" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-4.85" y="-44" skX="13.25" skY="13.25" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="-2.6" y="-85.85" skX="3.8" skY="3.8" scX="1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="10.4" y="-127.95" skX="2.97" skY="2.97" scX="1" scY="1" pX="0.1" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="29.05" y="-185.5" skX="0.52" skY="0.52" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" duration="1">
+     <transform x="19.85" y="-172.7" skX="5.2" skY="5.2" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="5.05" y="-184.45" skX="-95.51" skY="-95.51" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" duration="1">
+     <transform x="34.75" y="-162.65" skX="-127.52" skY="-127.52" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" duration="1">
+     <transform x="64.15" y="-175.25" skX="-168.25" skY="-168.25" scX="1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="gongji2_3" fadeInTime="0" duration="10" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="3">
+     <transform x="-3.25" y="-92.7" skX="-7.24" skY="-7.24" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+    <frame z="0" duration="7">
+     <transform x="-0.25" y="-91.3" skX="1.45" skY="1.45" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="19.4" y="-163.4" skX="-14.91" skY="-14.91" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="2" duration="2">
+     <transform x="41.25" y="-161.15" skX="-46.06" skY="-46.06" scX="-1" scY="0.93" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame z="2" duration="7">
+     <transform x="37.5" y="-160.9" skX="-37.98" skY="-37.98" scX="-1" scY="0.93" pX="-0.1" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="35.4" y="-140.3" skX="0.52" skY="0.52" scX="1" scY="1" pX="0.05" pY="-0.1"/>
+    </frame>
+    <frame z="3" duration="2">
+     <transform x="64.7" y="-140.4" skX="-67.79" skY="-67.79" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="3" duration="7">
+     <transform x="57.95" y="-137.15" skX="-52.24" skY="-52.24" scX="1" scY="0.57" pX="-0.15" pY="-0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" duration="1">
+     <transform x="36.45" y="-162.8" skX="0.52" skY="0.52" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="2">
+     <transform x="51.15" y="-159.95" skX="11.69" skY="11.69" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="7">
+     <transform x="51.15" y="-154.35" skX="11.69" skY="11.69" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="44.55" y="-60.65" skX="74.65" skY="74.65" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="2">
+     <transform x="51.65" y="-62.5" skX="85.82" skY="85.82" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame z="5" duration="7">
+     <transform x="43.65" y="-60.1" skX="85.82" skY="85.82" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="55.4" y="-100.45" skX="16.68" skY="16.68" scX="1" scY="1" pX="0.15" pY="-0.05"/>
+    </frame>
+    <frame z="6" duration="2">
+     <transform x="70.2" y="-100" skX="27.85" skY="27.85" scX="1" scY="1" pX="0.1" pY="-0.05"/>
+    </frame>
+    <frame z="6" duration="7">
+     <transform x="70.15" y="-94.4" skX="38.3" skY="38.3" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="28.75" y="-132.1" skX="-45.63" skY="-45.63" scX="1" scY="1" pX="0" pY="-0.15"/>
+    </frame>
+    <frame z="7" duration="2">
+     <transform x="37.7" y="-131.35" skX="-52" skY="-52" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="7" duration="7">
+     <transform x="37.7" y="-125.75" skX="-53.19" skY="-53.19" scX="1" scY="1" pX="-0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="29.65" y="-133.25" skX="0.52" skY="0.52" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="8" duration="2">
+     <transform x="38.85" y="-132.3" skX="11.69" skY="11.69" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="8" duration="7">
+     <transform x="38.85" y="-126.7" skX="11.69" skY="11.69" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="21.5" y="-127.9" skX="0.52" skY="0.52" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="2">
+     <transform x="29.75" y="-128.65" skX="11.69" skY="11.69" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="7">
+     <transform x="29.75" y="-123.05" skX="11.69" skY="11.69" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-4.85" y="-44" skX="13.25" skY="13.25" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="10" duration="2">
+     <transform x="-9.7" y="-50.9" skX="24.42" skY="24.42" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="10" duration="7">
+     <transform x="-23.4" y="-50.95" skX="24.42" skY="24.42" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="-2.6" y="-85.85" skX="3.8" skY="3.8" scX="1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+    <frame z="11" duration="2">
+     <transform x="0.15" y="-91.6" skX="14.97" skY="14.97" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame z="11" duration="7">
+     <transform x="0.15" y="-86" skX="27.71" skY="27.71" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="10.4" y="-127.95" skX="2.97" skY="2.97" scX="1" scY="1" pX="0.1" pY="0.15"/>
+    </frame>
+    <frame z="12" duration="2">
+     <transform x="18.9" y="-130.85" skX="11.69" skY="11.69" scX="1" scY="1" pX="0.05" pY="0.15"/>
+    </frame>
+    <frame z="12" duration="7">
+     <transform x="18.9" y="-125.25" skX="14.91" skY="14.91" scX="1" scY="1" pX="0.1" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="29.05" y="-185.5" skX="0.52" skY="0.52" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="13" duration="2">
+     <transform x="48.3" y="-183.7" skX="11.69" skY="11.69" scX="1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+    <frame z="13" duration="7">
+     <transform x="48.3" y="-178.1" skX="11.69" skY="11.69" scX="1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" duration="1">
+     <transform x="19.85" y="-172.7" skX="5.2" skY="5.2" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="2">
+     <transform x="36.8" y="-172.9" skX="14.88" skY="14.88" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="7">
+     <transform x="36.8" y="-167.3" skX="14.88" skY="14.88" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="5.05" y="-184.45" skX="-95.51" skY="-95.51" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame z="15" duration="2">
+     <transform x="24.05" y="-185.7" skX="25.46" skY="25.46" scX="1" scY="1.18" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="15" duration="7">
+     <transform x="24.05" y="-180.1" skX="51.66" skY="51.66" scX="1" scY="1.18" pX="-0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" duration="1">
+     <transform x="34.75" y="-162.65" skX="-127.52" skY="-127.52" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" duration="2">
+     <transform x="-12.1" y="-166.1" skX="37.94" skY="37.94" scX="1" scY="1" pX="0" pY="-0.15"/>
+    </frame>
+    <frame z="16" duration="7">
+     <transform x="-17.7" y="-176.85" skX="66.88" skY="66.88" scX="1" scY="0.83" pX="0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" duration="1">
+     <transform x="64.15" y="-175.25" skX="-168.25" skY="-168.25" scX="1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+    <frame z="17" duration="2">
+     <transform x="-40.8" y="-141.8" skX="1.19" skY="1.19" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="17" duration="7">
+     <transform x="-38.6" y="-174.7" skX="84.17" skY="84.17" scX="1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_texiao3" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="18" duration="2">
+     <transform x="245.05" y="-134" skX="-77.15" skY="-77.15" scX="1.2" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_texiao1" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="20" duration="5">
+     <transform x="196.7" y="-116.9" skX="0" skY="0" scX="1.28" scY="1.28" pX="0" pY="-0.15"/>
+    </frame>
+    <frame duration="4" displayIndex="-1"/>
+   </timeline>
+   <frame duration="1"/>
+   <frame duration="9" event="xue2"/>
+  </animation>
+  <animation name="gongji3_1" fadeInTime="0" duration="4" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="4">
+     <transform x="-3.05" y="-93.05" skX="10.21" skY="10.21" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" duration="2">
+     <transform x="50.2" y="-162.1" skX="-64.84" skY="-52.89" scX="-1.16" scY="1.02" pX="-0.05" pY="-0.2"/>
+    </frame>
+    <frame z="2" duration="2">
+     <transform x="52.4" y="-160.2" skX="-59.13" skY="-47.17" scX="-1.16" scY="1.02" pX="-0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" duration="2">
+     <transform x="84.8" y="-152.6" skX="-43.31" skY="-31.37" scX="1.1" scY="0.66" pX="-0.15" pY="-0.3"/>
+    </frame>
+    <frame z="3" duration="2">
+     <transform x="85.95" y="-147.3" skX="-37.59" skY="-25.66" scX="1.1" scY="0.66" pX="-0.15" pY="-0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" duration="2">
+     <transform x="56.35" y="-149.95" skX="14.73" skY="14.73" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="2">
+     <transform x="57.4" y="-147.5" skX="20.45" skY="20.45" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" duration="2">
+     <transform x="35.6" y="-52.55" skX="94.58" skY="94.58" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="2">
+     <transform x="35.6" y="-55.55" skX="94.58" skY="94.58" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" duration="2">
+     <transform x="64.1" y="-85.35" skX="40.59" skY="40.59" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" duration="2">
+     <transform x="67.05" y="-85.35" skX="47.06" skY="47.06" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" duration="2">
+     <transform x="39.75" y="-121.3" skX="-39.71" skY="-39.71" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame z="7" duration="2">
+     <transform x="39.75" y="-121.3" skX="-44.43" skY="-44.43" scX="1" scY="1" pX="0" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" duration="2">
+     <transform x="42.65" y="-123.1" skX="14.73" skY="14.73" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="8" duration="2">
+     <transform x="41.05" y="-122.1" skX="20.45" skY="20.45" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" duration="2">
+     <transform x="31.5" y="-119.85" skX="20.45" skY="20.45" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="2">
+     <transform x="31.5" y="-119.85" skX="20.45" skY="20.45" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" duration="2">
+     <transform x="-3.45" y="-53.15" skX="29.68" skY="29.68" scX="1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+    <frame z="10" duration="2">
+     <transform x="-2.25" y="-53.15" skX="29.68" skY="29.68" scX="1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" duration="2">
+     <transform x="16.05" y="-81.9" skX="27.48" skY="27.48" scX="1" scY="1" pX="-0.05" pY="-0.1"/>
+    </frame>
+    <frame z="11" duration="2">
+     <transform x="16.05" y="-81.9" skX="23.03" skY="23.03" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" duration="2">
+     <transform x="21.3" y="-123.25" skX="-3.76" skY="-3.76" scX="1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+    <frame z="12" duration="2">
+     <transform x="21.3" y="-125.05" skX="-3.76" skY="-3.76" scX="1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" duration="2">
+     <transform x="54.75" y="-173.9" skX="14.73" skY="14.73" scX="1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+    <frame z="13" duration="2">
+     <transform x="58.2" y="-171.45" skX="20.45" skY="20.45" scX="1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" duration="2">
+     <transform x="42.75" y="-163.75" skX="17.93" skY="17.93" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="2">
+     <transform x="45.2" y="-162.55" skX="21.67" skY="21.67" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" duration="2">
+     <transform x="32.3" y="-175.9" skX="36.94" skY="36.94" scX="1" scY="1.18" pX="0.05" pY="0.2"/>
+    </frame>
+    <frame z="15" duration="2">
+     <transform x="36.05" y="-175.65" skX="42.65" skY="42.65" scX="1" scY="1.18" pX="0" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" duration="2">
+     <transform x="-1.65" y="-163.95" skX="43.2" skY="43.2" scX="1" scY="0.83" pX="-0.05" pY="-0.25"/>
+    </frame>
+    <frame z="16" duration="2">
+     <transform x="1.05" y="-167.2" skX="48.92" skY="48.92" scX="1" scY="0.83" pX="0" pY="-0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" duration="2">
+     <transform x="-17.6" y="-153.45" skX="60.49" skY="60.49" scX="1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+    <frame z="17" duration="2">
+     <transform x="-15.9" y="-158.35" skX="66.21" skY="66.21" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="gongji3_2" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="-3.05" y="-93.05" skX="10.21" skY="10.21" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="58.45" y="-166.8" skX="-24.38" skY="-12.43" scX="-1.16" scY="1.02" pX="-0.1" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="78.65" y="-137.05" skX="-2.84" skY="9.09" scX="1.1" scY="0.66" pX="-0.15" pY="-0.3"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" duration="1">
+     <transform x="57.4" y="-147.5" skX="20.45" skY="20.45" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="35.6" y="-55.55" skX="94.58" skY="94.58" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="67.05" y="-85.35" skX="47.06" skY="47.06" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="39.75" y="-121.3" skX="-44.43" skY="-44.43" scX="1" scY="1" pX="0" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="41.05" y="-122.1" skX="20.45" skY="20.45" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="31.5" y="-119.85" skX="20.45" skY="20.45" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-2.25" y="-53.15" skX="29.68" skY="29.68" scX="1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="16.05" y="-81.9" skX="23.03" skY="23.03" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="21.3" y="-125.05" skX="-3.76" skY="-3.76" scX="1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="58.2" y="-171.45" skX="20.45" skY="20.45" scX="1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" duration="1">
+     <transform x="45.2" y="-162.55" skX="23.64" skY="23.64" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="35.05" y="-179.7" skX="24.93" skY="24.93" scX="1" scY="1.18" pX="0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" duration="1">
+     <transform x="4.3" y="-160.95" skX="31.19" skY="31.19" scX="1" scY="0.83" pX="-0.1" pY="-0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" duration="1">
+     <transform x="-9.15" y="-147.4" skX="48.48" skY="48.48" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="gongji3_3" fadeInTime="0" duration="8" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="2">
+     <transform x="5.55" y="-87.9" skX="-7.24" skY="-7.24" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+    <frame z="0" duration="2">
+     <transform x="-20.5" y="-95.55" skX="-16.25" skY="-16.25" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+    <frame z="0" duration="2">
+     <transform x="-16.15" y="-94.75" skX="-23" skY="-23" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+    <frame z="0" duration="2">
+     <transform x="-16.15" y="-94.75" skX="-23" skY="-23" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1_1" scale="1" offset="0">
+    <frame z="1" duration="2">
+     <transform x="39.65" y="-169.45" skX="-53" skY="-53" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="2">
+     <transform x="9.45" y="-187.3" skX="-170.18" skY="-170.18" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame z="1" duration="2">
+     <transform x="-7.15" y="-193.1" skX="143.32" skY="143.32" scX="1" scY="1" pX="-0.15" pY="0.15"/>
+    </frame>
+    <frame z="1" duration="2">
+     <transform x="-17.9" y="-193.45" skX="135.07" skY="135.07" scX="1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" duration="2">
+     <transform x="37.15" y="-157.45" skX="-14.15" skY="-14.15" scX="-1" scY="1" pX="0" pY="-0.15"/>
+    </frame>
+    <frame z="2" duration="2">
+     <transform x="33.8" y="-207.55" skX="-159.42" skY="-141.28" scX="0.84" scY="0.9" pX="0" pY="-0.15"/>
+    </frame>
+    <frame z="2" duration="2">
+     <transform x="-5.1" y="-224.75" skX="154.09" skY="172.23" scX="0.84" scY="0.9" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="2" duration="2">
+     <transform x="-20.4" y="-225" skX="134.11" skY="152.25" scX="0.84" scY="0.9" pX="-0.15" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" duration="2">
+     <transform x="54.55" y="-128.6" skX="-34.33" skY="-34.33" scX="-0.93" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="3" duration="2">
+     <transform x="45.75" y="-233.05" skX="-163.62" skY="-146.43" scX="-0.81" scY="0.92" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="3" duration="2">
+     <transform x="-15.4" y="-251" skX="149.88" skY="167.07" scX="-0.81" scY="0.92" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="3" duration="2">
+     <transform x="-39.65" y="-249.8" skX="103.64" skY="120.83" scX="-0.81" scY="0.92" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" duration="2">
+     <transform x="45.25" y="-158" skX="0.52" skY="0.52" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="2">
+     <transform x="7.7" y="-171" skX="-8.49" skY="-8.49" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="2">
+     <transform x="3" y="-172.95" skX="-15.24" skY="-15.24" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="2">
+     <transform x="-4.95" y="-174.95" skX="-23.48" skY="-23.48" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" duration="2">
+     <transform x="43.2" y="-54.5" skX="74.65" skY="74.65" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame z="5" duration="2">
+     <transform x="39.15" y="-58.25" skX="43.84" skY="43.84" scX="1" scY="1" pX="-0.1" pY="-0.1"/>
+    </frame>
+    <frame z="5" duration="2">
+     <transform x="39.3" y="-49.65" skX="37.1" skY="37.1" scX="1" scY="1" pX="-0.1" pY="-0.1"/>
+    </frame>
+    <frame z="5" duration="2">
+     <transform x="39.3" y="-49.65" skX="37.1" skY="37.1" scX="1" scY="1" pX="-0.1" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" duration="2">
+     <transform x="64.9" y="-88.35" skX="27.64" skY="27.64" scX="1" scY="1" pX="0.15" pY="0.05"/>
+    </frame>
+    <frame z="6" duration="2">
+     <transform x="37.8" y="-104.65" skX="-0.11" skY="-0.11" scX="1" scY="1" pX="0.15" pY="0"/>
+    </frame>
+    <frame z="6" duration="2">
+     <transform x="29.85" y="-98.8" skX="-6.86" skY="-6.86" scX="1" scY="1" pX="0.15" pY="0.05"/>
+    </frame>
+    <frame z="6" duration="2">
+     <transform x="29.85" y="-98.8" skX="-6.86" skY="-6.86" scX="1" scY="1" pX="0.15" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" duration="2">
+     <transform x="37.55" y="-127.3" skX="-43.44" skY="-43.44" scX="1" scY="1" pX="0.1" pY="-0.1"/>
+    </frame>
+    <frame z="7" duration="2">
+     <transform x="4.95" y="-139.5" skX="-52.45" skY="-52.45" scX="1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+    <frame z="7" duration="2">
+     <transform x="3.95" y="-141.4" skX="-39.5" skY="-39.5" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="7" duration="2">
+     <transform x="3.95" y="-141.4" skX="-39.5" skY="-39.5" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" duration="2">
+     <transform x="38.45" y="-128.45" skX="0.52" skY="0.52" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="8" duration="2">
+     <transform x="5.65" y="-140.8" skX="-8.49" skY="-8.49" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame z="8" duration="2">
+     <transform x="4.5" y="-142.7" skX="-15.24" skY="-15.24" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="8" duration="2">
+     <transform x="0.9" y="-145.2" skX="-23.48" skY="-23.48" scX="1" scY="1" pX="0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" duration="2">
+     <transform x="30.3" y="-123.1" skX="0.52" skY="0.52" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="2">
+     <transform x="-1.55" y="-134.25" skX="-8.49" skY="-8.49" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="2">
+     <transform x="-1.85" y="-135.35" skX="-15.24" skY="-15.24" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="2">
+     <transform x="-1.85" y="-135.35" skX="-15.24" skY="-15.24" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" duration="2">
+     <transform x="-13.35" y="-49.6" skX="13.25" skY="13.25" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="10" duration="2">
+     <transform x="-18.85" y="-48.8" skX="14.49" skY="14.49" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="10" duration="2">
+     <transform x="-27.2" y="-48.5" skX="7.74" skY="7.74" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame z="10" duration="2">
+     <transform x="-27.2" y="-48.5" skX="7.74" skY="7.74" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" duration="2">
+     <transform x="9.25" y="-74.65" skX="28.24" skY="28.24" scX="1" scY="1" pX="-0.15" pY="-0.05"/>
+    </frame>
+    <frame z="11" duration="2">
+     <transform x="-17.65" y="-90.4" skX="5.04" skY="5.04" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" duration="2">
+     <transform x="-12.7" y="-89.95" skX="12.51" skY="12.51" scX="1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+    <frame z="11" duration="2">
+     <transform x="-12.7" y="-89.95" skX="12.51" skY="12.51" scX="1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" duration="2">
+     <transform x="19.2" y="-123.15" skX="0.52" skY="0.52" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="12" duration="2">
+     <transform x="-12.6" y="-132.55" skX="-8.49" skY="-8.49" scX="1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame z="12" duration="2">
+     <transform x="-12.6" y="-132.4" skX="-15.24" skY="-15.24" scX="1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+    <frame z="12" duration="2">
+     <transform x="-12.6" y="-132.4" skX="-15.24" skY="-15.24" scX="1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" duration="2">
+     <transform x="37.85" y="-180.7" skX="0.52" skY="0.52" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="13" duration="2">
+     <transform x="-3.15" y="-192.3" skX="-8.49" skY="-8.49" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" duration="2">
+     <transform x="-10.3" y="-192.85" skX="-15.24" skY="-15.24" scX="1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+    <frame z="13" duration="2">
+     <transform x="-20.95" y="-192.7" skX="-23.48" skY="-23.48" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" duration="2">
+     <transform x="28.65" y="-167.9" skX="3.72" skY="3.72" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="2">
+     <transform x="-10.25" y="-178.25" skX="-5.29" skY="-5.29" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="2">
+     <transform x="-15.7" y="-178.05" skX="-12.04" skY="-12.04" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="2">
+     <transform x="-24.2" y="-177.3" skX="-20.29" skY="-20.29" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" duration="2">
+     <transform x="14.55" y="-178.85" skX="-63.8" skY="-63.8" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame z="15" duration="2">
+     <transform x="-21.9" y="-187.2" skX="159.49" skY="159.49" scX="1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+    <frame z="15" duration="2">
+     <transform x="-28.3" y="-185.6" skX="152.75" skY="152.75" scX="1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+    <frame z="15" duration="2">
+     <transform x="-37.7" y="-182.95" skX="112.5" skY="112.5" scX="1" scY="1" pX="-0.1" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" duration="2">
+     <transform x="27.75" y="-144.45" skX="-42.22" skY="-42.22" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="16" duration="2">
+     <transform x="-12.05" y="-216.95" skX="-165.89" skY="-165.89" scX="1" scY="1" pX="0" pY="-0.15"/>
+    </frame>
+    <frame z="16" duration="2">
+     <transform x="-22.2" y="-220.45" skX="155.62" skY="155.63" scX="1" scY="1" pX="0.1" pY="-0.2"/>
+    </frame>
+    <frame z="16" duration="2">
+     <transform x="-60.1" y="-221.05" skX="109.38" skY="109.39" scX="1" scY="1" pX="0" pY="-0.25"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" duration="2">
+     <transform x="42.3" y="-110.6" skX="-49.66" skY="-49.66" scX="1" scY="1" pX="-0.1" pY="0.2"/>
+    </frame>
+    <frame z="17" duration="2">
+     <transform x="5.8" y="-250.55" skX="153.21" skY="153.21" scX="1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame z="17" duration="2">
+     <transform x="-26.1" y="-247.85" skX="132.22" skY="132.22" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" duration="2">
+     <transform x="-82.55" y="-237.2" skX="85.98" skY="85.98" scX="1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_texiao1" scale="1" offset="0">
+    <frame z="20" displayIndex="1" duration="5">
+     <transform x="189.25" y="-184.65" skX="0" skY="0" scX="1.28" scY="1.28" pX="0" pY="0"/>
+    </frame>
+    <frame duration="3" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_texiao2" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="21" duration="3">
+     <transform x="292.2" y="-180.4" skX="180" skY="-180" scX="-1.44" scY="1.81" pX="0" pY="0"/>
+    </frame>
+    <frame duration="4" displayIndex="-1"/>
+   </timeline>
+   <frame duration="1"/>
+   <frame duration="7" event="xue3"/>
+  </animation>
+  <animation name="gongji3_4" fadeInTime="0" duration="14" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="2">
+     <transform x="5.55" y="-87.9" skX="-7.24" skY="-7.24" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+    <frame z="0" duration="12">
+     <transform x="5.35" y="-97.25" skX="10.21" skY="10.21" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1_1" scale="1" offset="0">
+    <frame z="1" duration="2">
+     <transform x="39.65" y="-169.45" skX="-53" skY="-53" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="12" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" duration="2">
+     <transform x="52.3" y="-163" skX="-38.14" skY="-38.14" scX="-1" scY="1" pX="-0.05" pY="-0.15"/>
+    </frame>
+    <frame z="2" duration="12">
+     <transform x="56.8" y="-176.75" skX="-88.59" skY="-76.64" scX="-1.16" scY="1.02" pX="-0.1" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" duration="2">
+     <transform x="72.45" y="-138.1" skX="-47.88" skY="-47.89" scX="1" scY="1" pX="0.05" pY="0.15"/>
+    </frame>
+    <frame z="3" duration="12">
+     <transform x="96.1" y="-181.7" skX="-75.82" skY="-91.61" scX="1.12" scY="0.66" pX="-0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" duration="2">
+     <transform x="45.25" y="-158" skX="0.52" skY="0.52" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="12">
+     <transform x="57.4" y="-147.5" skX="20.45" skY="20.45" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" duration="2">
+     <transform x="43.2" y="-54.5" skX="74.65" skY="74.65" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame z="5" duration="12">
+     <transform x="35.6" y="-55.55" skX="94.58" skY="94.58" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" duration="2">
+     <transform x="64.9" y="-88.35" skX="27.64" skY="27.64" scX="1" scY="1" pX="0.15" pY="0.05"/>
+    </frame>
+    <frame z="6" duration="12">
+     <transform x="67.05" y="-85.35" skX="47.06" skY="47.06" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" duration="2">
+     <transform x="37.55" y="-127.3" skX="-43.44" skY="-43.44" scX="1" scY="1" pX="0.1" pY="-0.1"/>
+    </frame>
+    <frame z="7" duration="12">
+     <transform x="39.75" y="-121.3" skX="-44.43" skY="-44.43" scX="1" scY="1" pX="0" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" duration="2">
+     <transform x="38.45" y="-128.45" skX="0.52" skY="0.52" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="8" duration="12">
+     <transform x="41.05" y="-122.1" skX="20.45" skY="20.45" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" duration="2">
+     <transform x="30.3" y="-123.1" skX="0.52" skY="0.52" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="12">
+     <transform x="31.5" y="-119.85" skX="20.45" skY="20.45" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" duration="2">
+     <transform x="-13.35" y="-49.6" skX="13.25" skY="13.25" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="10" duration="12">
+     <transform x="-2.25" y="-53.15" skX="29.68" skY="29.68" scX="1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" duration="2">
+     <transform x="9.25" y="-74.65" skX="28.24" skY="28.24" scX="1" scY="1" pX="-0.15" pY="-0.05"/>
+    </frame>
+    <frame z="11" duration="12">
+     <transform x="16.05" y="-81.9" skX="23.03" skY="23.03" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" duration="2">
+     <transform x="19.2" y="-123.15" skX="0.52" skY="0.52" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="12" duration="12">
+     <transform x="21.3" y="-125.05" skX="-3.76" skY="-3.76" scX="1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" duration="2">
+     <transform x="37.85" y="-180.7" skX="0.52" skY="0.52" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="13" duration="12">
+     <transform x="58.2" y="-171.45" skX="20.45" skY="20.45" scX="1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" duration="2">
+     <transform x="28.65" y="-167.9" skX="3.72" skY="3.72" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="12">
+     <transform x="45.2" y="-162.55" skX="23.64" skY="23.64" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" duration="2">
+     <transform x="14" y="-173.85" skX="-84.56" skY="-84.56" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="15" duration="12">
+     <transform x="36.05" y="-175.65" skX="42.65" skY="42.65" scX="1" scY="1.18" pX="0" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" duration="2">
+     <transform x="41" y="-142.95" skX="-60.24" skY="-60.24" scX="1" scY="0.96" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="16" duration="12">
+     <transform x="1" y="-167.2" skX="71.39" skY="71.39" scX="1" scY="0.83" pX="-0.05" pY="-0.25"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" duration="2">
+     <transform x="69.35" y="-122.8" skX="-35.42" skY="-35.42" scX="1" scY="1" pX="0" pY="0.25"/>
+    </frame>
+    <frame z="17" duration="12">
+     <transform x="-15.9" y="-169.4" skX="66.21" skY="66.21" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_texiao3" scale="1" offset="0">
+    <frame duration="5" displayIndex="-1"/>
+    <frame z="18" displayIndex="1" tweenEasing="0" duration="6">
+     <transform x="177.15" y="-197.75" skX="-63.94" skY="-63.94" scX="0.81" scY="1.28" pX="0" pY="0"/>
+    </frame>
+    <frame z="18" displayIndex="1" tweenEasing="0" duration="1">
+     <transform x="194.7" y="-221.9" skX="-63.94" skY="-63.94" scX="0.96" scY="1.51" pX="0" pY="0"/>
+    </frame>
+    <frame duration="2" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_texiao4" scale="1" offset="0">
+    <frame duration="5" displayIndex="-1"/>
+    <frame z="19" tweenEasing="0" duration="6">
+     <transform x="196.7" y="-116.9" skX="0" skY="0" scX="0.87" scY="1.36" pX="0" pY="0"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="1">
+     <transform x="217.7" y="-126.5" skX="0" skY="0" scX="1.03" scY="1.6" pX="0" pY="0"/>
+    </frame>
+    <frame duration="2" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_texiao1" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="20" displayIndex="2" tweenEasing="0" duration="9">
+     <transform x="63.5" y="-113.4" skX="63.85" skY="63.85" scX="1.21" scY="1.21" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="2" duration="1">
+     <transform x="-55.9" y="-128.25" skX="63.85" skY="63.85" scX="1.99" scY="1.99" pX="0.05" pY="-0.15"/>
+    </frame>
+    <frame duration="2" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_texiao2" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="21" displayIndex="1" tweenEasing="0" duration="9">
+     <transform x="121.4" y="-148.05" skX="63.85" skY="63.85" scX="1.2" scY="1.2" pX="0" pY="0"/>
+    </frame>
+    <frame z="21" displayIndex="1" duration="1">
+     <transform x="110.7" y="-134.45" skX="63.85" skY="63.85" scX="1.62" scY="1.62" pX="0" pY="0.1"/>
+    </frame>
+    <frame duration="2" displayIndex="-1"/>
+   </timeline>
+   <frame duration="2"/>
+   <frame duration="3" event="xue4"/>
+   <frame duration="3" event="xue5"/>
+   <frame duration="6" event="xue6"/>
+  </animation>
+  <animation name="A_attack_back1" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="-20.5" y="-95.55" skX="-16.25" skY="-16.25" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="2.75" y="-168.95" skX="-38.12" skY="-38.12" scX="-1" scY="1" pX="0" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="19.9" y="-150.95" skX="-33.23" skY="-33.23" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" duration="1">
+     <transform x="7.7" y="-171" skX="-8.49" skY="-8.49" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="39.15" y="-58.25" skX="43.84" skY="43.84" scX="1" scY="1" pX="-0.1" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="37.8" y="-104.65" skX="-0.11" skY="-0.11" scX="1" scY="1" pX="0.15" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="4.95" y="-139.5" skX="-52.45" skY="-52.45" scX="1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="5.65" y="-140.8" skX="-8.49" skY="-8.49" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="-1.55" y="-134.25" skX="-8.49" skY="-8.49" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-7.8" y="-48.8" skX="14.49" skY="14.49" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="-5.75" y="-89.8" skX="5.04" skY="5.04" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="-12.6" y="-132.55" skX="-17.46" skY="-17.46" scX="1" scY="1" pX="0.1" pY="0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="-3.15" y="-192.3" skX="-8.49" skY="-8.49" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" duration="1">
+     <transform x="-10.25" y="-178.25" skX="-5.29" skY="-5.29" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="-26.6" y="-187.5" skX="-22.24" skY="-22.24" scX="1" scY="1" pX="-0.15" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" duration="1">
+     <transform x="-37.95" y="-151.75" skX="-1.35" skY="-1.35" scX="1" scY="1" pX="0" pY="-0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" duration="1">
+     <transform x="-45.15" y="-122.5" skX="-5.3" skY="-5.3" scX="1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="A_attack_back2" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="-26.95" y="-93.1" skX="-31.28" skY="-31.28" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="-5" y="-163.4" skX="-6.21" skY="-6.21" scX="-1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="7.35" y="-138.15" skX="9.22" skY="9.22" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" duration="1">
+     <transform x="11.75" y="-160.2" skX="9.22" skY="9.22" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="29.05" y="-81.5" skX="50.61" skY="50.61" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="22.8" y="-122.9" skX="-7.36" skY="-7.36" scX="1" scY="1" pX="0.35" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="-13.8" y="-142.15" skX="-67.48" skY="-67.48" scX="1" scY="1" pX="0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="0.6" y="-132" skX="9.22" skY="9.22" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="-8.25" y="-127.95" skX="9.22" skY="9.22" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-6.15" y="-49.1" skX="-10.79" skY="-10.79" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="-21.55" y="-88.1" skX="-20.23" skY="-20.23" scX="1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="-28.9" y="-130.9" skX="-23.52" skY="-23.52" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="7.9" y="-183.75" skX="9.22" skY="9.22" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" duration="1">
+     <transform x="-3.15" y="-172.5" skX="12.41" skY="12.41" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="-14.15" y="-189.35" skX="6.98" skY="6.98" scX="1" scY="1" pX="-0.1" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" duration="1">
+     <transform x="-39.65" y="-164.9" skX="25.15" skY="25.15" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" duration="1">
+     <transform x="-58.55" y="-142.45" skX="15.9" skY="15.9" scX="1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="fukong1" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="-41.3" y="-87.85" skX="-39.42" skY="-39.42" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="-48.75" y="-164.5" skX="-61.28" skY="-61.28" scX="-1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="-25.95" y="-154.7" skX="-56.39" skY="-56.39" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" duration="1">
+     <transform x="-45.05" y="-168.3" skX="-31.65" skY="-31.65" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="28.2" y="-77" skX="20.68" skY="20.68" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="8.75" y="-119.1" skX="-23.28" skY="-23.28" scX="1" scY="1" pX="0.15" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="-35.2" y="-138.25" skX="-75.62" skY="-75.62" scX="1" scY="1" pX="0.1" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="-35.1" y="-139.8" skX="-31.65" skY="-31.65" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="-39.1" y="-130.9" skX="-31.65" skY="-31.65" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="-11.25" y="-49.85" skX="-8.68" skY="-8.68" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="-25.45" y="-88.35" skX="-18.13" skY="-18.13" scX="1" scY="1" pX="-0.15" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="-48.6" y="-125" skX="-40.62" skY="-40.62" scX="1" scY="1" pX="0.05" pY="0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="-63.4" y="-183.6" skX="-31.65" skY="-31.65" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" duration="1">
+     <transform x="-64.45" y="-167.95" skX="-28.46" skY="-28.46" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="-83.15" y="-169.95" skX="-45.41" skY="-45.41" scX="1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" duration="1">
+     <transform x="-79.45" y="-132.65" skX="-24.52" skY="-24.52" scX="1" scY="1" pX="0" pY="-0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" duration="1">
+     <transform x="-74.6" y="-102.95" skX="-28.47" skY="-28.47" scX="1" scY="1" pX="0.05" pY="0.15"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="fukong2" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="-28.05" y="-58.4" skX="-83.75" skY="-83.75" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="-70.45" y="-118.65" skX="-58.68" skY="-58.68" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="-42.85" y="-113.05" skX="-43.25" skY="-43.25" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" duration="1">
+     <transform x="-57.7" y="-129.95" skX="-43.25" skY="-43.25" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="53.65" y="-74.05" skX="-1.86" skY="-1.86" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="13.05" y="-97.25" skX="-59.82" skY="-59.82" scX="1" scY="1" pX="0.25" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="-32.35" y="-83" skX="-119.95" skY="-119.95" scX="1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="-42.15" y="-103.95" skX="-43.25" skY="-43.25" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="-44.3" y="-94.45" skX="-43.25" skY="-43.25" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="15.65" y="-32" skX="-63.26" skY="-63.26" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="-15.05" y="-60.85" skX="-49.51" skY="-49.51" scX="1" scY="1" pX="-0.15" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="-59.2" y="-79.9" skX="-75.99" skY="-75.99" scX="1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="-78.7" y="-141.25" skX="-43.25" skY="-43.25" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" duration="1">
+     <transform x="-76.5" y="-125.65" skX="-40.05" skY="-40.05" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="-96.55" y="-127.25" skX="-45.49" skY="-45.49" scX="1" scY="1" pX="-0.15" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" duration="1">
+     <transform x="-92.7" y="-92.05" skX="-27.32" skY="-27.32" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" duration="1">
+     <transform x="-86.4" y="-63.35" skX="-36.57" skY="-36.57" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="fukong3" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="28.05" y="-63.85" skX="-141.32" skY="-141.32" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="-45.55" y="-60.4" skX="-116.24" skY="-116.24" scX="-1" scY="1" pX="-0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="-26.05" y="-80.65" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" duration="1">
+     <transform x="-48.3" y="-77.2" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="91.5" y="-85.3" skX="-59.42" skY="-59.42" scX="1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="43.5" y="-81.05" skX="-92.93" skY="-92.93" scX="1" scY="1" pX="0.3" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="-0.5" y="-76.15" skX="-109.32" skY="-109.32" scX="1" scY="1" pX="0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="-17.95" y="-76.4" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="-11.1" y="-69.45" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="84.9" y="-59.6" skX="-87.59" skY="-87.59" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="43.45" y="-53.45" skX="-97.04" skY="-97.04" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="0.05" y="-56.15" skX="-100.32" skY="-100.32" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="-69.1" y="-65.5" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" duration="1">
+     <transform x="-54.7" y="-59" skX="-97.62" skY="-97.62" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="-66.8" y="-42.9" skX="-103.05" skY="-103.05" scX="1" scY="1" pX="-0.15" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" duration="1">
+     <transform x="-35.05" y="-27.3" skX="-84.89" skY="-84.89" scX="1" scY="1" pX="-0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" duration="1">
+     <transform x="-7.55" y="-17.25" skX="-94.14" skY="-94.14" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="fukong4" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="31.3" y="-66.85" skX="-148.49" skY="-148.49" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="-41.3" y="-54.3" skX="-123.41" skY="-123.41" scX="-1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="-24.5" y="-76.8" skX="-107.99" skY="-107.99" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" duration="1">
+     <transform x="-46.1" y="-70.55" skX="-107.99" skY="-107.99" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="52" y="-147.4" skX="-66.59" skY="-66.59" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="13.65" y="-120.6" skX="-124.56" skY="-124.56" scX="1" scY="1" pX="0.25" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="7.2" y="-73.45" skX="175.32" skY="175.32" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="-15.95" y="-73.55" skX="-107.99" skY="-107.99" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="-8.25" y="-67.55" skX="-107.99" skY="-107.99" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="73.8" y="-95.1" skX="-127.99" skY="-127.99" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="34.6" y="-79.65" skX="-114.25" skY="-114.25" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="-1.45" y="-47.85" skX="-140.72" skY="-140.72" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="-65.3" y="-56.45" skX="-107.99" skY="-107.99" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" duration="1">
+     <transform x="-50.25" y="-51.75" skX="-104.79" skY="-104.79" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="-60.25" y="-34.3" skX="-110.22" skY="-110.22" scX="1" scY="1" pX="-0.25" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" duration="1">
+     <transform x="-26.75" y="-22.75" skX="-92.06" skY="-92.05" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" duration="1">
+     <transform x="1.9" y="-16.2" skX="-101.3" skY="-101.3" scX="1" scY="1" pX="-0.1" pY="-0.1"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="daodi" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="28.05" y="6.55" skX="-141.32" skY="-141.32" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="-45.55" y="10" skX="-116.24" skY="-116.24" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="-26.05" y="-10.25" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" duration="1">
+     <transform x="-48.3" y="-6.8" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="91.5" y="-14.9" skX="-59.42" skY="-59.42" scX="1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="43.5" y="-10.65" skX="-92.93" skY="-92.93" scX="1" scY="1" pX="0.3" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="-0.5" y="-5.75" skX="-109.32" skY="-109.32" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="-17.95" y="-6" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="-11.1" y="0.95" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="84.9" y="10.8" skX="-87.59" skY="-87.59" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="43.45" y="16.95" skX="-97.04" skY="-97.04" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="0.05" y="14.25" skX="-100.32" skY="-100.32" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="-69.1" y="4.9" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" duration="1">
+     <transform x="-54.7" y="11.4" skX="-97.62" skY="-97.62" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="-66.8" y="27.5" skX="-103.05" skY="-103.05" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" duration="1">
+     <transform x="-35.05" y="43.1" skX="-84.89" skY="-84.89" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" duration="1">
+     <transform x="-7.55" y="53.15" skX="-94.14" skY="-94.14" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="A_fly_vertical" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="28.05" y="-61.3" skX="-141.32" skY="-141.32" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="-38.6" y="-42.55" skX="-141.97" skY="-141.97" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="-26.05" y="-78.1" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" duration="1">
+     <transform x="-48.35" y="-56.5" skX="-126.54" skY="-126.54" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" duration="1">
+     <transform x="94.35" y="-65.8" skX="-35.21" skY="-35.21" scX="1" scY="1" pX="-0.1" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" duration="1">
+     <transform x="48.8" y="-81.6" skX="-68.72" skY="-68.72" scX="1" scY="1" pX="0.3" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" duration="1">
+     <transform x="-0.5" y="-73.6" skX="-109.32" skY="-109.32" scX="1" scY="1" pX="0.05" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" duration="1">
+     <transform x="-20.65" y="-68.9" skX="-126.54" skY="-126.54" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" duration="1">
+     <transform x="-11.1" y="-66.9" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" duration="1">
+     <transform x="77.8" y="-45.1" skX="-63.38" skY="-63.38" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" duration="1">
+     <transform x="37.5" y="-56.5" skX="-72.83" skY="-72.83" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" duration="1">
+     <transform x="0.05" y="-53.6" skX="-100.32" skY="-100.32" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" duration="1">
+     <transform x="-62" y="-36.9" skX="-126.54" skY="-126.54" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" duration="1">
+     <transform x="-46.25" y="-37.3" skX="-123.34" skY="-123.34" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="-50.15" y="-17.5" skX="-128.77" skY="-128.77" scX="1" scY="1" pX="-0.1" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" duration="1">
+     <transform x="-14.8" y="-17.25" skX="-110.61" skY="-110.6" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" duration="1">
+     <transform x="13.5" y="-24.3" skX="-94.14" skY="-94.14" scX="1" scY="1" pX="-0.15" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="siwang" fadeInTime="0" duration="17" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="d_d_w1" scale="1" offset="0">
+    <frame z="0" duration="3">
+     <transform x="28.05" y="6.55" skX="-141.32" skY="-141.32" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="28.05" y="6.55" skX="-141.32" skY="-141.32" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+    <frame z="0" duration="4">
+     <transform x="28.05" y="6.55" skX="-141.32" skY="-141.32" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="0" duration="3">
+     <transform x="28.05" y="6.55" skX="-141.32" skY="-141.32" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="0" duration="1">
+     <transform x="28.05" y="6.55" skX="-141.32" skY="-141.32" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="0" duration="1">
+     <transform x="28.05" y="6.55" skX="-141.32" skY="-141.32" scX="1" scY="1" pX="49.85" pY="-36.9"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_b2_1" scale="1" offset="0">
+    <frame z="2" duration="3">
+     <transform x="-45.55" y="10" skX="-116.24" skY="-116.24" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="2" duration="1">
+     <transform x="-45.55" y="10" skX="-116.24" skY="-116.24" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="2" duration="4">
+     <transform x="-45.55" y="10" skX="-116.24" skY="-116.24" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="2" duration="3">
+     <transform x="-45.55" y="10" skX="-116.24" skY="-116.24" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="2" duration="1">
+     <transform x="-45.55" y="10" skX="-116.24" skY="-116.24" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="2" duration="1">
+     <transform x="-45.55" y="10" skX="-116.24" skY="-116.24" scX="-1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_s2" scale="1" offset="0">
+    <frame z="3" duration="3">
+     <transform x="-26.05" y="-10.25" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="3" duration="1">
+     <transform x="-26.05" y="-10.25" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="3" duration="4">
+     <transform x="-26.05" y="-10.25" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="3" duration="3">
+     <transform x="-26.05" y="-10.25" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="3" duration="1">
+     <transform x="-26.05" y="-10.25" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="3" duration="1">
+     <transform x="-26.05" y="-10.25" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_wt2" scale="1" offset="0">
+    <frame z="4" duration="3">
+     <transform x="-48.3" y="-6.8" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="1">
+     <transform x="-48.3" y="-6.8" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="4">
+     <transform x="-48.3" y="-6.8" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="4" duration="3">
+     <transform x="-48.3" y="-6.8" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="4" duration="1">
+     <transform x="-48.3" y="-6.8" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="4" duration="1">
+     <transform x="-48.3" y="-6.8" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_j2" scale="1" offset="0">
+    <frame z="5" duration="3">
+     <transform x="91.5" y="-14.9" skX="-59.42" skY="-59.42" scX="1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame z="5" duration="1">
+     <transform x="91.5" y="-14.9" skX="-59.42" skY="-59.42" scX="1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame z="5" duration="4">
+     <transform x="91.5" y="-14.9" skX="-59.42" skY="-59.42" scX="1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="5" duration="3">
+     <transform x="91.5" y="-14.9" skX="-59.42" skY="-59.42" scX="1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="5" duration="1">
+     <transform x="91.5" y="-14.9" skX="-59.42" skY="-59.42" scX="1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="5" duration="1">
+     <transform x="91.5" y="-14.9" skX="-59.42" skY="-59.42" scX="1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_xt1_1" scale="1" offset="0">
+    <frame z="6" duration="3">
+     <transform x="43.5" y="-10.65" skX="-92.93" skY="-92.93" scX="1" scY="1" pX="0.3" pY="-0.1"/>
+    </frame>
+    <frame z="6" duration="1">
+     <transform x="43.5" y="-10.65" skX="-92.93" skY="-92.93" scX="1" scY="1" pX="0.3" pY="-0.1"/>
+    </frame>
+    <frame z="6" duration="4">
+     <transform x="43.5" y="-10.65" skX="-92.93" skY="-92.93" scX="1" scY="1" pX="0.3" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="6" duration="3">
+     <transform x="43.5" y="-10.65" skX="-92.93" skY="-92.93" scX="1" scY="1" pX="0.3" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="6" duration="1">
+     <transform x="43.5" y="-10.65" skX="-92.93" skY="-92.93" scX="1" scY="1" pX="0.3" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="6" duration="1">
+     <transform x="43.5" y="-10.65" skX="-92.93" skY="-92.93" scX="1" scY="1" pX="0.3" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_dt1_1" scale="1" offset="0">
+    <frame z="7" duration="3">
+     <transform x="-0.5" y="-5.75" skX="-109.32" skY="-109.32" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="7" duration="1">
+     <transform x="-0.5" y="-5.75" skX="-109.32" skY="-109.32" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="7" duration="4">
+     <transform x="-0.5" y="-5.75" skX="-109.32" skY="-109.32" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="7" duration="3">
+     <transform x="-0.5" y="-5.75" skX="-109.32" skY="-109.32" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="7" duration="1">
+     <transform x="-0.5" y="-5.75" skX="-109.32" skY="-109.32" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="7" duration="1">
+     <transform x="-0.5" y="-5.75" skX="-109.32" skY="-109.32" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_x1" scale="1" offset="0">
+    <frame z="8" duration="3">
+     <transform x="-17.95" y="-6" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="8" duration="1">
+     <transform x="-17.95" y="-6" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="8" duration="4">
+     <transform x="-17.95" y="-6" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="8" duration="3">
+     <transform x="-17.95" y="-6" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="8" duration="1">
+     <transform x="-17.95" y="-6" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="8" duration="1">
+     <transform x="-17.95" y="-6" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_k1" scale="1" offset="0">
+    <frame z="9" duration="3">
+     <transform x="-11.1" y="0.95" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="1">
+     <transform x="-11.1" y="0.95" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="4">
+     <transform x="-11.1" y="0.95" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="9" duration="3">
+     <transform x="-11.1" y="0.95" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="9" duration="1">
+     <transform x="-11.1" y="0.95" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="9" duration="1">
+     <transform x="-11.1" y="0.95" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_j1" scale="1" offset="0">
+    <frame z="10" duration="3">
+     <transform x="84.9" y="10.8" skX="-87.59" skY="-87.59" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" duration="1">
+     <transform x="84.9" y="10.8" skX="-87.59" skY="-87.59" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" duration="4">
+     <transform x="84.9" y="10.8" skX="-87.59" skY="-87.59" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="10" duration="3">
+     <transform x="84.9" y="10.8" skX="-87.59" skY="-87.59" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="10" duration="1">
+     <transform x="84.9" y="10.8" skX="-87.59" skY="-87.59" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="10" duration="1">
+     <transform x="84.9" y="10.8" skX="-87.59" skY="-87.59" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_xt1" scale="1" offset="0">
+    <frame z="11" duration="3">
+     <transform x="43.45" y="16.95" skX="-97.04" skY="-97.04" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" duration="1">
+     <transform x="43.45" y="16.95" skX="-97.04" skY="-97.04" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" duration="4">
+     <transform x="43.45" y="16.95" skX="-97.04" skY="-97.04" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="11" duration="3">
+     <transform x="43.45" y="16.95" skX="-97.04" skY="-97.04" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="11" duration="1">
+     <transform x="43.45" y="16.95" skX="-97.04" skY="-97.04" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="11" duration="1">
+     <transform x="43.45" y="16.95" skX="-97.04" skY="-97.04" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_dt1" scale="1" offset="0">
+    <frame z="12" duration="3">
+     <transform x="0.05" y="14.25" skX="-100.32" skY="-100.32" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="12" duration="1">
+     <transform x="0.05" y="14.25" skX="-100.32" skY="-100.32" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="12" duration="4">
+     <transform x="0.05" y="14.25" skX="-100.32" skY="-100.32" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="12" duration="3">
+     <transform x="0.05" y="14.25" skX="-100.32" skY="-100.32" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="12" duration="1">
+     <transform x="0.05" y="14.25" skX="-100.32" skY="-100.32" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="12" duration="1">
+     <transform x="0.05" y="14.25" skX="-100.32" skY="-100.32" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_t1" scale="1" offset="0">
+    <frame z="13" duration="3">
+     <transform x="-69.1" y="4.9" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="13" duration="1">
+     <transform x="-69.1" y="4.9" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="13" duration="4">
+     <transform x="-69.1" y="4.9" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="13" duration="3">
+     <transform x="-69.1" y="4.9" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="13" duration="1">
+     <transform x="-69.1" y="4.9" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="13" duration="1">
+     <transform x="-69.1" y="4.9" skX="-100.82" skY="-100.82" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_wt1" scale="1" offset="0">
+    <frame z="14" duration="3">
+     <transform x="-54.7" y="11.4" skX="-97.62" skY="-97.62" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="1">
+     <transform x="-54.7" y="11.4" skX="-97.62" skY="-97.62" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="4">
+     <transform x="-54.7" y="11.4" skX="-97.62" skY="-97.62" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="14" duration="3">
+     <transform x="-54.7" y="11.4" skX="-97.62" skY="-97.62" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="14" duration="1">
+     <transform x="-54.7" y="11.4" skX="-97.62" skY="-97.62" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="14" duration="1">
+     <transform x="-54.7" y="11.4" skX="-97.62" skY="-97.62" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_b1" scale="1" offset="0">
+    <frame z="15" duration="3">
+     <transform x="-66.8" y="27.5" skX="-103.05" skY="-103.05" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame z="15" duration="1">
+     <transform x="-66.8" y="27.5" skX="-103.05" skY="-103.05" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame z="15" duration="4">
+     <transform x="-66.8" y="27.5" skX="-103.05" skY="-103.05" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="15" duration="3">
+     <transform x="-66.8" y="27.5" skX="-103.05" skY="-103.05" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="15" duration="1">
+     <transform x="-66.8" y="27.5" skX="-103.05" skY="-103.05" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="15" duration="1">
+     <transform x="-66.8" y="27.5" skX="-103.05" skY="-103.05" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_b2" scale="1" offset="0">
+    <frame z="16" duration="3">
+     <transform x="-35.05" y="43.1" skX="-84.89" skY="-84.89" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="16" duration="1">
+     <transform x="-35.05" y="43.1" skX="-84.89" skY="-84.89" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="16" duration="4">
+     <transform x="-35.05" y="43.1" skX="-84.89" skY="-84.89" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="16" duration="3">
+     <transform x="-35.05" y="43.1" skX="-84.89" skY="-84.89" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="16" duration="1">
+     <transform x="-35.05" y="43.1" skX="-84.89" skY="-84.89" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="16" duration="1">
+     <transform x="-35.05" y="43.1" skX="-84.89" skY="-84.89" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_s1" scale="1" offset="0">
+    <frame z="17" duration="3">
+     <transform x="-7.55" y="53.15" skX="-94.14" skY="-94.14" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame z="17" duration="1">
+     <transform x="-7.55" y="53.15" skX="-94.14" skY="-94.14" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame z="17" duration="4">
+     <transform x="-7.55" y="53.15" skX="-94.14" skY="-94.14" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="17" duration="3">
+     <transform x="-7.55" y="53.15" skX="-94.14" skY="-94.14" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="17" duration="1">
+     <transform x="-7.55" y="53.15" skX="-94.14" skY="-94.14" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="17" duration="1">
+     <transform x="-7.55" y="53.15" skX="-94.14" skY="-94.14" scX="1" scY="1" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <frame duration="16"/>
+   <frame duration="1"/>
+  </animation>
+ </armature>
+ <armature name="d_w1">
+  <bone name="d_d_bf1_1">
+   <transform x="48.8" y="-49.95" skX="-15.47" skY="-15.47" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_bf5">
+   <transform x="22.55" y="-38.7" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_bf4">
+   <transform x="19.3" y="-38.15" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_bf3">
+   <transform x="19.65" y="-37.9" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_bf2">
+   <transform x="23.85" y="-42.15" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_bf1">
+   <transform x="23.85" y="-40.1" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="d_d_bf1_1" parent="d_d_bf1_1" z="0">
+    <display name="d_bf1" type="image">
+     <transform x="-40.4" y="35.45" skX="0" skY="0" scX="1" scY="1" pX="44" pY="41"/>
+    </display>
+   </slot>
+   <slot name="d_d_bf5" parent="d_d_bf5" z="1">
+    <display name="d_bf5" type="image">
+     <transform x="-40.15" y="34.85" skX="0" skY="0" scX="1" scY="1" pX="46.5" pY="42"/>
+    </display>
+   </slot>
+   <slot name="d_d_bf4" parent="d_d_bf4" z="2">
+    <display name="d_bf4" type="image">
+     <transform x="-38.8" y="33.5" skX="0" skY="0" scX="1" scY="1" pX="44.5" pY="41"/>
+    </display>
+   </slot>
+   <slot name="d_d_bf3" parent="d_d_bf3" z="3">
+    <display name="d_bf3" type="image">
+     <transform x="-38.8" y="33.5" skX="0" skY="0" scX="1" scY="1" pX="44.5" pY="41"/>
+    </display>
+   </slot>
+   <slot name="d_d_bf2" parent="d_d_bf2" z="4">
+    <display name="d_bf2" type="image">
+     <transform x="-40.75" y="37.3" skX="0" skY="0" scX="1" scY="1" pX="43" pY="41"/>
+    </display>
+   </slot>
+   <slot name="d_d_bf1" parent="d_d_bf1" z="5">
+    <display name="d_bf1" type="image">
+     <transform x="-40.35" y="35.4" skX="0" skY="0" scX="1" scY="1" pX="44" pY="41"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="unnamed" fadeInTime="0" duration="10" scale="1" loop="0" autoTween="0" tweenEasing="NaN">
+   <timeline name="d_d_bf1_1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="5">
+     <transform x="48.8" y="-49.95" skX="-15.47" skY="-15.47" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="44.85" y="-43.65" skX="-15.48" skY="-15.47" scX="0.91" scY="0.94" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="48.8" y="-49.95" skX="-15.47" skY="-15.47" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_bf5" scale="1" offset="0">
+    <frame duration="8" displayIndex="-1"/>
+    <frame z="1" duration="2">
+     <transform x="22.55" y="-38.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="d_d_bf4" scale="1" offset="0">
+    <frame duration="6" displayIndex="-1"/>
+    <frame z="2" duration="2">
+     <transform x="19.3" y="-38.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="2" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_bf3" scale="1" offset="0">
+    <frame duration="4" displayIndex="-1"/>
+    <frame z="3" duration="2">
+     <transform x="19.65" y="-37.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="4" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_bf2" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="4" duration="2">
+     <transform x="23.85" y="-42.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="6" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_bf1" scale="1" offset="0">
+    <frame z="5" duration="2">
+     <transform x="23.85" y="-40.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="8" displayIndex="-1"/>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="d_zhua1">
+  <bone name="d_d_qie1">
+   <transform x="-60.15" y="17.55" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_qie2">
+   <transform x="-38.35" y="11.25" skX="-58.72" skY="-35.95" scX="1.11" scY="1.47"/>
+  </bone>
+  <bone name="d_d_qie3">
+   <transform x="-8.05" y="16.9" skX="-70.08" skY="-44.94" scX="1.29" scY="1.37"/>
+  </bone>
+  <skin name="default">
+   <slot name="d_d_qie1" parent="d_d_qie1" z="0">
+    <display name="d_qie1" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="165.9" pY="113.2"/>
+    </display>
+   </slot>
+   <slot name="d_d_qie2" parent="d_d_qie2" z="1">
+    <display name="d_qie2" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="149.55" pY="103.3"/>
+    </display>
+   </slot>
+   <slot name="d_d_qie3" parent="d_d_qie3" z="2">
+    <display name="d_qie3" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="130.6" pY="93.4"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="unnamed" fadeInTime="0" duration="5" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="d_d_qie1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="-60.15" y="17.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="-60.15" y="17.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="55" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="3" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_qie2" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="-38.35" y="11.25" skX="-58.72" skY="-35.95" scX="1.11" scY="1.47" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="-38.35" y="11.25" skX="-58.72" skY="-35.95" scX="1.11" scY="1.47" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="55" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="2" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_qie3" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="2" tweenEasing="0" duration="2">
+     <transform x="-8.05" y="16.9" skX="-70.08" skY="-44.94" scX="1.29" scY="1.37" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="1">
+     <transform x="-8.05" y="16.9" skX="-70.08" skY="-44.94" scX="1.45" scY="1.54" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="29" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="d_zhua2">
+  <bone name="d_d_qie6">
+   <transform x="0.7" y="-8" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_qie7">
+   <transform x="-32.85" y="-34.15" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_qie8">
+   <transform x="-57.85" y="-71.65" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="d_d_qie6" parent="d_d_qie6" z="0">
+    <display name="d_qie6" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="189.5" pY="165"/>
+    </display>
+   </slot>
+   <slot name="d_d_qie7" parent="d_d_qie7" z="1">
+    <display name="d_qie7" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="205" pY="121.5"/>
+    </display>
+   </slot>
+   <slot name="d_d_qie8" parent="d_d_qie8" z="2">
+    <display name="d_qie8" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="180" pY="84"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="unnamed" fadeInTime="0" duration="8" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="d_d_qie6" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="0.7" y="-8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="0.7" y="-8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="54" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="5" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_qie7" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="-32.85" y="-34.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="-32.85" y="-34.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="54" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="3" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_qie8" scale="1" offset="0">
+    <frame duration="4" displayIndex="-1"/>
+    <frame z="2" tweenEasing="0" duration="3">
+     <transform x="-57.85" y="-71.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="1">
+     <transform x="-57.85" y="-71.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="21" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="d_zhua3">
+  <bone name="d_d_qie9">
+   <transform x="-3.05" y="-2.55" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_qie10">
+   <transform x="-6.55" y="-4.85" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_qie11">
+   <transform x="-6.75" y="-0.7" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_qie12">
+   <transform x="-2.5" y="-1.7" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="d_d_qie9" parent="d_d_qie9" z="0">
+    <display name="d_qie9" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="56.5" pY="65.5"/>
+    </display>
+   </slot>
+   <slot name="d_d_qie10" parent="d_d_qie10" z="1">
+    <display name="d_qie10" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="53" pY="72"/>
+    </display>
+   </slot>
+   <slot name="d_d_qie11" parent="d_d_qie11" z="2">
+    <display name="d_qie11" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="47.5" pY="61"/>
+    </display>
+   </slot>
+   <slot name="d_d_qie12" parent="d_d_qie12" z="3">
+    <display name="d_qie12" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="39" pY="43"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="unnamed" fadeInTime="0" duration="10" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="d_d_qie9" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="-3.05" y="-2.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="-3.05" y="-2.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="54" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_qie10" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="-6.55" y="-4.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="-6.55" y="-4.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="54" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="5" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_qie11" scale="1" offset="0">
+    <frame duration="4" displayIndex="-1"/>
+    <frame z="2" tweenEasing="0" duration="2">
+     <transform x="-6.75" y="-0.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="1">
+     <transform x="-6.75" y="-0.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="54" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="3" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_qie12" scale="1" offset="0">
+    <frame duration="6" displayIndex="-1"/>
+    <frame z="3" tweenEasing="0" duration="3">
+     <transform x="-2.5" y="-1.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="1">
+     <transform x="-2.5" y="-1.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="21" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="d_zhua4">
+  <bone name="d_d_qie9_1">
+   <transform x="-9" y="-27.75" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_qie10_1">
+   <transform x="-0.65" y="-58.75" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_qie11_1">
+   <transform x="6.35" y="-93.25" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d_d_qie12_1">
+   <transform x="8.5" y="-88.05" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="d_d_qie9_1" parent="d_d_qie9_1" z="0">
+    <display name="d_qie9_1" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="115.5" pY="101"/>
+    </display>
+   </slot>
+   <slot name="d_d_qie10_1" parent="d_d_qie10_1" z="1">
+    <display name="d_qie10_1" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="134.5" pY="127.5"/>
+    </display>
+   </slot>
+   <slot name="d_d_qie11_1" parent="d_d_qie11_1" z="2">
+    <display name="d_qie11_1" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="127.5" pY="162"/>
+    </display>
+   </slot>
+   <slot name="d_d_qie12_1" parent="d_d_qie12_1" z="3">
+    <display name="d_qie12_1" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="124.5" pY="145"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="unnamed" fadeInTime="0" duration="10" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="d_d_qie9_1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="-9" y="-27.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="-9" y="-27.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="56" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_qie10_1" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="-0.65" y="-58.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="-0.65" y="-58.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="56" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="5" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_qie11_1" scale="1" offset="0">
+    <frame duration="4" displayIndex="-1"/>
+    <frame z="2" tweenEasing="0" duration="2">
+     <transform x="6.35" y="-93.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="1">
+     <transform x="6.35" y="-93.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="56" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="3" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d_d_qie12_1" scale="1" offset="0">
+    <frame duration="6" displayIndex="-1"/>
+    <frame z="3" tweenEasing="0" duration="3">
+     <transform x="8.5" y="-88.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="1">
+     <transform x="8.5" y="-88.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="22" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

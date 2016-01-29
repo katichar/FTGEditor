@@ -1,0 +1,12 @@
+<TextureAtlas name="10101" imagePath="10101.png">
+ <SubTexture name="dr7" x="0" y="98" width="52" height="65"/>
+ <SubTexture name="dr5" x="138" y="130" width="57" height="46"/>
+ <SubTexture name="dr8" x="90" y="0" width="57" height="76"/>
+ <SubTexture name="dr3" x="210" y="0" width="38" height="65"/>
+ <SubTexture name="dr4_1" x="54" y="155" width="57" height="44"/>
+ <SubTexture name="dr4" x="0" y="0" width="88" height="96"/>
+ <SubTexture name="dr2" x="149" y="65" width="59" height="63"/>
+ <SubTexture name="dr6" x="90" y="78" width="46" height="75"/>
+ <SubTexture name="dr1" x="197" y="130" width="57" height="46"/>
+ <SubTexture name="dr2.1" x="149" y="0" width="59" height="63"/>
+</TextureAtlas>

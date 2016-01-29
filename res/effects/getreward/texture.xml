@@ -1,0 +1,4 @@
+<TextureAtlas name="gongxihuode" imagePath="texture.png">
+ <SubTexture name="gongxihuodedi" x="0" y="0" width="445" height="124"/>
+ <SubTexture name="gongjihuode01" x="447" y="0" width="40" height="43"/>
+</TextureAtlas>

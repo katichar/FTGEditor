@@ -1,0 +1,7 @@
+<TextureAtlas name="faguangtexiao" imagePath="effects_lvlup.png">
+ <SubTexture name="sjfaguang2" x="0" y="285" width="161" height="194"/>
+ <SubTexture name="sjfaguang1" x="163" y="285" width="157" height="96"/>
+ <SubTexture name="shengjiguang4" x="322" y="285" width="159" height="38"/>
+ <SubTexture name="shengjiliang" x="322" y="325" width="159" height="38"/>
+ <SubTexture name="xingxing" x="0" y="0" width="367" height="283"/>
+</TextureAtlas>
